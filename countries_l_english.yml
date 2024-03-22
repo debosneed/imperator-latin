@@ -1,11 +1,11 @@
-﻿l_english:
+l_english:
  ######COUNTRIES######:0 ""
  REB:0 "Rebellēs"
  REB_ADJ:0 "Rebellium"
  BAR:0 "Barbarī"
  BAR_ADJ:0 "Barbarōrum"
  MER:0 "Mercēnāriī"
- MER_ADJ:0 "Mercēnāriōrum 	"
+ MER_ADJ:0 "Mercēnāriōrum"
  #:0 ""
  # Barbarian Names below..:0 ""
  #:0 ""
@@ -55,7 +55,7 @@
  SUGAMBRI_ADJ:0 "Sugambrōrum"
  TENCTERI:1 "Tenctērī"
  TENCTERI_ADJ:0 "Tenctērōrum"
- TEUTONES:1 "Teutonī "
+ TEUTONES:1 "Teutonī"
  TEUTONES_ADJ:0 "Teutonōrum"
  UBII:1 "Ubiī"
  UBII_ADJ:0 "Ubiōrum"
@@ -1447,8 +1447,8 @@
  VRI_ADJ:0 "Varinian"
  LGI:0 "Lugia"
  LGI_ADJ:0 "Lugian"
- ANG:0 "Anglia"
- ANG_ADJ:0 "Anglian"
+ ANG:0 "Angliī"
+ ANG_ADJ:0 "Angliōrum"
  AES:2 "Galindia"
  AES_ADJ:1 "Galindian"
  ###Bactria
