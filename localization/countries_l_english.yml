@@ -1,4 +1,3 @@
-Biturigēs:
  ######COUNTRIES######:0 ""
  REB:0 "Rebellēs"
  REB_ADJ:0 "Rebellium"
@@ -90,7 +89,8 @@ Biturigēs:
  DAGUTENES:0 "Dagutēnī"
  DAGUTENES_ADJ:0 "Dāgutenōrum"
  INOVANTENES:0 "Inovantēnī"
- INOVANTENES_ADJ:0 "Inovantenōrum"       OKONDIANES:0 "Okondiānī"
+ INOVANTENES_ADJ:0 "Inovantenōrum"       
+ OKONDIANES:0 "Okondiānī"
  OKONDIANES_ADJ:0 "Okondianōrum"
  RIGOSAGES:0 "Rigosagēs"
  RIGOSAGES_ADJ:0 "Rigosagum"
