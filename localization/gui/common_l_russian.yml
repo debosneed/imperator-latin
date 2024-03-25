@@ -1,0 +1,8 @@
+﻿l_russian:
+ CLOSE:0 "#T Закрыть#!"
+ BACK:0 "Назад"
+ TOP_BAR_VERSION:2 "Версия exe в Git: $BuildRevision$\n$VersionNumber$ ($VersionName$)\nКонтрольная сумма сетевой игры: $MPChecksum$\n$RandomLogInfo$ $BuildRevisionTime$"
+ TOP_BAR_VERSION_LIVE:1 "Версия: $VersionNumber$ ($VersionName$) \nКонтрольная сумма сетевой игры: $MPChecksum$"
+ OK_BUTTON:0 "OK"
+ CANCEL_BUTTON:0 "Отменить"
+ 

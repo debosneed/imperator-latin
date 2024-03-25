@@ -1,0 +1,20 @@
+﻿l_spanish:
+ NEW_GAME:0 "Nueva partida"
+ LOAD:0 "Cargar"
+ CONTINUE:0 "Continuar"
+ HOST_GAME:0 "Ser anfitrión de la partida"
+ SCAN_FOR_GAME:0 "Buscar partidas"
+ LOAD_AND_HOST_GAME:0 "Cargar partida multijugador"
+ JOIN:0 "Unirse"
+ SINGLE_PLAYER:0 "Un jugador" # [LocEditor:AwaitingBatchUpdate]
+ MULTI_PLAYER:0 "Multijugador"
+ SETTINGS_FRONTEND:0 "Configuración"
+ OPTIONS:0 "Opciones"
+ CREDITS:0 "Créditos"
+ EXIT_FRONTEND:0 "Salir"
+ QUIT:0 "Salir"
+ LOBBY_LABEL_RULER:0 "Gobernante"
+ LOBBY_LABEL_POPULATION:0 "Población"
+ LOBBY_LABEL_DIPLOMACY:0 "Diplomacia"
+ MULTIPLAYER_GUI_SEARCH_FOR_SERVER_PROMPT:0 "Buscar un servidor..."
+

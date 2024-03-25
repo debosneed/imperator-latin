@@ -1,0 +1,8 @@
+﻿l_simp_chinese:
+ CLOSE:0 "#T 关闭#!"
+ BACK:0 "返回"
+ TOP_BAR_VERSION:2 "可执行文件 Git 版本：$BuildRevision$\n$VersionNumber$（$VersionName$）\n主程序校验码：$MPChecksum$\n$RandomLogInfo$ $BuildRevisionTime$"
+ TOP_BAR_VERSION_LIVE:1 "版本：$VersionNumber$（$VersionName$）\n主程序校验码：$MPChecksum$"
+ OK_BUTTON:0 "好的"
+ CANCEL_BUTTON:0 "取消"
+ 
