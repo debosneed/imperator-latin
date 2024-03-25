@@ -67,7 +67,7 @@ fontfiles = {
 
     group = {
         languages = { "l_english" "l_french" "l_german" "l_spanish" "l_simp_chinese" }
-        files = { "fonts/0480_vergilius_romanus.otf" "fonts/Brill-Bold.ttf" "fonts/Cinzel-Bold.ttf" "fonts/NotoSansCJKsc-Regular.otf" "fonts/LusitanaCyr-Regular.ttf" }
+        files = { "fonts/0550_uncialis.otf" "fonts/Brill-Bold.ttf" "fonts/Cinzel-Bold.ttf" "fonts/NotoSansCJKsc-Regular.otf" "fonts/LusitanaCyr-Regular.ttf" }
     }
 
     group = {
