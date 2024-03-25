@@ -1,0 +1,8 @@
+﻿l_french:
+ CLOSE:0 "#T Fermer#!"
+ BACK:0 "Retour"
+ TOP_BAR_VERSION:2 "Version .exe Git : $BuildRevision$ \n$VersionNumber$ ($VersionName$)\nChecksum MP : $MPChecksum$\n$RandomLogInfo$ $BuildRevisionTime$"
+ TOP_BAR_VERSION_LIVE:1 "Version : $VersionNumber$ ($VersionName$)\nChecksum MP : $MPChecksum$"
+ OK_BUTTON:0 "D'accord"
+ CANCEL_BUTTON:0 "Annuler"
+ 
