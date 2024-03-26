@@ -1,0 +1,50 @@
+﻿l_french:
+  ## Generic ##
+ deity_shiva:0 "$omen_shiva$"
+ omen_shiva:0 "Shiva" # [LocEditor:AwaitingBatchUpdate]
+ omen_shiva_desc:0 "Nous devons élever nos prières à Shiva, dans l'espoir qu'il guide nos hommes au combat et assure leur moral. Et lorsque la résolution et la discipline des troupes seront ainsi renforcées, nous serons assurés de nombreuses victoires au cours des années à venir." # [LocEditor:AwaitingBatchUpdate]
+ deity_prajapati:0 "$omen_prajapati$"
+ omen_prajapati:0 "Prajapati" # [LocEditor:AwaitingBatchUpdate]
+ omen_prajapati_desc:0 "Nous devons espérer que Prajapati inspirera et veillera sur nos jeunes hommes, alors qu'ils se préparent à donner leur vie pour notre peuple. Mais une fois qu'ils auront renforcé les rangs de nos armées, jamais plus nous ne pourrons dire que nous manquons d'hommes pour combattre." # [LocEditor:AwaitingBatchUpdate]
+ deity_saraswati:0 "$omen_saraswati$"
+ omen_saraswati:0 "Sarasvati" # [LocEditor:AwaitingBatchUpdate]
+ omen_saraswati_desc:0 "Les lettrés, les savants et les artistes ont tant à apprendre de Sarasvati. Espérons qu'elle regardera avec faveur notre peuple et nous accordera son savoir. Avec ce don, nous serons assurés de voir se répandre parmi nous de véritables merveilles de technologie, dont pourra bénéficier l'ensemble de la population." # [LocEditor:AwaitingBatchUpdate]
+ deity_kubera:0 "$omen_kubera$"
+ omen_kubera:0 "Kubera" # [LocEditor:AwaitingBatchUpdate]
+ omen_kubera_desc:0 "Nous devons demander à Kubera son aide pour amasser autant de richesses que possible. Car, après tout, quelle autre divinité pourrait ainsi nous aider dans une telle entreprise ?" # [LocEditor:AwaitingBatchUpdate]
+ deity_brahma:0 "$omen_brahma$"
+ omen_brahma:0 "Brahma" # [LocEditor:AwaitingBatchUpdate]
+ omen_brahma_desc:0 "Les vérités universelles de Brahma guident le peuple tandis qu'il s'étend dans tous les territoires. Avec lui à nos côtés, nos ennemis connaîtront l'opposition et l'adversité, tout pendant que nos propres hommes se prépareront une fois encore pour la bataille contre eux." # [LocEditor:AwaitingBatchUpdate]
+ deity_samudra:0 "$omen_samudra$"
+ omen_samudra:0 "Samudradeva" # [LocEditor:AwaitingBatchUpdate]
+ omen_samudra_desc:0 "Nous devons demander au grand dieu son secours et sa protection pour nos marchands et négociants alors qu'ils font voile sur les océans lointains pour faire fortune. Et lorsqu'ils auront ramené au pays ces richesses, nous pourrons établir de nouveaux réseaux d'échange, le long desquels notre influence pourra s'étendre." # [LocEditor:AwaitingBatchUpdate]
+ deity_vishnu:0 "$omen_vishnu$"
+ omen_vishnu:0 "Vishnou" # [LocEditor:AwaitingBatchUpdate]
+ omen_vishnu_desc:0 "Des prières doivent être offertes à Vishnou, car il est celui qui veille sur notre peuple, guidant ceux qui sont perdus et protégeant ceux qui sont confrontés à la peine et aux difficultés. Grâce à lui, le pays sera plus sûr et plus loyal que jamais, ce qui nous permettra d'accorder toute notre attention et nos ressources à la lutte contre nos ennemis plutôt qu'à nous déchirer nous-mêmes." # [LocEditor:AwaitingBatchUpdate]
+ deity_indra:0 "$omen_indra$"
+ omen_indra:0 "Indra" # [LocEditor:AwaitingBatchUpdate]
+ omen_indra_desc:0 "C'est à Indra qu'il convient de s'adresser pour ce qui concerne l'eau et les pluies, nécessaires à la vie et aux récoltes. Car si les moissons sont protégées et abondantes, alors la prospérité de notre peuple sera assurée." # [LocEditor:AwaitingBatchUpdate]
+ deity_soma:0 "$omen_soma$"
+ omen_soma:0 "Soma"
+ omen_soma_desc:0 "La belle et brillante préside le ciel nocturne et apportera santé et bonheur à nos gens même pendant leur sommeil.\nL'ancien temple de Prabhasa marque l'endroit où le dieu lunaire s'est baigné pour retrouver son éclat après une malédiction, créant les cycles de la lune." # [LocEditor:AwaitingBatchUpdate]
+ deity_kanya_devi:0 "$omen_kanya_devi$"
+ omen_kanya_devi:0 "Kanya Devi"
+ omen_kanya_devi_desc:0 "La déesse adolescente du repentir et de la virginité a tempéré les passions de notre peuple et les a conduits au renoncement divin et à la tranquillité.\nKanya Devi est l'incarnation de la déesse Parvati, et depuis ses premiers temps, elle était adorée à la pointe sud du sous-continent indien." # [LocEditor:AwaitingBatchUpdate]
+ deity_samba:0 "$omen_samba$"
+ omen_samba:0 "Samba"
+ omen_samba_desc:0 "Le fils espiègle de Krishna, accordé en échange de la pénitence, rappelle les dangers de la débauche et de la passion, provoquant la destruction de la dynastie Yavada et les blessures de son père.\nSamba a construit le grand temple du soleil de Mulasthanapura où il a adoré pendant douze ans pour racheter sa malédiction de la lèpre." # [LocEditor:AwaitingBatchUpdate]
+ deity_krishna:0 "$omen_krishna$"
+ omen_krishna:0 "Krishna"
+ omen_krishna_desc:0 "L'avatar des huit sombres de Vishnu bénira notre peuple d'amour et de compassion et le conduira sur le chemin de la sainteté.\nKrishna est l'une des principales divinités hindoues et a été nommée site indien sacré de Dvaraka." # [LocEditor:AwaitingBatchUpdate]
+ deity_vishwanath:0 "$omen_vishwanath$"
+ omen_vishwanath:0 "Vishweshwara"
+ omen_vishwanath_desc:0 "Le seigneur de l'univers veillera sur notre peuple et le délivrera des maux du monde.\nLe temple de Vishweshwara, l'une des formes de Shiva, se trouve sur le Gange et est parmi les endroits les plus sacrés de l'hindouisme." # [LocEditor:AwaitingBatchUpdate]
+ deity_rama:0 "$omen_rama$"
+ omen_rama:0 "Rama"
+ omen_rama_desc:0 "Le héros Ramachandra, avatar de Vishnu, inspirera à notre peuple les récits épiques de ses exploits et de ses actes moraux.\nLe Ramayana raconte sa construction du pont vers l'île Lanka pour sauver sa femme Sita du démon Ravana." # [LocEditor:AwaitingBatchUpdate]
+ deity_lakshmi:0 "$omen_lakshmi$"
+ omen_lakshmi:0 "Lakshmi"
+ omen_lakshmi_desc:0 "La déesse des objectifs guidera notre peuple vers la connaissance divine, la richesse en toutes choses et la patience nécessaire pour les atteindre." # [LocEditor:AwaitingBatchUpdate]
+ deity_bhrigu:0 "$omen_bhrigu$"
+ omen_bhrigu:0 "Bhrigu"
+ omen_bhrigu_desc:0 "Le grand sage, engendré par Brahma, est l'un des plus sages à avoir jamais vécu, et leur apprentissage a fait de grands progrès dans toute l'Inde.\nL'importance du sage Bhrigu a surpassé même Lakshmi, la remplaçant comme l'objet principal des pèlerinages à Barygaza." # [LocEditor:AwaitingBatchUpdate]

@@ -1,0 +1,26 @@
+﻿l_french:
+ ## Generic ##
+ deity_medeine:0 "$omen_medeine$"
+ omen_medeine:0 "Medeina" # [LocEditor:AwaitingBatchUpdate]
+ omen_medeine_desc:0 "Medeina est connue comme la protectrice de tout ce qui se rapporte à la chasse, aux forêts et à la vie sauvage. Les guerriers en appellent souvent à elle lorsqu'ils quittent leurs foyers, que ce soit simplement pour trouver de quoi manger dans la forêt, ou pour les aider à protéger son domaine lorsqu'ils doivent combattre." # [LocEditor:AwaitingBatchUpdate]
+ deity_mother_goddess:0 "$omen_mother_goddess$"
+ omen_mother_goddess:2 "Déesse-Mère"
+ omen_mother_goddess_desc:4 "La Déesse-Mère est la quintessence de notre panthéon : elle est tout à la fois cette terre sur laquelle nous vivons, ainsi que la progénitrice de nos tribus. Le peuple s'adresse à elle pour bénéficier de ses conseils, de sa protection et de son soutien, dans l'espoir de bénéficier de son aide et de belles moissons."
+ deity_perkunas:0 "$omen_perkunas$"
+ omen_perkunas:2 "Perkunas"
+ omen_perkunas_desc:4 "Le courage, le ciel et le feu relèvent du domaine de Perkunas. Il est une inspiration pour les héros et les guerriers, grâce aux nombreux récits qui chantent ses hauts faits. Les autres divinités du panthéon le considèrent comme un juge et l'arbitre de leurs querelles, et tous louent la sagesse de ses décisions."
+ deity_divine_twins:0 "$omen_divine_twins$"
+ omen_divine_twins:0 "Les jumeaux divins" # [LocEditor:AwaitingBatchUpdate]
+ omen_divine_twins_desc:0 "Les jumeaux divins tirent le char de Saulia à travers le ciel, lorsque le matin devient le jour, et que le jour devient la nuit. Ils jouent donc un grand rôle dans notre cosmologie et sont les protecteurs de nos maisons et de notre peuple." # [LocEditor:AwaitingBatchUpdate]
+ deity_deivas:0 "$omen_deivas$"
+ omen_deivas:0 "Deivas" # [LocEditor:AwaitingBatchUpdate]
+ omen_deivas_desc:0 "Deivas est l'un des dieux principaux de notre panthéon, le Père Ciel qui transmit ses devoirs à ceux qui sont venus après lui. Progéniteur de tous, nous continuons de le prier pour qu'il nous accorde secours et conseils, car il reste le dieu le plus puissant de tous." # [LocEditor:AwaitingBatchUpdate]
+ deity_governing_goddesses:0 "$omen_governing_goddesses$"
+ omen_governing_goddesses:0 "Les déesses gouvernantes" # [LocEditor:AwaitingBatchUpdate]
+ omen_governing_goddesses_desc:0 "On dit que les sept déesses gouvernantes façonnent la destinée elle-même : en filant les fils de la vie, en unissant dans leurs tissages la paix et la guerre, formant ainsi le destin de notre peuple. C'est vers elles que nous nous tournons pour connaître l'avenir et nous assurer que tout ira pour le mieux." # [LocEditor:AwaitingBatchUpdate]
+ deity_televelis:0 "$omen_televelis$"
+ omen_televelis:0 "Televelis" # [LocEditor:AwaitingBatchUpdate]
+ omen_televelis_desc:0 "Televelis est le protecteur des forgerons et des artisans, ceux qui fabriquent les plus beaux objets et les armes les plus mortelles que quiconque puisse imaginer. Les récits disent que c'est lui qui a jadis fabriqué le soleil, Saulia, avant de la jeter dans le ciel pour éclairer le monde." # [LocEditor:AwaitingBatchUpdate]
+ deity_saulia:0 "$omen_saulia$"
+ omen_saulia:0 "Saulia" # [LocEditor:AwaitingBatchUpdate]
+ omen_saulia_desc:0 "Saulia éclaire le monde en parcourant le ciel. Autrefois épouse du dieu lune, Menuo, tous deux se sont séparés il y a bien longtemps, donnant ainsi naissance au jour et à la nuit tels que nous les connaissons. Chaque jour, les jumeaux divins la tirent à travers le ciel et lui permettent de rendre visite à ses filles." # [LocEditor:AwaitingBatchUpdate]

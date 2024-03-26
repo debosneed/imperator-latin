@@ -1,0 +1,41 @@
+﻿l_french:
+  ## Default ##
+ deity_viriya_parami:0 "$omen_viriya_parami$"
+ omen_viriya_parami:0 "Viriya parami"
+ omen_viriya_parami_desc:0 "Notre peuple trouvera au combat la vigueur, la puissance et la diligence. Car si la bataille n'est pas recommandée en elle-même, il est parfois indispensable de lutter pour l'intérêt commun, et il est important de le faire avec honneur et discipline.\n\nLa viriya est l'une des perfections du bouddhisme, qui comprend notamment le sens de l'enseignement au peuple de l'effort, de l'observance et de la persévérance dans ses tâches." # [LocEditor:AwaitingBatchUpdate]
+ deity_adhitthana_parami:0 "$omen_adhitthana_parami$"
+ omen_adhitthana_parami:0 "Adhitthana parami"
+ omen_adhitthana_parami_desc:0 "S'il est normal de s'inquiéter face à l'adversité, nous devons inspirer la détermination chez nos jeunes en ces temps d'épreuve. Il est crucial pour la communauté de se rassembler et d'unir ses efforts afin d'atteindre son but, que ce soit à la guerre ou pour tout autre projet.\n\nL'adhitthana est l'une des perfections du bouddhisme, qui comprend notamment le sens de l'enseignement au peuple de la résolution et de la détermination dans ses actes." # [LocEditor:AwaitingBatchUpdate]
+ deity_panna_parami:0 "$omen_panna_parami$"
+ omen_panna_parami:0 "Pañña parami"
+ omen_panna_parami_desc:0 "Les sages et les lettrés, comme tous au sein du peuple, doivent trouver la sagesse et l'entendement au cours de leur vie. Avec ce savoir, nous serons plus au fait pour prendre des décisions qui seront bénéfiques pour le pays.\n\nLa pañña est l'une des perfections du bouddhisme, qui comprend notamment le sens de l'enseignement au peuple de la sagesse et du savoir pour parvenir à s'élever et se libérer." # [LocEditor:AwaitingBatchUpdate]
+ deity_dana_parami:0 "$omen_dana_parami$"
+ omen_dana_parami:0 "Dana parami"
+ omen_dana_parami_desc:0 "Il est important que chacun au sein de la société œuvre au salut de tous. Ensemble, nous pouvons créer quelque chose qui nous dépasse tous, dès lors que chacun est prêt à céder une partie de son bien. La générosité est un concept essentiel pour trouver son moi véritable, en laissant derrière soi le bien-être matériel.\n\nLa dana est l'une des perfections du bouddhisme, qui comprend notamment le sens de l'enseignement au peuple de la charité et du don, aussi bien matériel que spirituel." # [LocEditor:AwaitingBatchUpdate]
+ deity_upekkha_parami:0 "$omen_upekkha_parami$"
+ omen_upekkha_parami:0 "Upekkha parami"
+ omen_upekkha_parami_desc:0 "Nous devons rester calmes et sereins alors que le chaos de la guerre se déchaîne autour de nous, afin de trouver le chemin que doit emprunter notre peuple. Même dans les épreuves du combat et de la lassitude, il est crucial que la société parvienne à trouver un accord sur l'intérêt de la communauté, que ce soit en continuant la guerre ou en déposant les armes.\n\nL'upekkha est l'une des perfections du bouddhisme, qui comprend notamment le sens de l'enseignement au peuple de la sérénité et de la pureté de l'esprit." # [LocEditor:AwaitingBatchUpdate]
+ deity_khanti_parami:0 "$omen_khanti_parami$"
+ omen_khanti_parami:0 "Khanti parami"
+ omen_khanti_parami_desc:0 "Le peuple doit apprendre à endurer les épreuves, à pardonner et à éprouver de la patience envers quiconque vient de loin. Ce n'est qu'alors que nous pourrons apprendre leurs secrets et accepter leurs différences, plutôt qu'en les affrontant ou les jugeant. En les comprenant, nous pourrons trouver quelque mérite à leur compagnie, et attirer à nous l'aisance.\n\nLa khanti est l'une des perfections du bouddhisme, qui comprend notamment le sens de l'enseignement au peuple de la patience, de la tolérance et de l'ouverture des autres." # [LocEditor:AwaitingBatchUpdate]
+ deity_sila_parami:0 "$omen_sila_parami$"
+ omen_sila_parami:0 "Sila parami"
+ omen_sila_parami_desc:0 "Nous devons inspirer au peuple la voie droite pour aller de l'avant, par la vertu et la conduite exemplaire. En agissant de cette manière, le peuple pourra se rassembler au sein de communautés plus vastes, qui pourront coopérer et travailler de concert.\n\nLa sila est l'une des perfections du bouddhisme, qui comprend notamment le sens de l'enseignement au peuple de la vertu, de l'harmonie et de la mesure." # [LocEditor:AwaitingBatchUpdate]
+ deity_metta_parami:0 "$omen_metta_parami$"
+ omen_metta_parami:0 "Metta parami"
+ omen_metta_parami_desc:0 "C'est là notre but que d'être célèbres pour nos mœurs accueillantes et chaleureuses. Autant notre peuple que nos cultures doivent croître et grandir pour dépasser leurs limites actuelles.\n\nLa metta est l'une des perfections du bouddhisme, qui comprend notamment le sens de l'enseignement au peuple de la bienveillance et de la fraternité." # [LocEditor:AwaitingBatchUpdate]
+ deity_trapusa_and_bahalika:0 "$omen_trapusa_and_bahalika$"
+ omen_trapusa_and_bahalika:0 "Tarpusa et Bahlika"
+ omen_trapusa_and_bahalika_desc:0 "Les premiers disciples laïcs de Bouddha, les marchands Trapusa et Bahalika, ont apporté ses enseignements au-dessus de l'Hindu Kush et à l'ouest où ils ont construit le premier stupa à Baktra.\nIls représentent la sagesse universelle de ses enseignements à travers le monde, et la facilité justificative avec laquelle ils se propagent." # [LocEditor:AwaitingBatchUpdate]
+ deity_sigiriya:0 "$omen_sigiriya$"
+ omen_sigiriya:0 "Ascétisme du Bouddha"
+ omen_sigiriya_desc:0 "Alors que Bouddha a considéré l'ascétisme extrême comme un affaiblissement au point de perdre de vue le monde, la paix et le calme sont nécessaires pour contempler ses enseignements.\nLe grand rocher de Sigiraya abrite des moines bouddhistes à la recherche de nirvana dans ses grottes depuis de nombreuses années." # [LocEditor:AwaitingBatchUpdate]
+ deity_bamyan:0 "$omen_bamyan$"
+ omen_bamyan:0 "Errances de Bouddha"
+ omen_bamyan_desc:0 "Le Bouddha était généreux dans ses enseignements, errant à travers le pays pour répandre sa sagesse divine avec le peuple.\nLes stupas des monastères loin du lieu de naissance de Bouddha témoignent de la tradition de diffusion de ses enseignements." # [LocEditor:AwaitingBatchUpdate]
+ deity_bodh:0 "$omen_bodh$"
+ omen_bodh:0 "Lumières de Bouddha"
+ omen_bodh_desc:0 "Les sages enseignements de Bouddha guideront notre peuple à vivre une vie éthique et agréable, à l'abri des distractions et des doctrines erronées d'autres confessions.\nLa ville de Gaya est connue comme le lieu où le Bouddha Gautama a atteint l'illumination sous l'arbre Bodhi sur le Bouddha Purnima après avoir renoncé à la fois au luxe et à l'ascétisme, développant la voie du milieu." # [LocEditor:AwaitingBatchUpdate]
+ deity_kusinagara:0 "$omen_kusinagara$"
+ omen_kusinagara:0 "Parinirvana de Bouddha"
+ omen_kusinagara_desc:0 "Ce n'est qu'en suivant le mode de vie sage et saint de Gautama Bouddha que l'on peut atteindre Parinirvana et être libéré de la punition du cycle éternel de la réincarnation.\nBouddha a atteint cet état à sa mort dans la ville de Kusinagara, qui est devenue un lieu de pèlerinage pour tous ceux qui voient la vérité de ses enseignements." # [LocEditor:AwaitingBatchUpdate]

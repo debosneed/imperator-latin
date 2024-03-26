@@ -1,0 +1,50 @@
+﻿l_french:
+ ## Generic Deities ##
+ deity_theispas:0 "$omen_theispas$"
+ omen_theispas:0 "Teisheba" # [LocEditor:AwaitingBatchUpdate]
+ omen_theispas_desc:0 "Les troupes seront inspirées par Teisheba lui-même, qui leur insufflera par la puissance de ses tempêtes la discipline et la résolution. Et tandis que les troupes luttent pour affirmer notre suprématie sur nos ennemis, nous sommes assurés de remporter davantage de victoires encore que par le passé." # [LocEditor:AwaitingBatchUpdate]
+ deity_shivini:0 "$omen_shivini$"
+ omen_shivini:0 "Shiwini" # [LocEditor:AwaitingBatchUpdate]
+ omen_shivini_desc:0 "Tous les jeunes hommes se rassembleront sous nos bannières lorsque nous en appellerons à Shiwini pour qu'il illumine nos armées de sa lumière. Les rangs bien fournis, nous serons assurés de disposer de tous les effectifs nécessaires pour mener les guerres des années à venir." # [LocEditor:AwaitingBatchUpdate]
+ deity_arubani:0 "$omen_arubani$"
+ omen_arubani:0 "Arubani" # [LocEditor:AwaitingBatchUpdate]
+ omen_arubani_desc:0 "La parèdre du dieu souverain apportera la lumière sur le chemin des savants et des sages en quête de sagesse. Et lorsqu'ils amèneront au pays ce don de la connaissance, ils seront assurés de pouvoir œuvrer à faire découvrir bien des novations technologiques que le peuple a tant attendues." # [LocEditor:AwaitingBatchUpdate]
+ deity_epaninaue:0 "$omen_epaninaue$"
+ omen_epaninaue:0 "Épaninawé" # [LocEditor:AwaitingBatchUpdate]
+ omen_epaninaue_desc:0 "Nous devons supplier la déesse de la terre de nous accorder de riches métaux et de nous aider à atteindre une plus grande fortune. À mesure que le peuple rassemblera ces richesses, nous serons assurés de la prospérité du pays dans son entièreté." # [LocEditor:AwaitingBatchUpdate]
+ deity_khaldi:0 "$omen_khaldi$"
+ omen_khaldi:0 "Haldi" # [LocEditor:AwaitingBatchUpdate]
+ omen_khaldi_desc:0 "Le dieu suprême, le premier de tous, saura bénir notre peuple à mesure que nous nous répandrons à travers les pays. Avec Haldi lui-même à nos côtés, notre peuple renoncera à tout acte mauvais et reprendra les armes pour défendre le pays une fois encore." # [LocEditor:AwaitingBatchUpdate]
+ deity_dsvininaue:0 "$omen_dsvininaue$"
+ omen_dsvininaue:0 "Dsvininawé" # [LocEditor:AwaitingBatchUpdate]
+ omen_dsvininaue_desc:0 "Nous devons demander à la déesse de la mer et des rivières de protéger les marchands alors qu'ils parcourent le pays pour y accomplir leurs tâches. Avec son secours, nous verrons se développer les talents et les réseaux commerciaux qui amèneront la fortune et la prospérité dans le pays." # [LocEditor:AwaitingBatchUpdate]
+ deity_bagvarti:0 "$omen_bagvarti$"
+ omen_bagvarti:0 "Bagvarti" # [LocEditor:AwaitingBatchUpdate]
+ omen_bagvarti_desc:0 "La parèdre du dieu suprême amènera paix et prospérité sur le pays en apaisant nos conflits. Seuls des fous oseraient s'opposer à la grande Bagvarti et à sa justice, et les fauteurs de troubles poseront leurs armes et renonceront à leurs récriminations à mesure que le pays avancera." # [LocEditor:AwaitingBatchUpdate]
+ deity_huba:0 "$omen_huba$"
+ omen_huba:0 "Huba" # [LocEditor:AwaitingBatchUpdate]
+ omen_huba_desc:0 "La mère de toute vie apportera joie et prospérité au pays, protégeant ses récoltes et assurant des naissances saines. Avec sa bénédiction, nous sommes assurés de voir le terme des années de désolation, et nos jeunes croîtront en force et en vigueur." # [LocEditor:AwaitingBatchUpdate]
+ deity_nane:0 "$omen_nane$"
+ omen_nane:0 "Nane" # [LocEditor:AwaitingBatchUpdate]
+ omen_nane_desc:0 "Nous devons demander à la sage Nane de bénir nos soldats de la discipline au combat, de manière à ce que nous remportions nos guerres et puissions protéger le pays. Avec elle à nos côtés, nous sommes assurés que nos hommes chercheront par tous les moyens à se dépasser." # [LocEditor:AwaitingBatchUpdate]
+ deity_mihr:0 "$omen_mihr$"
+ omen_mihr:0 "Mihr" # [LocEditor:AwaitingBatchUpdate]
+ omen_mihr_desc:0 "Avec la lumière et la vérité à nos côtés, la bénédiction de Mihr inspirera les jeunes hommes pour défendre nos terres face aux armées ennemies. Alors qu'ils se rassembleront sous notre bannière, il y aura plus de recrues que nous n'en avons eu depuis longtemps." # [LocEditor:AwaitingBatchUpdate]
+ deity_tir:0 "$omen_tir$"
+ omen_tir:0 "Tir" # [LocEditor:AwaitingBatchUpdate]
+ omen_tir_desc:0 "Nous devons supplier Tir le mystique d'accorder aux artistes et aux artisans la sagesse et du savoir. Béni de ce don, le pays prospérera comme jamais il ne l'a fait jusqu'à présent." # [LocEditor:AwaitingBatchUpdate]
+ deity_vahagn:0 "$omen_vahagn$"
+ omen_vahagn:0 "Vahagn" # [LocEditor:AwaitingBatchUpdate]
+ omen_vahagn_desc:0 "Nous devons vénérer Vahagn, dans l'espoir qu'il protégera le pays. Sous sa protection, nous pourrons rassembler toutes les richesses de notre peuple et connaître une prospérité inconnue jusqu'à nos jours." # [LocEditor:AwaitingBatchUpdate]
+ deity_aramazd:0 "$omen_aramazd$"
+ omen_aramazd:0 "Aramazd" # [LocEditor:AwaitingBatchUpdate]
+ omen_aramazd_desc:0 "Le grand Aramazd se tiendra aux côtés de notre peuple lorsque nous nous étendrons dans les territoires étrangers, pour la plus grande gloire de nos dieux. Le peuple saura accepter les nécessités de la guerre, car bien peu pourront s'opposer à la volonté divine." # [LocEditor:AwaitingBatchUpdate]
+ deity_tsovinar:0 "$omen_tsovinar$"
+ omen_tsovinar:0 "Tsovinar" # [LocEditor:AwaitingBatchUpdate]
+ omen_tsovinar_desc:0 "Nous devons demander à la féroce Tsovinar de protéger les marchands lorsqu'ils naviguent sur les mers pour assurer la fortune de notre peuple. Et lorsqu'ils ramèneront chez nous les richesses des pays étrangers, le pays sera assuré de vivre dans l'abondance." # [LocEditor:AwaitingBatchUpdate]
+ deity_anahit:0 "$omen_anahit$"
+ omen_anahit:0 "Anahit" # [LocEditor:AwaitingBatchUpdate]
+ omen_anahit_desc:0 "Nous ne pouvons qu'espérer que la douce Anahit assurera de sa protection la jeunesse, car ses fidèles vivent apaisés, certains de savoir que leurs enfants peuvent désormais naître en toute sécurité." # [LocEditor:AwaitingBatchUpdate]
+ deity_spandaremet:0 "$omen_spandaremet$"
+ omen_spandaremet:0 "Spandaramet" # [LocEditor:AwaitingBatchUpdate]
+ omen_spandaremet_desc:0 "Spandaramet redonnera vie et vigueur à nos cultures, assurant la nourriture et les denrées de tout le peuple. En tant que déesse de la mort, nous devons lui demander de nous accorder le répit de sa puissance, de manière à ce que nous puissions à nouveau croître et prospérer." # [LocEditor:AwaitingBatchUpdate]

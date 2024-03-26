@@ -1,0 +1,45 @@
+﻿l_french:
+ deity_osiris:0 "$omen_osiris$"
+ omen_osiris:0 "Osiris" # [LocEditor:AwaitingBatchUpdate]
+ omen_osiris_desc:0 "Osiris a longtemps été l'une des divinités les plus importantes de notre panthéon. Il est appelé « le beau », « le maître de vie », « le seigneur de l'amour », et « le maître des millions d'années », et il préside au monde des morts ainsi qu'à l'au-delà et à la renaissance des mortels.\n\nIl est aussi associé au Nil pourvoyeur de vie, à la moisson et à la vie éternelle. On dit qu'il se lèvera un jour pour emmener avec lui quiconque l'a mérité, qu'il s'agisse d'un simple homme du commun ou d'un pharaon." # [LocEditor:AwaitingBatchUpdate]
+ deity_sekhmet:0 "$omen_sekhmet$"
+ omen_sekhmet:0 "Sekhmet" # [LocEditor:AwaitingBatchUpdate]
+ omen_sekhmet_desc:0 "Sekhmet, la lionne d'Ineb Hedj et de Taremou – ou de Memphis et Léontopolis, comme les appellent les Grecs – est celle qui nous protège lors des guerres, de la chasse et veille à la guérison de nos blessures. Dans les temps anciens elle était souvent considérée comme une déesse majeure par les anciens pharaons, et on dit que c'est elle qui leur ouvrait la route vers la bataille.\n\nSi elle a reçu bien des noms, dont « celle qui rugit » ou « la maîtresse de l'effroi », Sekhmet a été bienveillante pour notre peuple, le protégeant durant des siècles – à tout le moins lorsque nous apaisions son courroux et la persuadions de venir à notre secours." # [LocEditor:AwaitingBatchUpdate]
+ deity_anhur:0 "$omen_anhur$"
+ omen_anhur:0 "Anhur" # [LocEditor:AwaitingBatchUpdate]
+ omen_anhur_desc:0 "Avec sa bénédiction, nos hommes ne montreront pas plus de pitié envers nos ennemis que Celui-qui-massacre-les-ennemis. Il renforcera la discipline des armées et leur permettra d'accéder à la victoire.\n\nAnhur a été le protecteur des armées d'Égypte pendant des siècles, et il personnifie la puissance du pays, ce qui explique que les Grecs l'assimilent à leur propre dieu guerrier Arès." # [LocEditor:AwaitingBatchUpdate]
+ deity_resheph:0 "$omen_resheph$"
+ omen_resheph:0 "Reshep" # [LocEditor:AwaitingBatchUpdate]
+ omen_resheph_desc:0 "Les hommes de tout le pays seront unis par la bénédiction de Reshep. Avec tous ceux qui se rassembleront sous nos bannières, nous sommes assurés de remporter nos guerres et de ne jamais manquer de troupes pour affronter nos ennemis.\n\nSi Reshep est originaire du pays des Cananéens, il a été largement adopté par les Égyptiens. Autrefois dieu des maladies et des épidémies, il est depuis devenu la divinité protectrice des chars et des chevaux." # [LocEditor:AwaitingBatchUpdate]
+ deity_ptah:0 "$omen_ptah$"
+ omen_ptah:0 "Ptah" # [LocEditor:AwaitingBatchUpdate]
+ omen_ptah_desc:0 "Avec Ptah pour guider la main de nos artisans, ceux-ci pourront gagner la sagesse et le savoir auxquels ils n'auraient jamais pu aspirer autrement.\n\nPtah était au départ celui qui avait par sa pensée créé la vie, et donc tous les mortels. Le culte l'honorant est bien connu, et a souvent joué un grand rôle au sein de la famille de Pharaon.\n\nLes Phéniciens et les habitants de Canaan l'appellent Kothar lorsqu'ils le vénèrent dans leurs propres pays." # [LocEditor:AwaitingBatchUpdate]
+ deity_anubis:0 "$omen_anubis$"
+ omen_anubis:0 "Anubis" # [LocEditor:AwaitingBatchUpdate]
+ omen_anubis_desc:0 "Anubis rassemblera la richesse du pays entre nos mains. Avec une prospérité et une abondance nouvelles, le peuple sera assuré de croître et se répandre comme il ne l'a jamais fait jusqu'à présent.\n\nAnubis est celui qui guide les âmes des défunts, de même que le protecteur des tombes et des morts eux-mêmes. Ces derniers temps, certains Macédoniens ont commencé à l'appeler Hermanubis, rapprochant ainsi encore le vénérable Anubis du dieu grec Hermès." # [LocEditor:AwaitingBatchUpdate]
+ deity_amun:0 "$omen_amun$"
+ omen_amun:0 "Amon" # [LocEditor:AwaitingBatchUpdate]
+ omen_amun_desc:0 "Amon bénira et justifiera notre nation de sa présence, nous accordant le droit de nous étendre selon notre volonté. Même ceux qui sont les plus las des combats prolongés seront convaincus de son secours.\n\nAmon est devenu populaire il y a peu, aussi bien parmi les tribus voisines que chez les Grecs de Cyrénaïque et au-delà de la mer. Cela a été d'autant plus visible depuis que le grand conquérant Alexandre a arrêté ses campagnes contre les Perses pour voyager jusqu'à l'oasis de Siwa afin d'y recevoir sa bénédiction.\n\nCertains Macédoniens ont commencé à l'appeler Zeus Ammon, combinant ainsi notre divinité avec la leur." # [LocEditor:AwaitingBatchUpdate]
+ deity_hathor:0 "$omen_hathor$"
+ omen_hathor:0 "Hathor" # [LocEditor:AwaitingBatchUpdate]
+ omen_hathor_desc:0 "La grande déesse du ciel Hathor bénira nos marchands et nos négociants de nombreuses ressources, de marchandises venues de l'étranger et de relations nouvelles et fécondes. Avec ces richesses entre leurs mains, nous pourrons dès lors être assurés qu'ils pourront étendre leurs réseaux et ramener des trésors toujours plus importants au pays.\n\nSi elle vit et réside aussi en des terres étrangères, nous vénérons malgré tout Hathor pour ses conseils. Elle est bien connue comme consort et mère de plusieurs divinités majeures, et est révérée pour ses dons si nombreux : la musique, la danse, la joie, la sexualité, la féminité et la lumière du soleil lui-même.\n\nLes Hellènes la comparent souvent à leur Héra." # [LocEditor:AwaitingBatchUpdate]
+ deity_horus:0 "$omen_horus$"
+ omen_horus:0 "Horus" # [LocEditor:AwaitingBatchUpdate]
+ omen_horus_desc:0 "Horus regarde le peuple pour lui accorder sa bénédiction et la paix enveloppera de nouveau le pays. Avec ce dieu pour nous protéger, seuls les plus intransigeants des fauteurs de troubles persisteront dans leurs manières.\n\nAutrefois dieu protecteur de la cité de Nekhen, la Hiéraconpolis des Grecs, Horus est devenu l'une des divinités majeures du panthéon : en tant que dieu céleste, il préside au soleil, aux cieux et à la lune, et est le protecteur de l'Égypte elle-même.\n\nNombreux sont les récits sur sa rivalité avec son frère Seth, le dieu du désert. Depuis quelque temps, il est souvent associé par les Grecs à leur dieu Apollon." # [LocEditor:AwaitingBatchUpdate]
+ deity_isis:0 "$omen_isis$"
+ omen_isis:0 "Isis" # [LocEditor:AwaitingBatchUpdate]
+ omen_isis_desc:0 "La grande déesse Isis accorde à notre peuple la fertilité et des moissons comme nous n'en avions jamais vu. Enfin, nous pourrons laisser derrière nous les années de famine et voir notre peuple se développer et devenir toujours plus fort et vigoureux.\n\nIsis est l'une des déesses les plus réputées, jusqu'au point d'être adoptée par certains de nos voisins. Son culte et ses fidèles se sont déjà répandus dans tout le monde hellénique, jusqu'à la faire entrer dans leur propre panthéon." # [LocEditor:AwaitingBatchUpdate]
+ deity_ra:0 "$omen_ra$"
+ omen_ra:0 "Ra"
+ omen_ra_desc:0 "Ra est l'une des divinités les plus anciennes et les plus importantes du panthéon égyptien, en tant que créateur de la vie et dieu de l'ordre et des rois. Il était adoré en particulier par les premiers pharaons d'Égypte, ses prêtres et ses cérémonies étant souvent étroitement liés aux monarques eux-mêmes.\n\nEn tant que créateur de tout, Ra est considéré comme l'origine de l'univers ainsi que la plupart des autres divinités adorées dans les terres égyptiennes, et le porteur de vie dans les terres fertiles autour du Nil. Chez les Grecs, Ra est souvent associé à Helios ou à Apollo."
+
+ # Heirs of Alexander #
+ deity_sobek:0 "$omen_sobek$"
+ omen_sobek:0 "Sobek"
+ omen_sobek_desc:0 "Sobek est un dieu égyptien très ancien, vénéré depuis les origines du pays, et le dieu tutélaire de Chédyt, la cité connue des Grecs sous le nom de Crocodilopolis. Il y est honoré en tant que protecteur face aux dangers du Nil, et souvent associé aux pharaons."
+ deity_banebdjedet:0 "$omen_banedbjedet$"
+ omen_banebdjedet:0 "Banebdjedet"
+ omen_banebdjedet_desc:0 "Banebdjedet est une divinité importante, souvent associée aux pharaons, et le dieu poliade de Mendès. Il est souvent associé à Osiris, le dieu de la vie éternelle, et certains prétendent qu'il personnifie la puissance et l'esprit d'Osiris.\n\nParmi les Grecs, Banebdjedet est souvent appelé « la chèvre de Mendès », même s'il est le plus souvent représenté avec une tête de bélier."
+ deity_thoth_hermes:0 "$omen_thoth_hermes$"
+ omen_thoth_hermes:0 "Thot-Hermès"
+ omen_thoth_hermes_desc:0 "Il est le dieu syncrétique entre le Grec Hermès et l'Égyptien Thot, devenu particulièrement populaire parmi les Grecs qui se sont installés en Égypte après la conquête d'Alexandre et la prise de pouvoir des Ptolémées qui ont pris le contrôle de la région. De la même façon que les deux divinités qui l'ont inspiré, il est associé à la vie éternelle, à l'écriture, et pour partie à la sagesse.\n\nDans les récits où il apparaît, il a souvent le rôle d'un sage conseiller, même si parfois il est un dieu trompeur."

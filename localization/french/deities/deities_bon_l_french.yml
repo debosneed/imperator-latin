@@ -1,0 +1,59 @@
+﻿l_french:
+ ## Default ##
+ deity_gekho:0 "$omen_gekho$"
+ omen_gekho:0 "Gekhö"
+ omen_gekho_desc:0 "Gekhö, dieu du ciel et des étoiles, est la première des nombreuses divinités $tibetan$. La plupart des autres dieux révérés par les fidèles s'inclinent devant lui, et il est réputé pour vaincre les esprits malfaisants qui peuvent troubler les hommes. Il est souvent révéré par le sacrifice de yaks, de mouton, d'or ou de dons offerts en remerciement de son secours."
+
+ deity_tingnam_gyalmo:0 "$omen_tingnam_gyalmo$"
+ omen_tingnam_gyalmo:0 "Tingnam Gyalmo"
+ omen_tingnam_gyalmo_desc:0 "Tingnam Gyalmo est une déesse de l'océan vêtue d'un manteau bleu, et elle est la parèdre de Kuchi Mangke. En tant que protectrice des mers et des rivières, elle joue un rôle important pour les fidèles $bon_religion$ et est très appréciée."
+
+ deity_drablai_gyalmo:0 "$omen_drablai_gyalmo$"
+ omen_drablai_gyalmo:0 "Drablai Gyalmo"
+ omen_drablai_gyalmo_desc:0 "Drablai Gyalmo est l'une des divinités les plus importantes pour la foi $bon_religion$. Elle est la consort de Gekhö, et une déesse du ciel elle aussi. Elle peut prendre de nombreux aspects, que ce soit une paisible déesse blanche de la vie, ou une terrifiante sorcière porteuse de mort. Elle est souvent associée aux corps célestes et aux phénomènes naturels."
+
+ deity_kuchi_mangke:0 "$omen_kuchi_mangke$"
+ omen_kuchi_mangke:0 "Kuchi Mangke"
+ omen_kuchi_mangke_desc:0 "Kuchi Mangke est le dieu de la fertilité, associé à Gekhö, et le parèdre de Tingnam Gyalmo. Il est souvent représenté comme un dieu de petite taille, certains allant jusqu'à dire que son corps est aussi petit qu'une broche. Il est en charge de la protection des enfants des esprits malfaisants qui pourraient s'attaquer à eux."
+
+ deity_ati_muwer:0 "$omen_ati_muwer$"
+ omen_ati_muwer:0 "Ati Muwer"
+ omen_ati_muwer_desc:0 "Ati Muwer est le dieu de la guerre, et un membre important des divinités associées à Gekhö. Il est souvent représenté dans une armure dorée, chevauchant dans le ciel un arc à la main."
+
+ deity_phuwer:0 "$omen_phuwer$"
+ omen_phuwer:0 "Phuwer"
+ omen_phuwer_desc:0 "Phuwer est le dieu de la divination et de l'astrologie, et un proche de Gekhö. Il est souvent représenté sous la forme d'un personnage impressionnant, vêtu de robes blanches, avec trois compagnes. Les fidèles $bon_religion$ le vénèrent avec de la laine de mouton, des rubans colorés ou le cœur séché d'une chauve-souris, un crâne ou un coucou."
+
+ deity_traphu:0 "$omen_traphu$"
+ omen_traphu:0 "Traphu"
+ omen_traphu_desc:0 "Dans la foi $bon_religion$, Traphu est la plus petite divinité, habituellement associée aux régions les plus septentrionales où il est apparu : les terres mythiques des Drugu. On dit qu'il est né dans un château de cristal, entouré d'oiseaux, de rayons de la lune et du soleil."
+
+ deity_the_elements:0 "$omen_the_elements$"
+ omen_the_elements:0 "Les éléments"
+ omen_the_elements_desc:0 "Les quatre éléments jouent un rôle important dans la foi $bon_religion$, au point d'être personnifiés sous la forme de divinités mineures. Hormis la terre, l'eau et le feu, l'air est habituellement le plus important, et est souvent représenté monté sur un cerf blanc pour parcourir le pays."
+
+# === [LocEditor:OrphanedKeys] Keys that do not exist in English ===
+ deity_battle:0 "$omen_battle$"
+ deity_endurance:0 "$omen_endurance$"
+ deity_insight:0 "$omen_insight$"
+ deity_spirits_wealth:0 "$omen_spirits_wealth$"
+ deity_spirits_inspiration:0 "$omen_spirits_inspiration$"
+ deity_spirits_protection:0 "$omen_spirits_protection$"
+ deity_spirits_virtue:0 "$omen_spirits_virtue$"
+ deity_spirits_life:0 "$omen_spirits_life$"
+ omen_battle:0 "Voie du combat"
+ omen_battle_desc:1 "Nous devons en appeler aux esprits pour protéger et inspirer les hommes de la tribu et les guerriers au combat, pour renforcer et endurcir leur discipline et leur résolution. Avec eux à nos côtés, nous sommes assurés de l'emporter face à tous nos ennemis."
+ omen_endurance:0 "Voie de l'endurance"
+ omen_endurance_desc:1 "Les jeunes hommes et les garçons doivent supplier les esprits de l'endurance de les soutenir lorsqu'ils se rassemblent autour de nos bannières pour la première fois. Alors raffermies, leurs rangs bien pourvus, les troupes seront prêtes à faire face à tout ennemi, assurées que nous avons les hommes pour affronter n'importe qui."
+ omen_insight:0 "Voie de la sagesse"
+ omen_insight_desc:1 "Nous devons demander aux esprits leur secours pour obtenir une grande sagesse de nos lettrés, de nos sages et de nos savants. Car avec cette connaissance partagée par les esprits d'autrefois, nous pourrons accéder à de nouvelles merveilles de technologie, dont tout le pays pourra tirer parti."
+ omen_spirits_wealth:0 "Voie de la richesse"
+ omen_spirits_wealth_desc:1 "Nous devons implorer les esprits d'insuffler au sein du peuple la charité et la fortune. Car si tous deviennent plus riches et plus généreux, nous serons assurés de collecter plus de taxes, et c'est l'ensemble de la communauté qui en tirera les fruits."
+ omen_spirits_inspiration:0 "Voie de l'inspiration"
+ omen_spirits_inspiration_desc:1 "Parfois, notre peuple doit se livrer à la guerre pour justifier son existence, aussi devons-nous espérer qu'au moment de le faire les esprits inspireront chez nous la grandeur. Car si certains de nos ennemis s'opposeront à nos actes, il est important de convaincre amis et ennemis que nous agissons pour le bien de tous."
+ omen_spirits_protection:0 "Voie de la protection"
+ omen_spirits_protection_desc:1 "Nous devons prier les esprits d'accorder à nos marchands et nos caravanes leur protection, pour eux tous qui quittent leurs foyers afin de trouver ailleurs la richesse. Mais lorsqu'ils l'auront trouvée, dans les contrées lointaines, nous serons assurés qu'ils en ramèneront bien davantage encore au pays."
+ omen_spirits_virtue:0 "Voie de la vertu"
+ omen_spirits_virtue_desc:1 "Nous devons nous soumettre aux esprits pour insuffler au sein du peuple la volonté de s'assembler en communauté. Avec les esprits à nos côtés, même le plus terrible des ennemis, des rivaux et des agitateurs devra y songer à deux fois avant de s'opposer à nous."
+ omen_spirits_life:0 "Voie de la vie"
+ omen_spirits_life_desc:1 "Des offrandes doivent être faites aux esprits anciens afin de les persuader de protéger notre peuple en lui accordant vie et fertilité. Ainsi bénis, nos récoltes et nos jeunes seront assurés de croître, robustes et forts, pour les années à venir."

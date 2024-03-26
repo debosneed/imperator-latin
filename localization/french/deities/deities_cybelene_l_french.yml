@@ -1,0 +1,36 @@
+﻿l_french:
+ deity_agdistis:0 "$omen_agdistis$"
+ omen_agdistis:0 "Agdistis" # [LocEditor:AwaitingBatchUpdate]
+ omen_agdistis_desc:0 "Agdistis, la déesse sauvage et androgyne, poussera nos guerriers à combattre avec toute leur fureur. Avec la déesse à leur côté, nous serons invincibles sur le champ de bataille." # [LocEditor:AwaitingBatchUpdate]
+ deity_dactyl:0 "$omen_dactyl$"
+ omen_dactyl:0 "Dactyls" # [LocEditor:AwaitingBatchUpdate]
+ omen_dactyl_desc:0 "C'est dans l'espoir qu'ils bénissent nos artisans de leur savoir et de leurs connaissances que nous offrons aux Dactyles nos sacrifices. Car à mesure que nous progressons, il est certain que cette sagesse nous aidera à rivaliser avec les ennemis se trouvant à nos frontières et à protéger nos amis et nos alliés." # [LocEditor:AwaitingBatchUpdate]
+ deity_dindymene:0 "$omen_dindymene$"
+ omen_dindymene:0 "Dindymène" # [LocEditor:AwaitingBatchUpdate]
+ omen_dindymene_desc:0 "Cet avatar de la Déesse mère nous aidera à rassembler toutes les ressources du pays afin de nous renforcer. Et par la vertu de cette prospérité nouvelle, nous sommes assurés de pouvoir nous étendre." # [LocEditor:AwaitingBatchUpdate]
+ deity_cybele:0 "$omen_cybele$"
+ omen_cybele:0 "Cybèle" # [LocEditor:AwaitingBatchUpdate]
+ omen_cybele_desc:0 "$cybele_description$" # [LocEditor:AwaitingBatchUpdate]
+ cybele_description:0 "La mère du peuple et des dieux approuve nos projets d'expansion, et pour cela met plus d'hommes dans les rangs de nos armées. Sous son regard tutélaire, seuls les plus las au sein du peuple s'opposeront à de nouvelles guerres."
+ deity_kakasbos:0 "$omen_kakasbos$"
+ omen_kakasbos:0 "Kakasbos" # [LocEditor:AwaitingBatchUpdate]
+ omen_kakasbos_desc:0 "Nous adressons un culte à Kakasbos le Lycien, dans l'espoir qu'il accorde sa bénédiction à nos marchands et les protège alors qu'ils parcourent le monde. Et en travaillant à accroître leur fortune, nous sommes assurés qu'ils ramèneront au pays de nombreuses richesses." # [LocEditor:AwaitingBatchUpdate]
+ deity_men:0 "$omen_men$"
+ omen_men:0 "Mên" # [LocEditor:AwaitingBatchUpdate]
+ omen_men_desc:0 "$men_description$" # [LocEditor:AwaitingBatchUpdate]
+ men_description:0 "Nous devons demander au dieu de la lune de bénir notre peuple et de lui accorder sa protection. Sous son regard vigilant, les fauteurs de trouble seront aisément étouffés."
+ deity_attis:0 "$omen_attis$"
+ omen_attis:0 "Attis" # [LocEditor:AwaitingBatchUpdate]
+ omen_attis_desc:0 "Attis l'émasculé répandra son sang sur nos moissons, les bénissant alors d'une croissance telle que jamais elle n'a été vue jusqu'à présent. Et lorsqu'elles croîtront grâce à son don, nous serons assurés de voir notre peuple grandir lui aussi." # [LocEditor:AwaitingBatchUpdate]
+
+ # Heirs of Alexander #
+ deity_sandon:0 "$omen_sandon$"
+ omen_sandon:0 "Sandon"
+ omen_sandon_desc:0 "Sandon est un dieu du temps en Anatolie, souvent associé au combat et invoqué en temps de guerre. En tant que l'une des principales divinités de Cilicie, il dispose de plusieurs temples et sanctuaires en son honneur, notamment dans la région de Tarse.\n\nLe dieu est associé aux armes, aux fleurs et aux lions. Les Grecs l'associent à leur dieu Héraclès, le dieu des héros."
+ deity_bagaios:0 "$omen_bagaios$"
+ omen_bagaios:0 "Bagaios"
+ omen_bagaios_desc:0 "Bagaios est un dieu de la tempête et du temps de Phrygie, dont on dit souvent qu'il accorde un temps clément et des faveurs. Souvent associé à la fertilité, il est souvent invoqué dans les périodes de besoin ou les époques troublées pour protéger le peuple.\n\nParmi les Grecs, il est souvent associé à leur dieu Zeus, le roi de leur panthéon."
+
+# === [LocEditor:OrphanedKeys] Keys that do not exist in English ===
+ omen_sabazios_cyb:0 "Bénédiction de Sabazios"
+ omen_sabazios_cyb_desc:1 "Le dieu thrace Sabazios saura inspirer les jeunes gens à prendre les armes pour combattre et défendre leur pays. Avec plus de soldats dans leurs rangs, la victoire contre nos ennemis sera assurée aux armées."

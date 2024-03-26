@@ -1,0 +1,315 @@
+﻿l_french:
+ # 1
+ seleukid_mission_01_babylonia:0 "La satrapie de Babylonie"
+ seleukid_mission_01_babylonia_DESCRIPTION:0 "Au cœur du pays se trouve la Babylonie, autrefois la satrapie de [GetCharacter('(int32)24').GetPraenomen]. Une campagne dévastatrice menée par [GetCharacter('(int32)37').GetPraenomen] l'a laissée en ruine, et elle en souffre toujours des conséquences.\n\nElle comptait autrefois parmi les plus riches satrapies des empires perses et d'Alexandre, aussi serait-il avisé de consacrer du temps au rétablissement de la région."
+ seleukid_mission_01_babylonia_CRITERIA_DESCRIPTION:0 "Cette mission sera considérée comme menée à bien lorsque Babylone et la région environnante auront été restaurées."
+ seleukid_mission_01_babylonia_BUTTON_TOOLTIP:0 "Au cœur du pays se trouve la Babylonie, une région qui souffre toujours des conséquences de l'invasion de [GetCharacter('(int32)37').GetPraenomen]. Elle comptait autrefois parmi les plus riches satrapies des empires perses et d'Alexandre, aussi serait-il avisé de consacrer du temps à son rétablissement."
+ seleukid_mission_01_babylonia_task_1:0 "Prêtres de Mardouk"
+ seleukid_mission_01_babylonia_task_2:0 "S'assurer de loyautés"
+ seleukid_mission_01_babylonia_task_3:0 "Culte dynastique"
+ seleukid_mission_01_babylonia_task_4:0 "Soutien babylonien"
+ seleukid_mission_01_babylonia_task_5:0 "Murs de Babylonie"
+ seleukid_mission_01_babylonia_task_6:0 "Habitants de Babylonie"
+ seleukid_mission_01_babylonia_task_7:0 "Restaurer la satrapie"
+ seleukid_mission_01_babylonia_task_8:0 "Réorganiser l'administration"
+ seleukid_mission_01_babylonia_task_9:0 "Légitimité locale"
+ seleukid_mission_01_babylonia_task_10:0 "D'Ashshur à Ikaros"
+ seleukid_mission_01_babylonia_task_11:0 "De la Babylonie à Séleucie"
+ seleukid_mission_01_babylonia_task_final:0 "Satrapie loyale"
+
+ seleukid_mission_01_babylonia_task_1_DESC:0 "Les prêtres de Mardouk sont tout puissants à Babylone, et ils constituent une caste de dirigeants religieux impliquée chaque jour dans les affaires de la cité. De nombreux rois ont perdu le contrôle sur la Babylonie pour les avoir offensés."
+ seleukid_mission_01_babylonia_task_2_DESC:0 "Lorsque nous nous serons assurés du soutien des prêtres, nous pourrons commencer à prendre des mesures pour lier leur foi à la dynastie de [ROOT.GetCountry.GetRuler.GetPraenomen], et ainsi assurer la perpétuation de notre autorité sur la Babylonie."
+ seleukid_mission_01_babylonia_task_3_DESC:0 "Maintenant que les prêtres ont été convaincus que nous sommes légitimes pour gouverner la Babylonie, nous pouvons lier davantage leur foi à la nôtre et au [ROOT.GetCountry.GetRulerTitle] [ROOT.GetCountry.GetRuler.GetPraenomen]."
+ seleukid_mission_01_babylonia_task_4_DESC:0 "Notre autorité a assuré la paix et la prospérité à toute la Babylonie, et nous nous sommes assurés du soutien des nobles et des citoyens de ses cités antiques."
+ seleukid_mission_01_babylonia_task_5_DESC:0 "Sur les rives de l'Euphrate se trouve Babylone, et sur celles du Tigre nous avons établi la grande cité de Séleucie. Ensemble, elles constituent un mur fortifié contre quiconque tenterait de traverser la Babylonie."
+ seleukid_mission_01_babylonia_task_6_DESC:0 "Si de nombreux compatriotes se sont installés dans la région entourant Babylone et que de nombreux Babyloniens se sont faits à notre autorité, certains continuent de s'opposer à nous à tout propos."
+ seleukid_mission_01_babylonia_task_7_DESC:0 "Après la conquête de la Babylonie par Séleucos pour reprendre sa satrapie, Antigone a envoyé ses armées piller et ruiner ce qu'il avait perdu. La plus grande partie de Babylone a été restaurée sous notre autorité, mais il reste beaucoup à faire pour faire renaître la gloire qui était la sienne autrefois."
+ seleukid_mission_01_babylonia_task_8_DESC:0 "L'administration de notre satrapie est restée quasi inchangée depuis qu'elle a été conquise sur Darius III. Une touche [ROOT.GetCountry.GetPrimaryCulture.GetName] pourrait la rendre plus malléable et adaptée à notre autorité."
+ seleukid_mission_01_babylonia_task_9_DESC:0 "Avec l'aide du [GetOffice('office_steward').GetCulturalName(SCOPE.GetRootScope.GetCountry)], nous allons semer les graines de la loyauté dans toute la satrapie de Babylonie, afin de veiller à disposer toujours du soutien de ce qui était l'une des régions les plus riches des empires perses et d'Alexandre."
+ seleukid_mission_01_babylonia_task_10_DESC:0 "La paix assure la loyauté, aussi devons-nous veiller à ce que toute la région soit protégée par nos troupes, depuis les frontières de l'Assyrie au nord jusqu'au nord jusqu'aux frontières de la Perse au sud."
+ seleukid_mission_01_babylonia_task_final_DESC:0 "Si la Babylonie a autrefois été conquise par les troupes d'Antigone le Borgne, elle est toujours restée loyale à Séleucos. Elle est désormais liée plus étroitement que jamais à la dynastie [ROOT.GetCountry.GetRuler.GetFamily.GetName], et nous pouvons nous appuyer sur le versement des impôts et ses effectifs."
+
+ missing_governor_mesopotamia_tt:0 "La région de #Y $mesopotamia_region$#! n'a pas de gouverneur."
+ missing_office_holder_seleukid:0 "Il n'y a pas de #Y [GetOffice('office_steward').GetCulturalName(SCOPE.GetRootScope.GetCountry)]#! en #Y [SCOPE.GetRootScope.GetCountry.GetName]#!."
+
+ seleukid_mission_01_babylonia_task_2_trigger_tt:0 "La loyauté de #Y [THIS.GetCharacter.GetName]#! est d'au moins #Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_2_total_svalue')|0]#!. [THIS.GetCharacter.GetEmployer.Custom('seleukid_mission_01_babylonia_task_2_loc')]"
+ seleukid_mission_01_babylonia_task_2_loc_1:0 "(#R [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_2_current_svalue')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_2_total_svalue')|0]#!)"
+ seleukid_mission_01_babylonia_task_2_loc_2:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_2_current_svalue')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_2_total_svalue')|0]#!)"
+ seleukid_mission_01_babylonia_task_2_trigger_tt_monarchy:0 "Le #Y [GetOffice('office_high_priest_monarchy').GetCulturalName(SCOPE.GetRootScope.GetCountry)]#! de #Y [SCOPE.GetRootScope.GetCountry.GetName]#! a le modificateur de personnage #Y $priest_of_babylon_char_modifier$#!."
+ seleukid_mission_01_babylonia_task_2_trigger_tt_republic:0 "Le #Y [GetOffice('office_pontifex').GetCulturalName(SCOPE.GetRootScope.GetCountry)]#! de #Y [SCOPE.GetRootScope.GetCountry.GetName]#! a le modificateur de personnage #Y $priest_of_babylon_char_modifier$#!."
+ seleukid_mission_01_babylonia_task_2_trigger_tt_tribal:0 "Le #Y [GetOffice('office_high_priest').GetCulturalName(SCOPE.GetRootScope.GetCountry)]#! de #Y [SCOPE.GetRootScope.GetCountry.GetName]#! a le modificateur de personnage #Y $priest_of_babylon_char_modifier$#!."
+
+ seleukid_mission_01_babylonia_task_3_trigger_tt:0 "N'importe quel personnage à la cour a le modificateur de personnage #Y $priest_of_babylon_char_modifier$#!."
+
+ seleukid_mission_01_babylonia_task_5_trigger_tt_seleukeia:0 "#Y [THIS.GetProvince.GetName]#! compte au moins #Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_5_total_building_seleukeia')|0]#! bâtiments. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_01_babylonia_task_5_seleukeia')]"
+ seleukid_mission_01_babylonia_task_5_seleukeia_1:0 "(#R [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_5_current_building_seleukeia')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_5_total_building_seleukeia')|0]#!)"
+ seleukid_mission_01_babylonia_task_5_seleukeia_2:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_5_current_building_seleukeia')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_5_total_building_seleukeia')|0]#!)"
+
+ seleukid_mission_01_babylonia_task_5_trigger_tt_babylonia:0 "#Y [THIS.GetProvince.GetName]#! compte au moins #Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_5_total_building_babylonia')|0]#! bâtiments. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_01_babylonia_task_5_babylonia')]"
+ seleukid_mission_01_babylonia_task_5_babylonia_1:0 "(#R [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_5_current_building_babylonia')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_5_total_building_babylonia')|0]#!)"
+ seleukid_mission_01_babylonia_task_5_babylonia_2:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_5_current_building_babylonia')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_5_total_building_babylonia')|0]#!)"
+
+ seleukid_mission_01_babylonia_task_6_trigger_tt:0 "Au moins #Y 90%#! des #Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_6_absolute_total')|0]#! pops de la région de #Y $mesopotamia_region$#! possédées par #Y [SCOPE.GetRootScope.GetCountry.GetName]#! sont #Y [SCOPE.GetRootScope.GetCountry.GetPrimaryCulture.GetName]#! ou appartiennent à une culture intégrée. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_01_babylonia_task_6_loc')]"
+ seleukid_mission_01_babylonia_task_6_loc_1:0 "(#R [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_6_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_6_total')|0]#!)"
+ seleukid_mission_01_babylonia_task_6_loc_2:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_6_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_6_total')|0]#!)"
+
+ seleukid_mission_01_babylonia_task_7_tt_trigger:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! compte au moins #Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_7_total')|0]#! bâtiments dans la région de #Y $mesopotamia_region$#!. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_01_babylonia_task_7_loc')] [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_01_babylonia_task_7_construction_loc')]"
+ seleukid_mission_01_babylonia_task_7_loc_1:0 "(#R [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_7_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_7_total')|0]#!)"
+ seleukid_mission_01_babylonia_task_7_loc_2:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_7_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_7_total')|0]#!)"
+ seleukid_mission_01_babylonia_task_7_construction_loc_1:0 "\n    @trigger_no! #Y [SCOPE.GetRootScope.GetCountry.GetName]#! a un bâtiment en cours de construction dans la région de #Y $mesopotamia_region$#!."
+ seleukid_mission_01_babylonia_task_7_construction_loc_2:0 ""
+
+ seleukid_mission_01_babylonia_task_10_trigger_tt:0 "La loyauté provinciale de la province de #Y [THIS.GetProvince.GetState.GetName]#! est d'au moins #Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_10_total')|0]#!. [THIS.GetProvince.Custom('seleukid_mission_01_babylonia_task_10_loc')]"
+ seleukid_mission_01_babylonia_task_10_loc_1:0 "(#R [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_10_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_01_babylonia_task_10_total')|0]#!)"
+ seleukid_mission_01_babylonia_task_10_loc_2:0 ""
+
+ seleukid_mission_01_babylonia_task_final_effect_tt:0 "#Y 5#! citoyens [SCOPE.GetRootScope.GetCountry.GetReligion.GetName] [SCOPE.GetRootScope.GetCountry.GetPrimaryCulture.GetName] apparaissent à [THIS.GetProvince.GetName]."
+
+ ### 2
+ # Base Info
+ seleukid_mission_02_syria:0 "Ambitions en Syrie"
+ seleukid_mission_02_syria_DESCRIPTION:0 "La plupart des États des diadoques se trouvent sur les rives de la Méditerranée, tous liés les uns aux autres, tandis que nous-mêmes nous sommes trouvés en quelque sorte coupés et isolés en Babylonie, en Orient. Mais la Syrie pourrait être une nouvelle porte vers l'Occident, d'autant qu'elle est souvent négligée par nos rivaux."
+ seleukid_mission_02_syria_CRITERIA_DESCRIPTION:0 "La mission sera considérée comme menée à bien lorsque nous aurons pris le contrôle de la Syrie et en aurons fait une région importante de nos territoires."
+ seleukid_mission_02_syria_BUTTON_TOOLTIP:0 "La Syrie devrait être une nouvelle porte ouvrant sur l'Occident."
+
+ seleukid_mission_02_syria_task_1:0 "Rêves syriens"
+ seleukid_mission_02_syria_task_2:0 "Foyer des Antigonides"
+ seleukid_mission_02_syria_task_3:0 "Près de l'Amanus"
+ seleukid_mission_02_syria_task_4:0 "Gouvernance syrienne"
+ seleukid_mission_02_syria_task_5:0 "Séleucie d'Occident"
+ seleukid_mission_02_syria_task_6:0 "Une capitale méditerranéenne"
+ seleukid_mission_02_syria_task_7:0 "S'assurer le contrôle"
+ seleukid_mission_02_syria_task_8:0 "Colons grecs"
+ seleukid_mission_02_syria_task_9:0 "Par les Portes de Syrie"
+ seleukid_mission_02_syria_task_10:0 "Les terres de Mopsos"
+ seleukid_mission_02_syria_task_11:0 "L'oracle de Mallos"
+ seleukid_mission_02_syria_task_final:0 "Un second foyer"
+
+ seleukid_mission_02_syria_task_1_DESC:0 "Nous devons préparer les troupes à une campagne vers [GetProvince('(int32)789').GetArea.GetRegion.GetName]. Nous ne savons que trop bien à quel point le périple vers la région peut s'avérer ardu s'il n'est pas préparé."
+ seleukid_mission_02_syria_task_2_DESC:0 "Les établissements et villages grecs, ainsi que l'ancienne capitale antigonide, se trouvent sur la côte occidentale. L'un de nos premiers objectifs devrait être de prendre le contrôle du cours inférieur de l'Oronte."
+ seleukid_mission_02_syria_task_3_DESC:0 "Dans l'est de [GetProvince('(int32)789').GetArea.GetRegion.GetName] se trouvent d'anciennes cités et d'anciens villages araméens, ainsi que quelques nouveaux établissements grecs, plus récents. C'est l'une des régions qui fait souvent écran entre nous et les territoires plus riches des Antigonides, de première importance si nous voulons ouvrir une route sûre entre la Babylonie et les côtes méditerranéennes."
+ seleukid_mission_02_syria_task_4_DESC:0 "À mesure que nous bâtissons de nouvelles cités et établissons des gens en [GetProvince('(int32)789').GetArea.GetRegion.GetName], nous devons veiller à imposer aussi notre contrôle sur les campagnes aux alentours. Nous devons établir un réseau de cités, qui permettra d'administrer l'ensemble de la région."
+ seleukid_mission_02_syria_task_5_DESC:0 "Nous devons construire une nouvelle cité royale, équivalente de [GetProvince('(int32)911').GetName] en Babylonie, où se trouvera le cœur administratif des territoires occidentaux."
+ seleukid_mission_02_syria_task_6_DESC:0 "Nous devons développer [GetProvince('(int32)789').GetName], de manière à ce qu'elle puisse rivaliser avec les plus grandes cités sur les rives de la Méditerranée, par son étendue autant que par sa population. Elle sera la preuve éclatante de la puissance et de la prospérité [ROOT.GetCountry.GetAdjective]."
+ seleukid_mission_02_syria_task_7_DESC:0 "Un autre de nos objectifs est de protéger la région par un réseau de cités et d'établissements fortifiés, capables de barrer la route à n'importe quelle invasion."
+ seleukid_mission_02_syria_task_8_DESC:0 "Pour véritablement développer [GetProvince('(int32)789').GetArea.GetRegion.GetName] comme nous l'envisageons, nous devons trouver de nouveaux colons, qui pourront peupler les cités et villages de la région. Nous avons longtemps voulu avoir à disposition des Grecs, qui pourraient être levés au sein des armées. Avec un port méditerranéen à disposition, c'est désormais possible."
+ seleukid_mission_02_syria_task_9_DESC:0 "À l'ouest se trouve [GetProvince('(int32)1880').GetArea.GetRegion.GetName], une autre région difficile, mais prometteuse, et qui ressemble de bien des manières à [GetProvince('(int32)789').GetArea.GetRegion.GetName]. Si pour l'heure nous devons concentrer nos efforts sur [GetProvince('(int32)789').GetArea.GetRegion.GetName], nous devrions toutefois envisager de faire tout ce qui est en notre pouvoir pour étendre notre influence."
+ seleukid_mission_02_syria_task_10_DESC:0 "[GetProvince('(int32)1880').GetName] est l'un de ces lieux parfaitement adaptés pour refonder une cité en l'honneur de notre dynastie. Elle a tous les atouts pour devenir une cité importante, d'où pourraient être administrés les vastes territoires de l'Est de [GetProvince('(int32)1880').GetArea.GetRegion.GetName]."
+ seleukid_mission_02_syria_task_11_DESC:0 "Des rumeurs circulent sur un ancien oracle situé non loin de [GetProvince('(int32)1881').GetName], pauvre et fragilisé depuis longtemps maintenant. Si nous restaurions les temples et sites sacrés de la région, peut-être pourrions-nous convaincre cet oracle de nous écouter ?"
+ seleukid_mission_02_syria_task_final_DESC:0 "Nous avons enfin atteint notre but en [GetProvince('(int32)789').GetArea.GetRegion.GetName], et pouvons considérer la région comme la seconde en rang pour le pays, après la Babylonie."
+
+ # Triggers
+ seleukid_mission_02_syria_task_4_tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! a au moins #Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_4_total')|0]#! cités en #Y [GetProvince('(int32)790').GetArea.GetName]#! et en #Y [GetProvince('(int32)810').GetArea.GetName]#!. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_02_syria_task_4_loc')]"
+ seleukid_mission_02_syria_task_4_loc_1:0 "(#R [SCOPE.ScriptValue('seleukid_mission_02_syria_task_4_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_4_total')|0]#!)"
+ seleukid_mission_02_syria_task_4_loc_2:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_4_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_4_total')|0]#!)"
+
+ seleukid_mission_02_syria_task_6_population_trigger_tt:0 "#Y [THIS.GetProvince.GetName]#! a une population d'au moins #Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_6_population_total')|0]#!. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_02_syria_task_6_population_loc')]"
+ seleukid_mission_02_syria_task_6_loc_1:0 "(#R [SCOPE.ScriptValue('seleukid_mission_02_syria_task_6_population_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_6_population_total')|0]#!)"
+ seleukid_mission_02_syria_task_6_loc_2:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_6_population_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_6_population_total')|0]#!)"
+
+ seleukid_mission_02_syria_task_6_buildings_trigger_tt:0 "#Y [THIS.GetProvince.GetName]#! a au moins #Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_6_buildings_total')|0]#! bâtiments. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_02_syria_task_6_buildings_loc')] [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_02_syria_task_6_building_check_loc')]"
+ seleukid_mission_02_syria_task_6_buildings_loc_1:0 "(#R [SCOPE.ScriptValue('seleukid_mission_02_syria_task_6_buildings_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_6_buildings_total')|0]#!)"
+ seleukid_mission_02_syria_task_6_buildings_loc_2:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_6_buildings_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_6_buildings_total')|0]#!)"
+ seleukid_mission_02_syria_task_6_building_check_loc_1:0 "\n    @trigger_no! Une construction est en cours à #Y [GetProvince('(int32)789').GetName]#!."
+ seleukid_mission_02_syria_task_6_building_check_loc_2:0 ""
+
+ seleukid_mission_02_syria_task_7_trigger_tt:0 "La province de #Y [THIS.GetProvince.GetState.GetShortName]#! est possédée par #Y [SCOPE.GetRootScope.GetCountry.GetName]#! et a une loyauté provinciale d'au moins #Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_7_total')|0]#!. [THIS.GetProvince.Custom('seleukid_mission_02_syria_task_7_loc')]"
+ seleukid_mission_02_syria_task_7_loc_1:0 ""
+ seleukid_mission_02_syria_task_7_loc_2:0 "(#R [SCOPE.ScriptValue('seleukid_mission_02_syria_task_7_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_7_total')|0]#!)"
+ seleukid_mission_02_syria_task_7_loc_3:0 ""
+
+ seleukid_mission_02_syria_task_7_fort_trigger_tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! a au moins #Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_7_fort_total')|0]#! #Y forts#! dans les provinces de #Y [GetProvince('(int32)790').GetArea.GetName]#! et de #Y [GetProvince('(int32)810').GetArea.GetName]#!. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_02_syria_task_7_fort_loc')]"
+ seleukid_mission_02_syria_task_7_fort_loc_1:0 "(#R [SCOPE.ScriptValue('seleukid_mission_02_syria_task_7_fort_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_7_fort_total')|0]#!)"
+ seleukid_mission_02_syria_task_7_fort_loc_2:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_7_fort_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_7_fort_total')|0]#!)"
+
+ seleukid_mission_02_syria_task_10_tt:0 "#Y [THIS.GetProvince.GetName]#! a au moins #Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_10_total')|0]#! bâtiments. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_02_syria_task_10_buildings_loc')] [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_02_syria_task_10_building_check_loc')]"
+ seleukid_mission_02_syria_task_10_buildings_loc_1:0 "(#R [SCOPE.ScriptValue('seleukid_mission_02_syria_task_10_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_10_total')|0]#!)"
+ seleukid_mission_02_syria_task_10_buildings_loc_2:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_10_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_10_total')|0]#!)"
+ seleukid_mission_02_syria_task_10_building_check_loc_1:0 "\n    @trigger_no! Une construction est en cours à #Y [GetProvince('(int32)1880').GetName]#!."
+ seleukid_mission_02_syria_task_10_building_check_loc_2:0 ""
+
+ # Effects
+ seleukid_mission_02_syria_task_1_effect_tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! va recevoir une revendication sur chaque localité de la province de #Y [THIS.GetProvince.GetArea.GetName]#!."
+
+ seleukid_mission_02_syria_task_5_effect_tt:0 "#Y [SCOPE.ScriptValue('seleukid_mission_02_syria_task_5_population_effect_svalue')|0]#! pops vont se déplacer de #Y [GetProvince('(int32)790').GetName]#! vers #Y [GetProvince('(int32)789').GetName]#!."
+
+ seleukid_mission_02_syria_task_6_effect_tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! va se voir offrir la possibilité de déplacer la capitale à #Y [GetProvince('(int32)789').GetName]#!."
+
+ seleukid_mission_02_syria_task_8_effect_tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! va inciter des pops [SCOPE.GetRootScope.GetCountry.GetPrimaryCulture.GetCultureGroup.GetName] de #Y [GetProvince('(int32)416').GetArea.GetRegion.GetName]#!, de #Y [GetProvince('(int32)379').GetArea.GetRegion.GetName]#! et de #Y [GetProvince('(int32)290').GetArea.GetRegion.GetName]#! à migrer dans les cités [SCOPE.GetRootScope.GetCountry.GetAdjective] de #Y [GetProvince('(int32)789').GetArea.GetName]#! et de #Y [GetProvince('(int32)810').GetArea.GetName]#!."
+
+ seleukid_mission_02_syria_task_11_effect_tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! va bénéficier d'avantages occasionnels grâce à l'oracle de #Y [GetProvince('(int32)1881').GetName]#!."
+
+ ### 3
+ # Base Info
+ seleukid_mission_03_anatolia:0 "Rêves d'Occident"
+ seleukid_mission_03_anatolia_DESCRIPTION:0 "Si nous sommes les héritiers de la satrapie de Babylonie, nous savons pertinemment que nous ne pourrons jamais reprendre l'héritage d'Alexandre si nous ne gouvernons pas nous-mêmes la Macédoine. Pour l'atteindre, nous devons nous assurer de la longue Voie royale, jusqu'à Sardes, de l'autre côté de l'Anatolie."
+ seleukid_mission_03_anatolia_CRITERIA_DESCRIPTION:0 "Cette mission sera considérée comme menée à bien lorsque nous aurons pris le contrôle de la Voie royale et aurons établi une administration et des défenses tout du long, en Anatolie."
+ seleukid_mission_03_anatolia_BUTTON_TOOLTIP:0 "Nos regards se portent vers l'ouest, vers la Macédoine. Mais la première étape est de prendre le contrôle de toute la Voie royale des Perses."
+
+ seleukid_mission_03_anatolia_task_1:0 "Satrapie de Phrygie"
+ seleukid_mission_03_anatolia_task_2:0 "Restaurer Célènes"
+ seleukid_mission_03_anatolia_task_3:0 "L'ancien Mên"
+ seleukid_mission_03_anatolia_task_4:0 "Administration phrygienne"
+ seleukid_mission_03_anatolia_task_5:0 "Capitale antigonide"
+ seleukid_mission_03_anatolia_task_6:0 "Mont Taurus"
+ seleukid_mission_03_anatolia_task_7:0 "Administration de Kindyria"
+ seleukid_mission_03_anatolia_task_8:0 "Les deux anciennes cités"
+ seleukid_mission_03_anatolia_task_9:0 "Administration orientale"
+ seleukid_mission_03_anatolia_task_10:0 "Satrapie de Cappadoce"
+ seleukid_mission_03_anatolia_task_11:0 "Mouvement vers l'ouest"
+ seleukid_mission_03_anatolia_task_12:0 "Extrémité de la Voie royale"
+ seleukid_mission_03_anatolia_task_13:0 "Administration occidentale"
+ seleukid_mission_03_anatolia_task_14:0 "Le rêve de Séleucos"
+ seleukid_mission_03_anatolia_task_15:0 "L'oracle de Didymes"
+ seleukid_mission_03_anatolia_task_16:0 "Une autre Séleucie"
+ seleukid_mission_03_anatolia_task_final:0 "De Persépolis à Sardes"
+
+ seleukid_mission_03_anatolia_task_1_DESC:0 "Nous cherchons des routes possibles menant vers l'ouest. Or, la région environnant [GetProvince('(int32)1936').GetName], l'ancienne capitale de [GetProvince('(int32)1936').GetArea.GetRegion.GetName], semble tout à fait appropriée."
+ seleukid_mission_03_anatolia_task_2_DESC:0 "Nous devons reconstruire la cité de [GetProvince('(int32)1936').GetName], afin qu'elle serve de capitale pour les gouverneurs de la région. Nous devrions y construire un pont entre les anciennes satrapies de [GetProvince('(int32)1936').GetArea.GetRegion.GetName] et le reste de nos territoires."
+ seleukid_mission_03_anatolia_task_3_DESC:0 "La petite cité de [GetProvince('(int32)1928').GetName], avec son sanctuaire local, est importante pour la contrée environnante."
+ seleukid_mission_03_anatolia_task_4_DESC:0 "Construire des infrastructures autour de la nouvelle capitale administrative de [GetProvince('(int32)1936').GetArea.GetRegion.GetName] est crucial si nous voulons qu'elle continue à jouer un rôle important en [ROOT.GetCountry.GetName]."
+ seleukid_mission_03_anatolia_task_5_DESC:0 "Poursuivre les travaux à [GetProvince('(int32)1936').GetName] pourrait pousser les habitants à nous être plus favorables et loyaux, comme [GetCharacter('(int32)37').GetPraenomen] l'a fait autrefois en tant que satrape de [GetProvince('(int32)1936').GetArea.GetRegion.GetName]."
+ seleukid_mission_03_anatolia_task_6_DESC:0 "Juste au nord de [GetProvince('(int32)1883').GetArea.GetRegion.GetName] se trouve [GetProvince('(int32)1799').GetArea.GetRegion.GetName] et les territoires orientaux de [GetProvince('(int32)1936').GetArea.GetRegion.GetName], des régions souvent laissées à elles-mêmes du fait qu'elles ne sont pas aussi riches que leurs voisines."
+ seleukid_mission_03_anatolia_task_7_DESC:0 "Un petit établissement a été localisé à [GetProvince('(int32)177').GetName], juste au nord de l'ancienne cité de [GetProvince('(int32)1934').GetName], en [GetProvince('(int32)177').GetArea.GetName], qui pourrait sans doute être refondé pour devenir une cité importante."
+ seleukid_mission_03_anatolia_task_8_DESC:0 "Les conseillers sont persuadés que si nous investissions suffisamment de ressources dans les deux anciennes cités de [GetProvince('(int32)1934').GetName], en [GetProvince('(int32)1934').GetArea.GetName], et de [GetProvince('(int32)1951').GetName], en [GetProvince('(int32)1951').GetArea.GetName], le reste de la région suivrait leur exemple."
+ seleukid_mission_03_anatolia_task_9_DESC:0 "Si elle est souvent moins bien considérée que ses voisines plus à l'ouest, la région a besoin d'une administration compétente, dotée des infrastructures indispensables pour pourvoir à ses propres besoins. Si nous les lui donnions, cela porterait assurément ses fruits à l'avenir."
+ seleukid_mission_03_anatolia_task_10_DESC:0 "Les territoires de [GetProvince('(int32)1799').GetArea.GetRegion.GetName] ont souvent été difficiles à contrôler pour les étrangers, ce qui explique que bon nombre de nos prédécesseurs ont préféré établir des satrapies autonomes pour assurer leur autorité sur la région."
+ seleukid_mission_03_anatolia_task_11_DESC:0 "À l'extrémité occidentale de la Voie royale se trouvent les côtes grecques et les territoires de [GetProvince('(int32)292').GetArea.GetRegion.GetName], une région qui a connu de nombreuses révoltes et rébellions contre ses dirigeants souvent lointains."
+ seleukid_mission_03_anatolia_task_12_DESC:0 "[GetProvince('(int32)292').GetName] est de ces cités qui ont souvent joué un grand rôle dans le gouvernement des territoires de [GetProvince('(int32)292').GetArea.GetName]. C'est une cité ancienne, habitée à la fois par des Anatoliens et des Grecs."
+ seleukid_mission_03_anatolia_task_13_DESC:0 "Si nous voulons protéger la contrée, nous devons veiller à ne pas tomber dans les mêmes pièges que bon nombre de nos prédécesseurs. Nous devrions établir un réseau de cités et de forteresses sur lesquelles l'administration nouvelle de la région pourra s'appuyer."
+ seleukid_mission_03_anatolia_task_14_DESC:0 "Selon [GetCharacter('(int32)24').GetPraenomen], notre dynastie descend d'Apollon lui-même, et elle a longtemps été fidèle à l'oracle de Didymes, un temple proche de la cité de [GetProvince('(int32)1973').GetName]."
+ seleukid_mission_03_anatolia_task_15_DESC:0 "Cela a longtemps été le rêve des [GetCharacter('(int32)24').GetFamily.GetName] de s'assurer de la loyauté de l'oracle de Didymes, tout proche de la cité de [GetProvince('(int32)1973').GetName]."
+ seleukid_mission_03_anatolia_task_16_DESC:0 "La plupart des grandes Séleucies ont reçu le nom de notre fondateur, [GetCharacter('(int32)24').GetPraenomen], et ont joué un grand rôle dans le pays. Nous devrions en construire une nouvelle dans l'Ouest de l'Anatolie."
+ seleukid_mission_03_anatolia_task_final_DESC:0 "Si nous voulons nous assurer du contrôle de l'Ouest de l'ancien empire de [GetCharacter('(int32)39').GetPraenomen], nous devons prendre le contrôle de l'ensemble de la Voie royale, depuis [GetProvince('(int32)4799').GetName] jusqu'à [GetProvince('(int32)292').GetName]."
+
+ # Triggers
+ seleukid_mission_03_anatolia_buildings_tt:0 "#Y [THIS.GetProvince.GetName]#! a au moins #Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_buildings_total')|0]#! bâtiments. [THIS.GetProvince.Custom('seleukid_mission_03_anatolia_buildings_loc')] [THIS.GetProvince.Custom('seleukid_mission_03_anatolia_buildings_check_loc')]"
+ seleukid_mission_03_anatolia_buildings_loc_01:0 "(#R [SCOPE.ScriptValue('seleukid_mission_03_anatolia_buildings_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_buildings_total')|0]#!)"
+ seleukid_mission_03_anatolia_buildings_loc_02:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_buildings_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_buildings_total')|0]#!)"
+ seleukid_mission_03_anatolia_buildings_check_loc_01:0 "\n    @trigger_no! Une construction est en cours à #Y [ROOT.GetProvince.GetName]#!."
+ seleukid_mission_03_anatolia_buildings_check_loc_02:0 ""
+
+ seleukid_mission_03_anatolia_province_loyalty:0 "#Y [THIS.GetProvince.GetArea.GetName]#! a une loyauté provinciale d'au moins #Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_province_loyalty_total')|0]#!. [THIS.GetProvince.Custom('seleukid_mission_03_anatolia_province_loyalty_loc')]"
+ seleukid_mission_03_anatolia_province_loyalty_01:0 "(#R [SCOPE.ScriptValue('seleukid_mission_03_anatolia_province_loyalty_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_province_loyalty_total')|0]#!)"
+ seleukid_mission_03_anatolia_province_loyalty_02:0 ""
+
+ seleukid_mission_03_anatolia_task_4_forts_trigger_tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! a au moins #Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_4_fort_total')|0]#! forts en #Y [GetProvince('(int32)1931').GetArea.GetName]#!, en #Y [GetProvince('(int32)1942').GetArea.GetName]#! et en #Y [GetProvince('(int32)1928').GetArea.GetName]#!. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_03_anatolia_task_4_forts_trigger_loc')]"
+ seleukid_mission_03_anatolia_task_4_forts_trigger_loc_01:0 "(#R [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_4_fort_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_4_fort_total')|0]#!)"
+ seleukid_mission_03_anatolia_task_4_forts_trigger_loc_02:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_4_fort_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_4_fort_total')|0]#!)"
+
+ seleukid_mission_03_anatolia_task_4_cities_trigger_tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! a au moins #Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_4_cities_total')|0]#! cités en #Y [GetProvince('(int32)1931').GetArea.GetName]#!, en #Y [GetProvince('(int32)1942').GetArea.GetName]#! et en #Y [GetProvince('(int32)1928').GetArea.GetName]#!. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_03_anatolia_task_4_cities_trigger_loc')]"
+ seleukid_mission_03_anatolia_task_4_cities_trigger_loc_01:0 "(#R [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_4_cities_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_4_cities_total')|0]#!)"
+ seleukid_mission_03_anatolia_task_4_cities_trigger_loc_02:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_4_cities_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_4_cities_total')|0]#!)"
+
+ seleukid_mission_03_anatolia_task_5_trigger_tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! a intégré la culture principale de #Y [GetProvince('(int32)1936').GetName]#! (#Y [GetProvince('(int32)1936').GetCulture.GetName]#!)."
+
+ seleukid_mission_03_anatolia_task_9_forts_trigger_tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! a au moins #Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_9_fort_total')|0]#! forts en #Y [GetProvince('(int32)1920').GetArea.GetName]#!, en #Y [GetProvince('(int32)1971').GetArea.GetName]#! et en #Y [GetProvince('(int32)1978').GetArea.GetName]#!. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_03_anatolia_task_9_forts_trigger_loc')]"
+ seleukid_mission_03_anatolia_task_9_forts_trigger_loc_01:0 "(#R [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_9_fort_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_9_fort_total')|0]#!)"
+ seleukid_mission_03_anatolia_task_9_forts_trigger_loc_02:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_9_fort_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_9_fort_total')|0]#!)"
+
+ seleukid_mission_03_anatolia_task_9_cities_trigger_tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! a au moins #Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_9_cities_total')|0]#! cités en #Y [GetProvince('(int32)1920').GetArea.GetName]#!, en #Y [GetProvince('(int32)1971').GetArea.GetName]#! et en #Y [GetProvince('(int32)1978').GetArea.GetName]#!. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_03_anatolia_task_9_cities_trigger_loc')]"
+ seleukid_mission_03_anatolia_task_9_cities_trigger_loc_01:0 "(#R [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_9_cities_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_9_cities_total')|0]#!)"
+ seleukid_mission_03_anatolia_task_9_cities_trigger_loc_02:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_9_cities_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_9_cities_total')|0]#!)"
+
+ seleukid_mission_03_anatolia_task_13_forts_trigger_tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! a au moins #Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_13_fort_total')|0]#! forts en #Y [GetProvince('(int32)1952').GetArea.GetName]#! et en #Y [GetProvince('(int32)292').GetArea.GetName]#!. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_03_anatolia_task_13_forts_trigger_loc')]"
+ seleukid_mission_03_anatolia_task_13_forts_trigger_loc_01:0 "(#R [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_13_fort_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_13_fort_total')|0]#!)"
+ seleukid_mission_03_anatolia_task_13_forts_trigger_loc_02:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_13_fort_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_13_fort_total')|0]#!)"
+
+ seleukid_mission_03_anatolia_task_13_cities_trigger_tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! a au moins #Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_13_cities_total')|0]#! cités en #Y [GetProvince('(int32)1952').GetArea.GetName]#! et en #Y [GetProvince('(int32)292').GetArea.GetName]#!. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_03_anatolia_task_13_cities_trigger_loc')]"
+ seleukid_mission_03_anatolia_task_13_cities_trigger_loc_01:0 "(#R [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_13_cities_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_13_cities_total')|0]#!)"
+ seleukid_mission_03_anatolia_task_13_cities_trigger_loc_02:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_13_cities_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_13_cities_total')|0]#!)"
+
+ seleukid_mission_03_anatolia_task_15_trigger_tt:0 "#Y [THIS.GetProvince.GetName]#! a au moins #Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_15_total')|0]#! temples. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_03_anatolia_task_15_loc')]"
+ seleukid_mission_03_anatolia_task_15_loc_01:0 "(#R [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_15_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_15_total')|0]#!)"
+ seleukid_mission_03_anatolia_task_15_loc_02:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_15_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_03_anatolia_task_15_total')|0]#!)"
+
+ # Effects
+ seleukid_mission_03_anatolia_task_10_effect_tt:0 "Fait de la #Y Cappadoce#! une feudataire de #Y [SCOPE.GetRootScope.GetCountry.GetName]#!"
+ seleukid_mission_03_anatolia_task_10_effect_tt_2:0 "La #Y Cappadoce#! va recevoir toutes les localités que #Y [SCOPE.GetRootScope.GetCountry.GetName]#! possède en #Y [GetProvince('(int32)1932').GetArea.GetName]#!."
+ seleukid_mission_03_anatolia_task_10_effect_tt_3:0 "La #Y Cappadoce#! va recevoir toutes les localités que #Y [SCOPE.GetRootScope.GetCountry.GetName]#! possède en #Y [GetProvince('(int32)172').GetArea.GetName]#!."
+
+ seleukid_mission_03_anatolia_task_15_effect_tt:0 "Permet la divinité [apollo_deity.GetName]."
+
+ ### 4
+ # Base Info
+ seleukid_mission_04_palestine:0 "Jusqu'aux frontières de l'Égypte"
+ seleukid_mission_04_palestine_DESCRIPTION:0 "Contrôler [GetProvince('(int32)687').GetArea.GetRegion.GetName] et [GetProvince('(int32)789').GetArea.GetRegion.GetName] est vital si nous voulons dominer les carrefours de l'ancien empire de [GetCharacter('(int32)39').GetPraenomen], qui permettent les relations entre l'Égypte et l'Anatolie, ou l'Anatolie et la Babylonie.\n\nNous assurer de ces régions nous permettra de prendre le contrôle de tous les autres territoires de l'ancien empire."
+ seleukid_mission_04_palestine_CRITERIA_DESCRIPTION:0 "Cette mission sera considérée comme menée à bien lorsque nous aurons pris le contrôle de [GetProvince('(int32)687').GetArea.GetRegion.GetName] et de [GetProvince('(int32)789').GetArea.GetRegion.GetName]."
+ seleukid_mission_04_palestine_BUTTON_TOOLTIP:0 "Au cœur de l'ancien empire se trouve [GetProvince('(int32)687').GetArea.GetRegion.GetName] et [GetProvince('(int32)789').GetArea.GetRegion.GetName], deux régions qui n'attendent que nous pour les gouverner."
+
+ seleukid_mission_04_palestine_task_1:0 "S'assurer de la Syrie"
+ seleukid_mission_04_palestine_task_2:0 "Protéger les cols"
+ seleukid_mission_04_palestine_task_3:0 "Chantiers navals phéniciens"
+ seleukid_mission_04_palestine_task_4:0 "Préparer la campagne au sud"
+ seleukid_mission_04_palestine_task_5:0 "Côtes de Palestine"
+ seleukid_mission_04_palestine_task_6:0 "Les dieux d'Ascalon"
+ seleukid_mission_04_palestine_task_7:0 "Intégration de la Palestine"
+ seleukid_mission_04_palestine_task_8:0 "Administration méridionale"
+ seleukid_mission_04_palestine_task_9:0 "Terres de lait et de miel"
+ seleukid_mission_04_palestine_task_10:0 "Voisins méridionaux"
+ seleukid_mission_04_palestine_task_11:0 "Coloniser la Décapole"
+ seleukid_mission_04_palestine_task_12:0 "État de Judée"
+ seleukid_mission_04_palestine_task_final:0 "Rempart méridional"
+
+ seleukid_mission_04_palestine_task_1_DESC:0 "Nous devons nous assurer de l'ensemble de [GetProvince('(int32)789').GetArea.GetRegion.GetName] avant de lancer les campagnes en [GetProvince('(int32)687').GetArea.GetRegion.GetName]. Ainsi, la route vers le sud sera sûre pour nos troupes."
+ seleukid_mission_04_palestine_task_2_DESC:0 "S'ils ne sont pas surveillés, les cols, les collines et les montagnes entre [GetProvince('(int32)789').GetArea.GetRegion.GetName] et [GetProvince('(int32)687').GetArea.GetRegion.GetName] constituent autant de pièges lorsqu'on les traverse. Établir des défenses nous permettra de retourner tous ces points contre nos ennemis, s'ils parviennent jusque dans la région, tout en protégeant notre peuple lorsqu'il empruntera la même route."
+ seleukid_mission_04_palestine_task_3_DESC:0 "Les chantiers navals de Phénicie sont connus bien au-delà des frontières de leurs cités et de leurs provinces, car ils comptent parmi les meilleurs de toute la Méditerranée. Nous ne sommes que les derniers d'une longue série de rois qu'ils ont aidé à fonder une marine puissante afin de contrôler leurs côtes."
+ seleukid_mission_04_palestine_task_4_DESC:0 "Nous contrôlons désormais presque entièrement [GetProvince('(int32)789').GetArea.GetRegion.GetName], et pouvons désormais porter nos regards sur les frontières méridionales pour lancer une nouvelle campagne."
+ seleukid_mission_04_palestine_task_5_DESC:0 "Nous devons étendre nos frontières jusqu'aux déserts de l'Égypte, et incorporer les routes et cités de Phénicie qui se trouvent tout au long de la côte."
+ seleukid_mission_04_palestine_task_6_DESC:0 "Les conseillers ont porté à notre attention le temple et les sanctuaires de [GetProvince('(int32)660').GetName]. Ils pourraient être développés afin d'accroître notre popularité parmi les habitants de [GetProvince('(int32)687').GetArea.GetRegion.GetName]."
+ seleukid_mission_04_palestine_task_7_DESC:0 "Si nous voulons nous assurer définitivement de la loyauté de nos dépendances et de nos vassaux de [GetProvince('(int32)687').GetArea.GetRegion.GetName], ils doivent être familiarisés avec notre autorité. Cela implique de leur faire prendre part, jusqu'à un certain point, à l'administration de leurs propres territoires."
+ seleukid_mission_04_palestine_task_8_DESC:0 "Nous devons développer encore l'administration de la contrée, de manière à ce qu'elle puisse prendre en charge les provinces de [GetProvince('(int32)659').GetArea.GetName], de [GetProvince('(int32)680').GetArea.GetName] et de [GetProvince('(int32)670').GetArea.GetName]."
+ seleukid_mission_04_palestine_task_9_DESC:0 "Comptant parmi les territoires les plus fertiles de [GetProvince('(int32)687').GetArea.GetRegion.GetName], les provinces de [GetProvince('(int32)733').GetArea.GetName], de [GetProvince('(int32)687').GetArea.GetName] et de [GetProvince('(int32)681').GetArea.GetName] doivent passer sous notre contrôle."
+ seleukid_mission_04_palestine_task_10_DESC:0 "Si nous voulons assurer davantage notre emprise sur [GetProvince('(int32)687').GetArea.GetRegion.GetName], nous devons nous occuper de nos voisins nabatéens d'une manière ou d'une autre."
+ seleukid_mission_04_palestine_task_11_DESC:0 "Les territoires de [GetProvince('(int32)732').GetArea.GetName] sont riches et fertiles. Davantage de gens doivent s'y installer pour les cultiver. Certains colons venus de l'ouest pourraient nous être fort utiles dans cette entreprise."
+ seleukid_mission_04_palestine_task_12_DESC:0 "Outre qu'il s'agit de l'une des régions les plus fertiles de [GetProvince('(int32)687').GetArea.GetRegion.GetName], [GetProvince('(int32)687').GetArea.GetName] est aussi l'une des provinces les plus difficiles à gouverner. Ses habitants y sont férocement attachés à leur indépendance, et ils se sont opposés, pour une raison ou une autre, à la plupart des administrations imposées par l'étranger."
+ seleukid_mission_04_palestine_task_final_DESC:0 "D'ici peu, toute [GetProvince('(int32)687').GetArea.GetRegion.GetName] sera entièrement sous contrôle, et la campagne pour nous en assurer, en même temps que [GetProvince('(int32)789').GetArea.GetRegion.GetName], sera bientôt achevée d'ici."
+
+ # Triggers
+ seleukid_mission_04_palestine_task_3_trigger_tt:0 "[THIS.GetCountry.GetName] a une loyauté d'au moins #Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_3_total')|0]#!. [THIS.GetCountry.Custom('seleukid_mission_04_palestine_task_3_loc')]"
+ seleukid_mission_04_palestine_task_3_loc_01:0 "(#R [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_3_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_3_total')|0]#!)"
+ seleukid_mission_04_palestine_task_3_loc_02:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_3_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_3_total')|0]#!)"
+
+ seleukid_mission_04_palestine_task_4_trigger_tt:1 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! compte au moins #Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_4_total')|0]#! cohortes dans ses légions. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_04_palestine_task_4_loc')]"
+ seleukid_mission_04_palestine_task_4_loc_01:0 "(#R [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_4_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_4_total')|0]#!)"
+ seleukid_mission_04_palestine_task_4_loc_02:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_4_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_4_total')|0]#!)"
+
+ seleukid_mission_04_palestine_task_6_trigger_tt:0 "#Y [GetProvince('(int32)660').GetName]#! compte au moins #Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_6_total')|0]#! [GetBuilding('temple_building').GetName]. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_04_palestine_task_6_loc')]"
+ seleukid_mission_04_palestine_task_6_loc_01:0 "(#R [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_6_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_6_total')|0]#!)"
+ seleukid_mission_04_palestine_task_6_loc_02:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_6_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_6_total')|0]#!)"
+
+ seleukid_mission_04_palestine_task_7_trigger_tt:0 "Au moins #Y 80%#! des #Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_7_absolute_total')|0]#! pops de la région de #Y [GetProvince('(int32)687').GetArea.GetRegion.GetName]#! possédées par #Y [SCOPE.GetRootScope.GetCountry.GetName]#! sont #Y [SCOPE.GetRootScope.GetCountry.GetPrimaryCulture.GetName]#! ou d'une culture intégrée. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_04_palestine_task_7_loc')]"
+ seleukid_mission_04_palestine_task_7_loc_01:0 "(#R [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_7_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_7_total')|0]#!)"
+ seleukid_mission_04_palestine_task_7_loc_02:0 "(#Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_7_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_7_total')|0]#!)"
+
+ seleukid_mission_04_palestine_task_7_trigger_aramaic_tt:0 "La culture #Y araméenne#! est intégrée en #Y [SCOPE.GetRootScope.GetCountry.GetName]#!. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_04_palestine_task_7_aramaic_integration_loc')]"
+ seleukid_mission_04_palestine_task_7_aramaic_integration_loc_01:0 "(Avancée de l'intégration : #Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_7_integration_aramaic')|2]%#!)"
+ seleukid_mission_04_palestine_task_7_aramaic_integration_loc_02:0 ""
+
+ seleukid_mission_04_palestine_task_7_trigger_phoenician_tt:0 "La culture #Y phénicienne#! est intégrée en #Y [SCOPE.GetRootScope.GetCountry.GetName]#!. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_04_palestine_task_7_phoenician_integration_loc')]"
+ seleukid_mission_04_palestine_task_7_phoenician_integration_loc_01:0 "(Avancée de l'intégration : #Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_7_integration_phoenician')|2]%#!)"
+ seleukid_mission_04_palestine_task_7_phoenician_integration_loc_02:0 ""
+
+ seleukid_mission_04_palestine_task_7_trigger_hebrew_tt:0 "La culture #Y hébraïque#! est intégrée en #Y [SCOPE.GetRootScope.GetCountry.GetName]#!. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_04_palestine_task_7_hebrew_integration_loc')]"
+ seleukid_mission_04_palestine_task_7_hebrew_integration_loc_01:0 "(Avancée de l'intégration : #Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_7_integration_hebrew')|2]%#!)"
+ seleukid_mission_04_palestine_task_7_hebrew_integration_loc_02:0 ""
+
+ seleukid_mission_04_palestine_task_10_integrated_trigger_tt:0 "La culture #Y nabatéenne#! est intégrée en #Y [SCOPE.GetRootScope.GetCountry.GetName]#!. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_04_palestine_task_10_integration_loc')]"
+ seleukid_mission_04_palestine_task_10_integration_loc_01:0 "(Avancée de l'intégration : #Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_10_integration_current')|2]%#!)"
+ seleukid_mission_04_palestine_task_10_integration_loc_02:0 ""
+
+ seleukid_mission_04_palestine_task_10_subject_trigger_tt:0 "Une dépendance de #Y [SCOPE.GetRootScope.GetCountry.GetName]#! ayant une loyauté d'au moins #Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_10_subject_total')|0]#! est de culture principale #Y nabatéenne#!. [SCOPE.GetRootScope.GetCountry.Custom('seleukid_mission_04_palestine_task_10_loc')]"
+ seleukid_mission_04_palestine_task_10_loc_01:0 ""
+ seleukid_mission_04_palestine_task_10_loc_02:0 "(Plus haute : #R [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_10_subject_current')|0]#!/#Y [SCOPE.ScriptValue('seleukid_mission_04_palestine_task_10_subject_total')|0]#!)"
+ seleukid_mission_04_palestine_task_10_loc_03:0 ""
+
+ seleukid_mission_04_palestine_task_10_ally_trigger_tt:0 "Un allié de #Y [SCOPE.GetRootScope.GetCountry.GetName]#! ayant une opinion d'au moins #Y 100#! à notre égard est de culture principale #Y nabatéenne#!."
+
+ # Effects
+ seleukid_mission_04_palestine_task_4_effect_tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! dispose d'une revendication sur toutes les localités de #Y [THIS.GetProvince.GetArea.GetName]#! n'appartenant pas à une dépendance ou un allié."
+
+ seleukid_mission_04_palestine_task_6_effect_tt:0 "Permet la divinité [GetDeityDefinition('omen_hadad').GetName]."
+
+ seleukid_mission_04_palestine_task_11_effect_tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! va inciter des pops #Y [macedonian_culture.GetCultureGroup.GetName]#! de #Y [GetProvince('(int32)416').GetArea.GetRegion.GetName]#!, de #Y [GetProvince('(int32)379').GetArea.GetRegion.GetName]#! et de #Y [GetProvince('(int32)290').GetArea.GetRegion.GetName]#! à migrer vers les localités de #Y [GetProvince('(int32)732').GetArea.GetName]#!."
+
+ seleukid_mission_04_palestine_task_12_effect_tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! va avoir la possibilité de créer une dépendance en #Y [GetProvince('(int32)687').GetArea.GetName]#!."

@@ -1,0 +1,26 @@
+﻿l_french:
+ ## Generic Arabic Deities ##
+ deity_alilat:0 "$omen_alilat$"
+ omen_alilat:0 "al-Lat" # [LocEditor:AwaitingBatchUpdate]
+ omen_alilat_desc:0 "La grande al-Lat se tient parmi les hommes et les bénit de sa connaissance de la guerre afin d'assurer leur loyauté et leur volonté. Leur discipline ainsi raffermie, nous sommes assurés de remporter de nombreuses guerres, et de trouver la victoire sur notre route là où elle était impossible auparavant." # [LocEditor:AwaitingBatchUpdate]
+ deity_al_uzza:0 "$omen_al_uzza$"
+ omen_al_uzza:0 "al-Uzza" # [LocEditor:AwaitingBatchUpdate]
+ omen_al_uzza_desc:0 "Par la bénédiction de al-Uzza, les jeunes hommes seront prêts à partir en guerre, certains que la déesse veillera sur eux pour les protéger. Et, avec ces recrues nouvelles, nos armées ne manqueront pas d'hommes pour conquérir nos ennemis." # [LocEditor:AwaitingBatchUpdate]
+ deity_al_kutbay:0 "$omen_al_kutbay$"
+ omen_al_kutbay:0 "al-Kutbay" # [LocEditor:AwaitingBatchUpdate]
+ omen_al_kutbay_desc:0 "Le scribe enseignera à nos sages les prophéties et l'écrit. Et à mesure que nous apprendrons des choses nouvelles, nous saurons en faire usage pour améliorer et en faire bénéficier tout le pays." # [LocEditor:AwaitingBatchUpdate]
+ deity_talab:0 "$omen_talab$"
+ omen_talab:0 "Ta'lab" # [LocEditor:AwaitingBatchUpdate]
+ omen_talab_desc:0 "En tant que dieu de la lune, Ta'lab dispose d'une influence certaine sur la terre, la fertilité et les cultures. Dans les temps de besoin, nous en appelons souvent à son oracle pour qu'il nous guide de ses conseils." # [LocEditor:AwaitingBatchUpdate]
+ deity_ailiah:0 "$omen_ailiah$"
+ omen_ailiah:0 "Ailiah" # [LocEditor:AwaitingBatchUpdate]
+ omen_ailiah_desc:0 "Le dieu suprême veillera sur nous et nous protégera lors des guerres à venir, justifiant notre expansion dans les terres étrangères. Seuls nos plus fiers rivaux oseront s'opposer encore à nos campagnes continues, maintenant qu'Ailiah sera à notre côté pour approuver nos combats." # [LocEditor:AwaitingBatchUpdate]
+ deity_al_qaum:0 "$omen_al_qaum$"
+ omen_al_qaum:0 "al-Qaum" # [LocEditor:AwaitingBatchUpdate]
+ omen_al_qaum_desc:0 "Nous devons demander au dieu des caravanes de veiller sur les marchands partis voyager à travers le monde pour le bien du pays. Car plus riches elles reviendront, plus notre prospérité sera assurée." # [LocEditor:AwaitingBatchUpdate]
+ deity_manat:0 "$omen_manat$"
+ omen_manat:0 "al-Manat" # [LocEditor:AwaitingBatchUpdate]
+ omen_manat_desc:0 "Nous devons offrir nos prières à la grande al-Manat, avec l'espoir qu'elle agira pour bénir le destin de notre peuple. Avec elle à nos côtés, nous sommes assurés de connaître moins de querelles et de désaccords fratricides." # [LocEditor:AwaitingBatchUpdate]
+ deity_orotalt:0 "$omen_orotalt$"
+ omen_orotalt:0 "Ruda" # [LocEditor:AwaitingBatchUpdate]
+ omen_orotalt_desc:0 "Des sacrifices doivent être faits à Ruda pour le convaincre de bénir nos récoltes et de les faire vivre pour les années à venir. Car tant que nous aurons son soutien et son secours, elles croîtront, robustes et saines." # [LocEditor:AwaitingBatchUpdate]

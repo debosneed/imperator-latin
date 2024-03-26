@@ -1,0 +1,366 @@
+﻿l_french:
+ # 1
+ me_seleukid_01_babylon.1.t:0 "$seleukid_mission_01_babylonia_task_1$ : un messager"
+ me_seleukid_01_babylon.1.desc:0 "Alors que nous étions sur le point de contacter les prêtres de Babylone, nous avons reçu un messager de leur chef. S'ils apprécient les mesures que nous avons prises pour assurer leur position à Babylone, ils aimeraient que l'un de leurs acolytes ait l'occasion de voir en personne [ROOT.GetCountry.GetRuler.GetPraenomen] pour déterminer s'il est le dirigeant qui convient à la cité."
+ me_seleukid_01_babylon.1.a:0 "Accordé"
+
+ me_seleukid_01_babylon.2.t:0 "$seleukid_mission_01_babylonia_task_1$ : arrivée de [babylonian_priest_character.GetPraenomen]"
+ me_seleukid_01_babylon.2.desc:0 "Avec un petit groupe, [babylonian_priest_character.GetPraenomen] est arrivé tard dans la soirée à la cour, à [ROOT.GetCountry.GetCapital.GetName]. [babylonian_priest_character.GetSheHe|U] s'est rapidement installé, et quelques heures plus tard se trouvait plongé dans une discussion avec [ROOT.GetCountry.GetRuler.GetPraenomen] sur les questions religieuses. Il semble que [babylonian_priest_character.GetPraenomen] apportera une vision nouvelle à la cour sur ces sujets, tous deux n'étant pas tout à fait du même avis."
+ me_seleukid_01_babylon.2.a:0 "Nous verrons à quoi est bon ce prêtre"
+ me_seleukid_01_babylon.2.a.tt:0 "La tâche #Y $seleukid_mission_01_babylonia_task_1$#! a été #G menée à bien#!."
+
+ me_seleukid_01_babylon.3.t:0 "$seleukid_mission_01_babylonia_task_2$"
+ me_seleukid_01_babylon.3.desc:0 "Maintenant que [babylonian_priest_character.GetPraenomen] a pris ses fonctions à la cour, [babylonian_priest_character.GetSheHe] s'est assuré de la loyauté des autres prêtres. Les dirigeants de la cité nous appuyant désormais, notre influence s'y est notablement renforcée, grâce à [babylonian_priest_character.GetPraenomen]."
+ me_seleukid_01_babylon.3.a:0 "[babylonian_priest_character.GetSheHe|U] est donc bon à quelque chose, après tout"
+ me_seleukid_01_babylon.3.a.tt:0 "La tâche #Y $seleukid_mission_01_babylonia_task_2$#! a été #G menée à bien#!."
+
+ me_seleukid_01_babylon.4.t:0 "$seleukid_mission_01_babylonia_task_3$ : commande d'une statue"
+ me_seleukid_01_babylon.4.desc:0 "Le dernier projet de [babylonian_priest_character.GetPraenomen] est de faire représenter par une statue [GetCharacter('(int32)24').GetPraenomen], dirigeant suprême de [ROOT.GetCountry.GetName], sous les traits de Zeus Belos, une divinité syncrétiste qui a beaucoup gagné en popularité récemment. [babylonian_priest_character.GetPraenomen] dit connaître le sculpteur parfait cette tâche, et l'a déjà contacté."
+ me_seleukid_01_babylon.4.a:0 "[babylonian_priest_character.GetPraenomen] s'occupera donc de tout ?"
+
+ me_seleukid_01_babylon.5.t:0 "$seleukid_mission_01_babylonia_task_3$ : statue achevée"
+ me_seleukid_01_babylon.5.desc:0 "Enfin, le sculpteur travaillant pour [babylonian_priest_character.GetPraenomen] est apparu à la cour avec son œuvre. Lorsqu'elle a été révélée, une large foule était assemblée tout autour, émue de la beauté de cette pièce. Quel que soit l'endroit où nous choisirons de la conserver, elle est assurée de devenir populaire."
+ me_seleukid_01_babylon.5.a:0 "Nous devrions demander à [babylonian_sculptor_character.GetPraenomen] s'il veut rester"
+ me_seleukid_01_babylon.5.a.tt:0 "#Y [babylonian_sculptor_character.GetName]#! va rester à la cour"
+ me_seleukid_01_babylon.5.a.tt.2:0 "La tâche #Y $seleukid_mission_01_babylonia_task_3$#! a été #G menée à bien#!."
+ me_seleukid_01_babylon.5.b:0 "Maintenant, reste à savoir quoi faire de cette statue"
+ me_seleukid_01_babylon.5.b.tt:0 "#Y [babylonian_sculptor_character.GetName]#! va quitter la cour"
+ me_seleukid_01_babylon.5.b.tt.2:0 "La tâche #Y $seleukid_mission_01_babylonia_task_3$#! a été #G menée à bien#!."
+
+ me_seleukid_01_babylon.6.t:0 "$seleukid_mission_01_babylonia_task_5$"
+ me_seleukid_01_babylon.6.desc:0 "Avec la restauration de la grande cité de [GetProvince('(int32)918').GetName] et l'achèvement de [GetProvince('(int32)911').GetName], nous disposons maintenant de deux forteresses qui retarderont tout ennemi qui chercherait à piller ou traverser la Babylonie. Les deux capitales de la région étant terminées, nous devons maintenant nous consacrer au reste de la satrapie."
+ me_seleukid_01_babylon.6.a:0 "Un pas après l'autre"
+ me_seleukid_01_babylon.6.a.tt:0 "La tâche #Y $seleukid_mission_01_babylonia_task_5$#! a été #G menée à bien#!."
+
+ me_seleukid_01_babylon.7.t:0 "$seleukid_mission_01_babylonia_task_6$"
+ me_seleukid_01_babylon.7.desc:0 "Toujours davantage d'habitants de Babylonie se font à notre administration et notre gouvernance, tandis que nous propageons les droits civiques aux nombreuses villes et aux innombrables villages des régions environnantes. Si nous gouvernons une population très diverse, parlant de nombreuses langues et appartenant à des cultures très différentes, nous sommes en train de découvrir de nouvelles façons de gouverner l'ensemble de nos sujets."
+ me_seleukid_01_babylon.7.a:0 "Grecs, Babyloniens, Araméens, tous reconnaissent notre autorité"
+ me_seleukid_01_babylon.7.a.tt:0 "La mission #Y $seleukid_mission_01_babylonia_task_6$#! a été #G menée à bien#!."
+
+ me_seleukid_01_babylon.8.t:0 "$seleukid_mission_01_babylonia_task_7$"
+ me_seleukid_01_babylon.8.desc:0 "Toute la région entourant la Babylonie a souffert de l'invasion de la satrapie par [GetCharacter('(int32)37').GetPraenomen], jusqu'à ce que notre estimé [ROOT.GetCountry.GetRulerTitle] [ROOT.GetCountry.GetRuler.GetPraenomen] décide de lancer la restauration de ses cités antiques, l'une après l'autre. Enfin elles commencent à retrouver leur aspect glorieux de jadis, et à redevenir des centres importants pour la levée des taxes et le recrutement d'effectifs pour l'armée."
+ me_seleukid_01_babylon.8.a:0 "C'est vital pour nous assurer de la loyauté du peuple"
+ me_seleukid_01_babylon.8.a.tt:0 "La tâche #Y $seleukid_mission_01_babylonia_task_7$#! a été #G menée à bien#!."
+
+ me_seleukid_01_babylon.9.t:0 "$seleukid_mission_01_babylonia_task_8$"
+ me_seleukid_01_babylon.9.desc:0 "Nous avons achevé la réorganisation de l'administration des territoires entourant les deux grandes cités de [GetProvince('(int32)918').GetName] et [GetProvince('(int32)911').GetName], et au-delà dans le reste de la satrapie. S'il persiste certains problèmes du fait des nombreux habitants et des cultures diverses sous notre autorité, nous apprenons peu à peu à les gouverner de façon plus efficace."
+ me_seleukid_01_babylon.9.a:0 "La situation ne pourra désormais qu'aller en s'améliorant"
+ me_seleukid_01_babylon.9.a.tt:0 "La tâche #Y $seleukid_mission_01_babylonia_task_8$#! a été #G menée à bien#!."
+
+ me_seleukid_01_babylon.10.t:0 "$seleukid_mission_01_babylonia_task_9$ : envoi de [current_steward.GetPraenomen]"
+ me_seleukid_01_babylon.10.desc:0 "À l'issue d'une discussion avec notre actuel [GetOffice('office_steward').GetCulturalName(SCOPE.GetRootScope.GetCountry)] sur la façon d'accroître notre popularité dans le petit peuple, nous avons décidé de l'envoyer dans les provinces pour voir ce qu'[current_steward.GetSheHe] pourra y faire. [current_steward.GetSheHe|U] prétend avoir quelques idées pour susciter l'amour de nos sujets des campagnes, et n'a besoin que de temps et de ressources pour mener à bien sa tâche."
+ me_seleukid_01_babylon.10.a:0 "Bonne chance, [current_steward.GetPraenomen]"
+
+ me_seleukid_01_babylon.11.t:0 "$seleukid_mission_01_babylonia_task_9$ : la foi babylonienne"
+ me_seleukid_01_babylon.11.desc:0 "Une demi-année s'est écoulée depuis que nous avons envoyé [current_steward.GetPraenomen] à travers la Babylonie pour susciter la loyauté du peuple, et de bonnes nouvelles sont enfin parvenues à la cour. Il semble que ses efforts commencent à payer, et que nous sommes de plus en plus populaires dans l'ensemble de la région."
+ me_seleukid_01_babylon.11.a:0 "Ce n'est qu'une première étape"
+ me_seleukid_01_babylon.11.a.tt:0 "La tâche #Y $seleukid_mission_01_babylonia_task_9$#! a été #G menée à bien#!."
+
+ me_seleukid_01_babylon.12.t:0 "$seleukid_mission_01_babylonia_task_10$"
+ me_seleukid_01_babylon.12.desc:0 "La paix assure prospérité et loyauté, et jusque dans les régions les plus éloignées et rurales de Babylonie qui se trouvent sous notre contrôle notre popularité et la richesse sont de plus en plus visibles. Les échanges commerciaux sont nombreux, depuis [GetProvince('(int32)963').GetName], loin au sud, jusqu'à [GetProvince('(int32)883').GetName] et [GetProvince('(int32)829').GetName], au nord, ainsi que tout le long des cours de l'Euphrate et du Tigre."
+ me_seleukid_01_babylon.12.a:0 "Bon travail"
+ me_seleukid_01_babylon.12.a.tt:0 "La tâche #Y $seleukid_mission_01_babylonia_task_10$#! a été menée #G à bien#!."
+
+ me_seleukid_01_babylon.13.t:0 "$seleukid_mission_01_babylonia_task_4$"
+ me_seleukid_01_babylon.13.desc:0 "On ne peut plus douter désormais du soutien des citoyens et des nobles babyloniens, depuis que nous avons assuré la paix et la stabilité dans la région, ainsi que leur fortune. S'ils ne sont pas toujours satisfaits à l'idée d'avoir un dirigeant d'origine étrangère, ils savent pertinemment que nous avons travaillé pour eux et respectons leurs traditions et leur culture."
+ me_seleukid_01_babylon.13.a:0 "Comme le doit tout [ROOT.GetCountry.GetRulerTitle]"
+ me_seleukid_01_babylon.13.a.tt:0 "La tâche #Y $seleukid_mission_01_babylonia_task_4$#! a été #G menée à bien#!."
+
+ me_seleukid_01_babylon.14.t:0 "$seleukid_mission_01_babylonia_task_final$"
+ me_seleukid_01_babylon.14.desc:0 "Maintenant que l'ensemble de la région entourant la Babylonie nous est assurée, et que la paix a été établie parmi ses habitants, il est indéniable que la loyauté du peuple et des nobles nous est garantie. Tout comme la satrapie est restée loyale à [GetCharacter('(int32)24').GetPraenomen], nous pouvons espérer qu'elle restera dévouée à notre cause et demeurera à l'avenir un pilier sur lequel pourra s'appuyer le gouvernement de [ROOT.GetCountry.GetName]."
+ me_seleukid_01_babylon.14.a:0 "Ils ont compris quelle était leur place"
+ me_seleukid_01_babylon.14.a.tt:0 "La tâche #Y $seleukid_mission_01_babylonia_task_final$#! a été #G menée à bien#!."
+
+ me_seleukid_01_babylon.15.t:0 "$seleukid_mission_01_babylonia$"
+ me_seleukid_01_babylon.15.desc:0 "La Babylonie a retrouvé sa gloire de jadis, et les campagnes ruineuses de [GetCharacter('(int32)37').GetPraenomen] sont désormais oubliées. Dans toute la satrapie, les habitants font de plus en plus le lien entre notre dynastie et leur foi, et notre popularité atteint de nouveaux sommets.\n\nLa Babylonie est indéniablement fidèle à notre cause, et nous pouvons nous consacrer à d'autres contrées désormais."
+ me_seleukid_01_babylon.15.a:0 "Quiconque tient la Babylonie est le véritable héritier de [GetCharacter('(int32)39').GetPraenomen]"
+ me_seleukid_01_babylon.15.a.tt:0 "La tâche #Y $seleukid_mission_01_babylonia$#! a été #G menée à bien#!."
+
+ me_seleukid_01_babylon.16.t:0 "Le prêtre babylonien"
+ me_seleukid_01_babylon.16.desc:0 "Nul à la cour ne partageant leur opinion, les prêtres de Babylone ont décidé de nous envoyer un autre délégué. [babylonian_priest_character.GetPraenomen] semble très bien éduqué, et être disposé à nous être utile aussitôt qu'[babylonian_priest_character.GetSheHe] arrivera à la cour."
+ me_seleukid_01_babylon.16.a:0 "[babylonian_priest_character.GetSheHe|U] est évidemment le bienvenu"
+ me_seleukid_01_babylon.16.a.tt:0 "[babylonian_priest_character.GetPraenomen] va être invité à rester à la cour"
+ me_seleukid_01_babylon.16.b:0 "Nous n'avons aucun intérêt à accueillir cet espion"
+ me_seleukid_01_babylon.16.b.tt:0 "Il va être interdit à [babylonian_priest_character.GetPraenomen] de venir à la cour."
+ me_seleukid_01_babylon.16.c:0 "Faisons-leur dire de cesser d'envoyer leurs prêtres à [ROOT.GetCountry.GetCapital.GetName]"
+ me_seleukid_01_babylon.16.c.tt:0 "Les prêtres de Babylone vont cesser d'envoyer le moindre des leurs."
+
+ # 2
+ me_seleukid_02_syria.1.t:0 "$seleukid_mission_02_syria_task_1$ : préparatifs de guerre"
+ me_seleukid_02_syria.1.desc:0 "À ses origines, notre pays n'était qu'une satrapie peu étendue centrée sur Babylone, coupée de la Méditerranée et de nombre de ses rivaux et alliés. Nous avons depuis lors appris l'importance d'avoir un port à l'ouest, et des colons venus de Grèce.\n\nNos regards se portent sur la région entourant la Syrie, souvent négligée par les puissances plus grandes qui visent les régions les plus riches de l'ancien empire d'Alexandre."
+ me_seleukid_02_syria.1.a:0 "Les troupes seront bientôt prêtes pour nous en emparer"
+
+ me_seleukid_02_syria.2.t:0 "$seleukid_mission_02_syria_task_1$ : la campagne"
+ me_seleukid_02_syria.2.desc:0 "Les troupes sont prêtes à prendre la route pour mener campagne en Syrie, une région dont nous avons longtemps voulu nous assurer le contrôle. L'ancienne capitale antigonide de [GetProvince('(int32)790').GetName] nous attend."
+ me_seleukid_02_syria.2.a:0 "Le moment venu, tout sera à nous"
+ me_seleukid_02_syria.2.a.tt:0 "La tâche #Y $seleukid_mission_02_syria_task_1$#! a été #G menée à bien#!."
+
+ me_seleukid_02_syria.3.t:0 "$seleukid_mission_02_syria_task_2$"
+ me_seleukid_02_syria.3.desc:0 "Nous avons conquis les côtes de la Syrie, et l'ancienne capitale antigonide est désormais sous notre contrôle, de même que les autres cités et villages sur tout le cours de l'Oronte jusqu'à la mer."
+ me_seleukid_02_syria.3.a:0 "Ils se feront vite à notre autorité"
+ me_seleukid_02_syria.3.a.tt:0 "La tâche #Y $seleukid_mission_02_syria_task_2$#! a été #G menée à bien#!."
+
+ me_seleukid_02_syria.4.t:0 "$seleukid_mission_02_syria_task_3$"
+ me_seleukid_02_syria.4.desc:0 "Nous avons pris le contrôle des régions de la Syrie qui longent le cours de l'Euphrate, de même que les territoires situés à l'est de l'Oronte. [GetProvince('(int32)810').GetArea.GetName] est connue pour les nombreux cités et villages qui la parsèment, où se sont installés les colons grecs au cours des dernières décennies, tout autant que pour ses anciennes cités araméennes."
+ me_seleukid_02_syria.4.a:0 "Et il faudra s'occuper de tous de façon distincte"
+ me_seleukid_02_syria.4.a.tt:0 "La tâche #Y $seleukid_mission_02_syria_task_3$#! a été #G menée à bien#!."
+
+ me_seleukid_02_syria.5.t:0 "$seleukid_mission_02_syria_task_4$"
+ me_seleukid_02_syria.5.desc:0 "Grâce aux cités nouvellement fondées, nous avons commencé à établir une administration qui pourra gouverner la région. Si nous sommes accoutumés aux particularités de la Babylonie, nous allons devoir trouver le moyen de gouverner la Syrie sans avec l'assentiment de ses habitants."
+ me_seleukid_02_syria.5.a:0 "Mais chaque chose en son temps"
+ me_seleukid_02_syria.5.a.tt:0 "La tâche #Y $seleukid_mission_02_syria_task_4$#! a été #G menée à bien#!."
+
+ me_seleukid_02_syria.6.t:0 "$seleukid_mission_02_syria_task_5$"
+ me_seleukid_02_syria.6.desc:0 "Les gens affluent dans la cité nouvellement fondée de [GetProvince('(int32)789').GetName], depuis le site de l'ancienne capitale antigonide. Comme [GetProvince('(int32)911').GetName] était le siège du pouvoir [ROOT.GetCountry.GetAdjective] et de l'administration de la Babylonie, [GetProvince('(int32)789').GetName] aura le même rôle en Syrie."
+ me_seleukid_02_syria.6.a:0 "Une nouvelle grande cité est née"
+ me_seleukid_02_syria.6.a.tt:0 "La tâche #Y $seleukid_mission_02_syria_task_5$#! a été #G menée à bien#!."
+
+ me_seleukid_02_syria.7.t:0 "$seleukid_mission_02_syria_task_6$"
+ me_seleukid_02_syria.7.desc:0 "Les travaux à [GetProvince('(int32)789').GetName], en [GetProvince('(int32)789').GetArea.GetName], sont enfin achevés, et nous disposons désormais d'un véritable port sur la Méditerranée. Avec l'afflux de colons, et du fait que nous y avons consacré une grande attention ces derniers temps, beaucoup de gens commencent à la regarder comme la nouvelle capitale de [ROOT.GetCountry.GetName]."
+ me_seleukid_02_syria.7.a:0 "Ce n'est pas une si mauvaise idée"
+ me_seleukid_02_syria.7.a.tt:0 "La tâche #Y $seleukid_mission_02_syria_task_6$#! a été #G menée à bien#!."
+ me_seleukid_02_syria.7.b:0 "Malgré tout, notre capitale sera toujours à [ROOT.GetCountry.GetCapital.GetName]"
+ me_seleukid_02_syria.7.c:0 "Nous n'avons toujours pas officialisé son statut ?"
+
+ me_seleukid_02_syria.8.t:0 "$seleukid_mission_02_syria_task_8$ : la proposition"
+ me_seleukid_02_syria.8.desc:0 "Nous avons dépêché des émissaires pour attirer des colons grecs en [GetProvince('(int32)416').GetArea.GetRegion.GetName], en [GetProvince('(int32)379').GetArea.GetRegion.GetName] et en [GetProvince('(int32)290').GetArea.GetRegion.GetName]. Cela fait longtemps qu'ils établissent des colonies tout autour de la Méditerranée, et nous pouvons espérer que cette offre les poussera à s'établir dans nos cités de [GetProvince('(int32)789').GetArea.GetRegion.GetName]."
+ me_seleukid_02_syria.8.a:0 "Chacun d'eux sera bien traité et apprécié à sa juste valeur"
+
+ me_seleukid_02_syria.9.t:0 "$seleukid_mission_02_syria_task_8$"
+ me_seleukid_02_syria.9.desc:0 "De nombreux colons affluent dans plusieurs de nos cités, prêts à nous servir, à payer des taxes et participer aux levées. Avec ces loyaux colons grecs vivant parmi les indigènes, nous sommes assurés de pouvoir couper court à toute agitation et révolte avant même qu'elles puissent survenir."
+ me_seleukid_02_syria.9.a:0 "Ces colons sont d'une grande importance"
+ me_seleukid_02_syria.9.a.tt:0 "La tâche #Y $seleukid_mission_02_syria_task_8$#! a été #G menée à bien#!."
+ me_seleukid_move_pop_tt_1:0 "#Y [THIS.GetProvince.MakeScope.GetVariable('seleukid_pop_move_variable').GetValue|0]#! pop s'est installée à #Y [THIS.GetProvince.GetName]#!."
+ me_seleukid_move_pop_tt_2:0 "#Y [THIS.GetProvince.MakeScope.GetVariable('seleukid_pop_move_variable').GetValue|0]#! pops se sont installées à #Y [THIS.GetProvince.GetName]#!."
+
+ me_seleukid_02_syria.10.t:0 "$seleukid_mission_02_syria_task_7$"
+ me_seleukid_02_syria.10.desc:0 "Notre [ROOT.GetCountry.GetRulerTitle] [ROOT.GetCountry.GetRuler.GetPraenomen] a commencé à travailler sur un réseau complexe de fortifications tout autour de la région, afin de la protéger de toute invasion. Elle est devenue une partie non négligeable de notre empire, aussi devons-nous veiller à ce que sa sécurité soit assurée et qu'elle devienne productive, aussi rapidement que possible."
+ me_seleukid_02_syria.10.a:0 "À chaque jour suffit sa peine"
+ me_seleukid_02_syria.10.a.tt:0 "La tâche #Y $seleukid_mission_02_syria_task_7$#! a été #G menée à bien#!."
+
+ me_seleukid_02_syria.11.t:0 "$seleukid_mission_02_syria_task_9$"
+ me_seleukid_02_syria.11.desc:0 "À l'ouest de [GetProvince('(int32)789').GetArea.GetName] s'étend [GetProvince('(int32)1880').GetArea.GetName], de l'autre côté de [GetProvince('(int32)8021').GetName] et de [GetProvince('(int32)1870').GetName]. La région a longtemps accueilli des colons grecs, et plusieurs villes et cités grecques anciennes se trouvent sur la côte fertile.\n\nLa contrée est passée sous notre contrôle, aussi pourrons-nous lever davantage de Grecs dans nos armées, et nous appuyer davantage sur eux si nous devons affronter d'autres États grecs."
+ me_seleukid_02_syria.11.a:0 "Ils sont le cœur dont nos armées ont besoin"
+ me_seleukid_02_syria.11.a.tt:0 "La tâche #Y $seleukid_mission_02_syria_task_9$#! a été #G menée à bien#!."
+
+ me_seleukid_02_syria.12.t:0 "$seleukid_mission_02_syria_task_10$"
+ me_seleukid_02_syria.12.desc:0 "Les travaux de [GetProvince('(int32)1880').GetName] sont sur le point de s'achever, et les gens commencent à nous voir comme de nouveaux Mopsos, le fondateur mythique de la cité. De bien des manières, nous avons entièrement refondé ce lieu pour en faire une cité grande et moderne, sur laquelle nous pourrons nous appuyer désormais."
+ me_seleukid_02_syria.12.a:0 "Il est donc normal que nous la renommions"
+ me_seleukid_02_syria.12.a.tt:0 "La tâche #Y $seleukid_mission_02_syria_task_10$#! a été #G menée à bien#!."
+
+ me_seleukid_02_syria.13.t:0 "$seleukid_mission_02_syria_task_11$"
+ me_seleukid_02_syria.13.desc:0 "Avec la restauration des sites sacrés autour de [GetProvince('(int32)1881').GetName], nous nous sommes aussi assurés de rétablir l'oracle de la contrée. Ce mystique était autrefois important, mais il avait depuis lors perdu de son prestige, à mesure que les temples tombaient en désuétude et menaçaient ruine.\n\nMais la contrée a retrouvé sa gloire d'autrefois, aussi l'oracle semble-t-il reconnaissant de l'aide que nous lui avons apportée et nous a-t-il promis d'envoyer de bonnes nouvelles si c'est possible."
+ me_seleukid_02_syria.13.a:0 "Espérons en recevoir bien vite, en ce cas"
+ me_seleukid_02_syria.13.a.tt:0 "La tâche #Y $seleukid_mission_02_syria_task_11$#! a été #G menée à bien#!."
+
+ me_seleukid_02_syria.14.t:0 "$seleukid_mission_02_syria_task_final$"
+ me_seleukid_02_syria.14.desc:0 "Nous avons enfin atteint tous nos objectifs en Syrie, qui est devenue une part importante de l'empire. Avec ces colons et ces cités nouvelles disséminés dans toute la région, nous avons commencé à initier un mouvement qui ne n'est jamais vu depuis des éternités dans cette région du monde."
+ me_seleukid_02_syria.14.a:0 "Une nouvelle étape de franchie"
+ me_seleukid_02_syria.14.a.tt:0 "La tâche #Y $seleukid_mission_02_syria_task_final$#! a été #G menée à bien#!."
+
+ me_seleukid_02_syria.15.t:0 "$seleukid_mission_02_syria$"
+ me_seleukid_02_syria.15.desc:0 "Nos regards se portent vers de nouvelles régions intéressantes où étendre nos conquêtes, mais nous savons que la Syrie sera protégée par une administration capable qui agira en notre nom. Si ses habitants et ses activités sont très différents de ceux de Babylonie, elle est devenue tout aussi importante, si ce n'est même plus. Nous disposons désormais de ports sur la Méditerranée, et pouvons désormais jouer à nouveau notre rôle sur la scène politique de l'ancien empire d'Alexandre."
+ me_seleukid_02_syria.15.a:0 "Pour le meilleur ou le pire, cela devait se produire"
+ me_seleukid_02_syria.15.a.tt:0 "La mission #Y $seleukid_mission_02_syria$#! a été #G menée à bien#!."
+
+ me_seleukid_02_syria.17.t:0 "Colonisation de [GetProvince('(int32)789').GetArea.GetRegion.GetName]"
+ me_seleukid_02_syria.17.desc:0 "Un grand nombre de gens ont été follement attirés par les promesses d'une vie nouvelle en [GetProvince('(int32)789').GetArea.GetRegion.GetName], dans l'une de ces nombreuses cités qui y ont été fondées récemment. Ayant laissé derrière eux bon nombre de leurs possessions et leurs foyers, ils reçoivent en Orient de nouvelles maisons et de nouveaux emplois."
+ me_seleukid_02_syria.17.a:0 "Tirons au moins parti de ce qu'ils laissent derrière eux"
+ me_seleukid_move_pop_tt_3:0 "#Y [THIS.GetProvince.MakeScope.GetVariable('seleukid_pop_move_variable').GetValue|0]#! pop a quitté #Y [THIS.GetProvince.GetName]#!."
+ me_seleukid_move_pop_tt_4:0 "#Y [THIS.GetProvince.MakeScope.GetVariable('seleukid_pop_move_variable').GetValue|0]#! pops ont quitté #Y [THIS.GetProvince.GetName]#!."
+
+ me_seleukid_02_syria.18.t:0 "L'oracle de Mallos"
+ me_seleukid_02_syria.18.desc:0 "Nous avons reçu un message de l'oracle de Mallos, dont l'envoyé s'est précipité dans nos salles. Cela faisait quelque temps que nous n'avions pas reçu de nouvelles, aussi tout le monde attend-il avec impatience. Le messager commence à délivrer son message.\n\n"
+ me_seleukid_02_syria.18.desc.1:0 "$me_seleukid_02_syria.18.desc$ Apparemment, l'oracle a vu de bonnes choses pour la capitale, [ROOT.GetCountry.GetCapital.GetName], en [ROOT.GetCountry.GetCapital.GetArea.GetName], et toute la contrée sera prospère et florissante."
+ me_seleukid_02_syria.18.desc.2:0 "$me_seleukid_02_syria.18.desc$ Apparemment, l'oracle a vu de nombreux soldats être recrutés dans la capitale, à [ROOT.GetCountry.GetCapital.GetName], en [ROOT.GetCountry.GetCapital.GetArea.GetName], dont les habitants seront inspirés par notre dirigeant et [ROOT.GetCountry.GetRulerTitle], [ROOT.GetCountry.GetRuler.GetName]."
+ me_seleukid_02_syria.18.desc.3:0 "$me_seleukid_02_syria.18.desc$ Apparemment, l'oracle a vu de bonnes choses pour la capitale, [ROOT.GetCountry.GetCapital.GetName], en [ROOT.GetCountry.GetCapital.GetArea.GetName], dont les habitants prospéreront et resteront loyaux à notre autorité, aussi loin que cela puisse être prévu."
+ me_seleukid_02_syria.18.desc.4:0 "$me_seleukid_02_syria.18.desc$ Apparemment, l'oracle a vu de bonnes choses pour le pays, qui sera prospère et florissant."
+ me_seleukid_02_syria.18.desc.5:0 "$me_seleukid_02_syria.18.desc$ Apparemment, l'oracle a vu de bonnes choses pour le pays, et de nombreux soldats seront recrutés dans nos armées, fournissant troupes et levées, aussi loin que cela puisse être prévu."
+ me_seleukid_02_syria.18.desc.6:0 "$me_seleukid_02_syria.18.desc$ Apparemment, l'oracle a vu de bonnes choses pour le pays, dont les habitants prospéreront et soutiendront notre autorité, aussi loin que cela puisse être prévu."
+ me_seleukid_02_syria.18.a:0 "Florissant, c'est bien cela ?"
+ me_seleukid_02_syria.18.b:0 "En ce cas, il est peut-être temps de passer à l'attaque"
+ me_seleukid_02_syria.18.c:0 "Bonnes nouvelles pour nous tous, donc"
+ me_seleukid_02_syria.18.d:0 "$me_seleukid_02_syria.18.a$."
+ me_seleukid_02_syria.18.e:0 "$me_seleukid_02_syria.18.b$"
+ me_seleukid_02_syria.18.f:0 "$me_seleukid_02_syria.18.c$"
+
+ # 3
+ me_seleukid_03_anatolia.1.t:0 "$seleukid_mission_03_anatolia_task_1$"
+ me_seleukid_03_anatolia.1.desc:0 "Le cœur de l'ancienne satrapie de Phrygie, autrefois le fief de [GetCharacter('(int32)37').GetPraenomen], était centré autour de la cité de [GetProvince('(int32)1936').GetName]. C'est une ancienne cité phrygienne, au cœur de [GetProvince('(int32)1936').GetArea.GetRegion.GetName], dont elle a longtemps été le centre administratif.\n\nAvec la conquête de la contrée, l'heure est venue de faire de cette ancienne capitale le centre de notre administration."
+ me_seleukid_03_anatolia.1.a:0 "[GetCharacter('(int32)37').GetPraenomen] pleurerait s'[GetCharacter('(int32)37').GetSheHe] voyait son royaume"
+ me_seleukid_03_anatolia.1.a.tt:0 "La tâche #Y $seleukid_mission_03_anatolia_task_1$#! a été #G menée à bien#!."
+
+ me_seleukid_03_anatolia.2.t:0 "$seleukid_mission_03_anatolia_task_2$"
+ me_seleukid_03_anatolia.2.desc:0 "L'ancienne capitale de [GetCharacter('(int32)37').GetPraenomen] est désormais sous notre autorité, et nous avons consacré beaucoup de temps à la reconstruire pour en faire un centre administratif en [GetProvince('(int32)1936').GetArea.GetRegion.GetName]. Maintenant qu'elle est refondée, nous devons trouver quel nom lui serait approprié."
+ me_seleukid_03_anatolia.2.a:0 "Nous avons déjà une idée"
+ me_seleukid_03_anatolia.2.a.tt:0 "La tâche #Y $seleukid_mission_03_anatolia_task_2$#! a été #G menée à bien#!."
+
+ me_seleukid_03_anatolia.3.t:0 "$seleukid_mission_03_anatolia_task_3$"
+ me_seleukid_03_anatolia.3.desc:0 "En [GetProvince('(int32)1928').GetArea.GetName], dans la petite cité de [GetProvince('(int32)1928').GetName], se trouve un ancien sanctuaire à la divinité lunaire [men_deity.GetName]. Plaçant au cœur de notre entreprise ce temple important pour la contrée, nous avons rebâti la cité à l'image de nos capitales, et établi une administration pour la contrée."
+ me_seleukid_03_anatolia.3.a:0 "Ces gens devraient nous remercier"
+ me_seleukid_03_anatolia.3.a.tt:0 "La tâche #Y $seleukid_mission_03_anatolia_task_3$#! a été #G menée à bien#!."
+
+ me_seleukid_03_anatolia.4.t:0 "$seleukid_mission_03_anatolia_task_4$"
+ me_seleukid_03_anatolia.4.desc:0 "En [GetProvince('(int32)1936').GetArea.GetRegion.GetName] se trouve un grand nombre de cités et de forteresses, établies sur la route royale menant à l'ouest. Une nouvelle administration a été établie, qui pourra gouverner l'ensemble de la région, qui sous notre autorité pourra assurément prospérer."
+ me_seleukid_03_anatolia.4.a:0 "Après tout, c'est le prix à payer pour la sécurité"
+ me_seleukid_03_anatolia.4.a.tt:0 "La tâche #Y $seleukid_mission_03_anatolia_task_4$#! a été #G menée à bien#!."
+
+ me_seleukid_03_anatolia.5.t:0 "$seleukid_mission_03_anatolia_task_5$"
+ me_seleukid_03_anatolia.5.desc:0 "Nous avons consacré du temps et des ressources à faire de [GetProvince('(int32)1936').GetName] une grande cité royale, et intégrer ses habitants. S'ils nous étaient étrangers lorsque nous nous sommes établis là la première fois, nous les connaissons mieux désormais, et ils ont commencé à jouer un véritable rôle dans l'administration de l'Anatolie."
+ me_seleukid_03_anatolia.5.a:0 "Ce qui est profitable à tous, semble-t-il"
+ me_seleukid_03_anatolia.5.a.tt:0 "La tâche #Y $seleukid_mission_03_anatolia_task_5$#! a été #G menée à bien#!."
+
+ me_seleukid_03_anatolia.6.t:0 "$seleukid_mission_03_anatolia_task_6$"
+ me_seleukid_03_anatolia.6.desc:0 "Juste au nord de [GetProvince('(int32)1883').GetArea.GetRegion.GetName] se trouve [GetProvince('(int32)1799').GetArea.GetRegion.GetName], et les confins orientaux de [GetProvince('(int32)1936').GetArea.GetRegion.GetName], des régions souvent négligées du fait qu'elles ne sont pas aussi riches que nombre de leurs voisines. Mais nous en avons désormais pris le contrôle, aussi devons-nous immédiatement chercher un lieu où établir un nouveau centre administratif."
+ me_seleukid_03_anatolia.6.a:0 "Nous ferons ce que nos prédécesseurs n'ont pu faire"
+ me_seleukid_03_anatolia.6.a.tt:0 "La tâche #Y $seleukid_mission_03_anatolia_task_6$#! a été #G menée à bien#!."
+
+ me_seleukid_03_anatolia.7.t:0 "$seleukid_mission_03_anatolia_task_7$"
+ me_seleukid_03_anatolia.7.desc:0 "[GetProvince('(int32)177').GetName] est un lieu plein de promesses pour l'administration de la contrée. Avec une réelle cité bâtie là, et les habitants loyaux à notre cause, il est temps de déterminer quelles autres contrées sont intéressantes pour assurer la sécurité de la région."
+ me_seleukid_03_anatolia.7.a:0 "Cela valait la peine"
+ me_seleukid_03_anatolia.7.a.tt:0 "La tâche #Y $seleukid_mission_03_anatolia_task_7$#! a été #G menée à bien#!."
+
+ me_seleukid_03_anatolia.8.t:0 "$seleukid_mission_03_anatolia_task_8$"
+ me_seleukid_03_anatolia.8.desc:0 "[GetProvince('(int32)1934').GetName] et [GetProvince('(int32)1951').GetName] sont deux anciennes cités, dont on dit qu'elles datent de l'époque des mythes et des légendes. Maintenant qu'elles se trouvent sous notre autorité, nous pouvons espérer que le reste de la région acceptera notre influence."
+ me_seleukid_03_anatolia.8.a:0 "Espérons qu'ils apprécieront ce qui a été fait pour eux"
+ me_seleukid_03_anatolia.8.a.tt:0 "La tâche #Y $seleukid_mission_03_anatolia_task_8$#! a été #G menée à bien#!."
+
+ me_seleukid_03_anatolia.9.t:0 "$seleukid_mission_03_anatolia_task_9$"
+ me_seleukid_03_anatolia.9.desc:0 "Plusieurs cités et forteresses ont été établies à l'extrémité orientale de la Voie royale, en Anatolie, qui assurent la protection de la plus grande partie de la région de [GetProvince('(int32)1883').GetArea.GetRegion.GetName]. L'administration de la contrée commence à trouver ses marques, ce qui nous permet de recentrer ailleurs nos efforts et nos ressources."
+ me_seleukid_03_anatolia.9.a:0 "Ils font un travail admirable"
+ me_seleukid_03_anatolia.9.a.tt:0 "La tâche #Y $seleukid_mission_03_anatolia_task_9$#! a été #G menée à bien#!."
+
+ me_seleukid_03_anatolia.10.t:0 "$seleukid_mission_03_anatolia_task_10$"
+ me_seleukid_03_anatolia.10.desc:0 "Si elle était à l'origine une satrapie sous l'autorité du Grec [GetCharacter('(int32)408').GetPraenomen], puis un royaume gouverné par des souverains originaires de la région, [cappadocia_country.GetName] a connu de nombreuses épreuves depuis. Nous devons aider son peuple à retrouver son indépendance, sous la forme d'un royaume vassal du nôtre."
+ me_seleukid_03_anatolia.10.a:0 "Tant qu'ils se croiront indépendants, cela devrait suffire"
+ me_seleukid_03_anatolia.10.a.tt:0 "La tâche #Y $seleukid_mission_03_anatolia_task_10$#! a été #G menée à bien#!."
+
+ me_seleukid_03_anatolia.11.t:0 "$seleukid_mission_03_anatolia_task_11$"
+ me_seleukid_03_anatolia.11.desc:0 "[GetProvince('(int32)1936').GetArea.GetRegion.GetName] et des parties de [GetProvince('(int32)1951').GetArea.GetRegion.GetName] sont sous notre contrôle, et nous poussons toujours davantage à l'ouest, vers les côtes grecques. Nous devons désormais décider de la manière de gouverner l'Ouest de l'Anatolie, autour de [GetProvince('(int32)292').GetArea.GetName] et de [GetProvince('(int32)1952').GetArea.GetName]."
+ me_seleukid_03_anatolia.11.a:0 "Nous nous rapprochons enfin de notre objectif"
+ me_seleukid_03_anatolia.11.a.tt:0 "La tâche #Y $seleukid_mission_03_anatolia_task_11$#! a été #G menée à bien#!."
+
+ me_seleukid_03_anatolia.12.t:0 "$seleukid_mission_03_anatolia_task_12$"
+ me_seleukid_03_anatolia.12.desc:0 "[GetProvince('(int32)292').GetName] a été une capitale occidentale de grande importance pour de nombreux empires s'étant établis en Anatolie, que ce soit pour les Perses, [GetCharacter('(int32)39').GetPraenomen] ou [GetCharacter('(int32)37').GetPraenomen]. De la même manière, nous nous sommes assurés de la loyauté de ses habitants et avons grandement développé la cité, de manière à ce qu'elle devienne aussi le centre administratif de la contrée."
+ me_seleukid_03_anatolia.12.a:0 "Nous sommes enfin arrivés au bout de la route"
+ me_seleukid_03_anatolia.12.a.tt:0 "La tâche #Y $seleukid_mission_03_anatolia_task_12$#! a été #G menée à bien#!."
+
+ me_seleukid_03_anatolia.13.t:0 "$seleukid_mission_03_anatolia_task_13$"
+ me_seleukid_03_anatolia.13.desc:0 "Nous avons construit des forteresses et cités à l'extrémité occidentale de la Voie royale, sur les côtes grecques de [GetProvince('(int32)1973').GetArea.GetRegion.GetName]. Celles-ci sont beaucoup plus proches de nous et de nos origines, aussi sont-elles moins complexes à gouverner et à intégrer au sein de notre empire qu'ailleurs à l'est."
+ me_seleukid_03_anatolia.13.a:0 "La Macédoine n'a jamais été si proche"
+ me_seleukid_03_anatolia.13.a.tt:0 "La tâche #Y $seleukid_mission_03_anatolia_task_13$#! a été #G menée à bien#!."
+
+ me_seleukid_03_anatolia.14.t:0 "$seleukid_mission_03_anatolia_task_14$"
+ me_seleukid_03_anatolia.14.desc:0 "Non loin de [GetProvince('(int32)1973').GetName], en [GetProvince('(int32)1973').GetArea.GetName], se trouve Didyme, l'un des plus grands sanctuaires de [apollo_deity.GetName], dont les seuls rivaux sont les temples de [GetProvince('(int32)424').GetName] et [GetProvince('(int32)1835').GetName]. La famille [GetCharacter('(int32)24').GetFamily.GetName] étant supposée descendre du dieu lui-même, comme [GetCharacter('(int32)24').GetPraenomen] l'a souvent prétendu, plusieurs dons ont déjà été faits à l'oracle de Didyme."
+ me_seleukid_03_anatolia.14.a:0 "[GetProvince('(int32)1973').GetName] sous contrôle, nous pouvons protéger son temple"
+ me_seleukid_03_anatolia.14.a.tt:0 "La tâche #Y $seleukid_mission_03_anatolia_task_14$#! a été #G menée à bien#!."
+
+ me_seleukid_03_anatolia.15.t:0 "$seleukid_mission_03_anatolia_task_15$"
+ me_seleukid_03_anatolia.15.desc:0 "Avec l'extension du complexe sacré de l'oracle de Didyme, nous nous sommes attaché la loyauté et l'admiration des habitants de la contrée. Cela a toujours été un objectif pour le [SCOPE.GetRootScope.GetCountry.GetRulerTitle] [SCOPE.GetRootScope.GetCountry.GetRuler.GetPraenomen] de protéger l'oracle, car sa famille descend du dieu de la région."
+ me_seleukid_03_anatolia.15.a:0 "Nos ancêtres seraient fiers"
+ me_seleukid_03_anatolia.15.a.tt:0 "La tâche #Y $seleukid_mission_03_anatolia_task_15$#! a été #G menée à bien#!."
+
+ me_seleukid_03_anatolia.16.t:0 "$seleukid_mission_03_anatolia_task_16$"
+ me_seleukid_03_anatolia.16.desc:0 "Depuis [GetProvince('(int32)911').GetName] en Babylonie, jusqu'à [GetProvince('(int32)789').GetName], sur la côte méditerranéenne, les cités nommées Séleucie jouent un rôle important pour le pays. Nous devons en fonder une nouvelle en [GetProvince('(int32)1966').GetArea.GetName] qui, espérons-le, sera le cœur de la région, tout comme les autres avant elle."
+ me_seleukid_03_anatolia.16.a:0 "Une nouvelle cité royale sous notre autorité"
+ me_seleukid_03_anatolia.16.a.tt:0 "La tâche #Y $seleukid_mission_03_anatolia_task_16$#! a été #G menée à bien#!."
+
+ me_seleukid_03_anatolia.17.t:0 "$seleukid_mission_03_anatolia_task_final$"
+ me_seleukid_03_anatolia.17.desc:0 "Nous nous sommes enfin assurés de la voie jusqu'à [GetProvince('(int32)292').GetName], et avons établi des centres administratifs et des fortifications tout du long. Si nous souhaitons continuer de pousser vers l'ouest, la route est désormais ouverte jusqu'aux côtes grecques, et vers notre ancienne patrie de Macédoine."
+ me_seleukid_03_anatolia.17.a:0 "Notre entreprise n'est pas encore achevée"
+ me_seleukid_03_anatolia.17.a.tt:0 "La tâche #Y $seleukid_mission_03_anatolia_task_final$#! a été #G menée à bien#!."
+
+ me_seleukid_03_anatolia.18.t:0 "$seleukid_mission_03_anatolia$"
+ me_seleukid_03_anatolia.18.desc:0 "Notre rêve a enfin trouvé son aboutissement. Toute la route jusqu'aux côtes de [GetProvince('(int32)1973').GetArea.GetRegion.GetName] est nôtre. Maintenant que les territoires anatoliens les plus importants sont sous contrôle, de même que la Voie royale, la route est ouverte pour atteindre chacune des régions de l'ancien empire de [GetCharacter('(int32)39').GetPraenomen]."
+ me_seleukid_03_anatolia.18.a:0 "Et chacune est à notre portée désormais"
+ me_seleukid_03_anatolia.18.a.tt:0 "La mission #Y $seleukid_mission_03_anatolia$#! a été #G menée à bien#!."
+
+ # 4
+ me_seleukid_04_palestine.1.t:0 "$seleukid_mission_04_palestine_task_1$"
+ me_seleukid_04_palestine.1.desc:0 "Si nos regards se portent vers le sud et les territoires de [GetProvince('(int32)687').GetArea.GetRegion.GetName], nous savons qu'il est indispensable d'assurer la sécurité sur la route qui y mène avant d'envoyer les troupes dans cette direction. [GetProvince('(int32)789').GetArea.GetRegion.GetName] est déjà presque entièrement sous contrôle, aussi n'avons-nous plus qu'à imposer notre autorité dans l'ensemble de la région."
+ me_seleukid_04_palestine.1.a:0 "Cela est attendu depuis longtemps"
+ me_seleukid_04_palestine.1.a.tt:0 "La tâche #Y $seleukid_mission_04_palestine_task_1$#! a été #G menée à bien#!."
+
+ me_seleukid_04_palestine.2.t:0 "$seleukid_mission_04_palestine_task_2$"
+ me_seleukid_04_palestine.2.desc:0 "La plus grande partie du commerce, des échanges et des voyages entre [GetProvince('(int32)687').GetArea.GetRegion.GetName] et [GetProvince('(int32)789').GetArea.GetRegion.GetName] se font par les nombreux cols, collines et montagnes qui se trouvent entre les deux régions. Maintenant que ces passes sont assurées, nos soldats pourront passer en toute sécurité vers le nord et le sud, et des forteresses et défenses ont été faites au cas où la région serait attaquée."
+ me_seleukid_04_palestine.2.a:0 "Une nouvelle étape de franchie pour préparer les campagnes au sud"
+ me_seleukid_04_palestine.2.a.tt:0 "La tâche #Y $seleukid_mission_04_palestine_task_2$#! a été #G menée à bien#!."
+
+ me_seleukid_04_palestine.3.t:0 "Une flotte de Phénicie"
+ me_seleukid_04_palestine.3.desc:0 "Nous avons perpétué les liens avec les dirigeants des cités phéniciennes, du fait que nous aurons besoin de leur demander une flotte. Maintenant que nous avons tout ce dont ils auront besoin, un messager leur a été envoyé."
+ me_seleukid_04_palestine.3.a:0 "Après tout, ce sont les meilleurs charpentiers de marine au monde"
+
+ me_seleukid_04_palestine.4.t:0 "$seleukid_mission_04_palestine_task_3$"
+ me_seleukid_04_palestine.4.desc:0 "Un messager est arrivé de [GetProvince('(int32)779').GetName]. Nos navires sont terminés, et se trouvent sur les côtes de [GetProvince('(int32)779').GetArea.GetName]. Les contrôleurs ont rapporté qu'ils étaient de grande qualité, et ne ressemblent en rien à tous ceux qu'ils ont pu voir jusqu'à présent."
+ me_seleukid_04_palestine.4.a:0 "Excellent"
+ me_seleukid_04_palestine.4.a.tt:0 "La tâche #Y $seleukid_mission_04_palestine_task_3$#! a été #G menée à bien#!."
+
+ me_seleukid_04_palestine.5.t:0 "$seleukid_mission_04_palestine_task_4$"
+ me_seleukid_04_palestine.5.desc:0 "[GetProvince('(int32)789').GetArea.GetRegion.GetName] se trouve désormais entièrement sous contrôle, et nous pouvons porter nos regards vers le sud, sur [GetProvince('(int32)687').GetArea.GetRegion.GetName]. Les armées sont prêtes à marcher au combat, pour étendre nos territoires, comme c'est prévu depuis longtemps.\n\nTous n'attendent plus que la déclaration de guerre contre nos voisins du sud et le début de la campagne."
+ me_seleukid_04_palestine.5.a:0 "Comme prévu"
+ me_seleukid_04_palestine.5.a.tt:0 "La tâche #Y $seleukid_mission_04_palestine_task_4$#! a été #G menée à bien#!."
+
+ me_seleukid_04_palestine.6.t:0 "$seleukid_mission_04_palestine_task_5$"
+ me_seleukid_04_palestine.6.desc:0 "Nous nous sommes assurés de la loyauté de la côte phénicienne et de ses nombreuses cités, depuis [GetProvince('(int32)747').GetName] au nord jusqu'à [GetProvince('(int32)659').GetName] et [GetProvince('(int32)660').GetName] au sud. De vastes territoires de la région sont sous notre contrôle, aussi devons-nous maintenant travailler à assurer la sécurité de la contrée avant de porter nos regards ailleurs."
+ me_seleukid_04_palestine.6.a:0 "Un grand succès, même s'il reste beaucoup à faire"
+ me_seleukid_04_palestine.6.a.tt:0 "La tâche #Y $seleukid_mission_04_palestine_task_5$#! a été #G menée à bien#!."
+
+ me_seleukid_04_palestine.7.t:0 "$seleukid_mission_04_palestine_task_6$"
+ me_seleukid_04_palestine.7.desc:0 "Les habitants de [GetProvince('(int32)659').GetName] et de la contrée environnante apprécient nos efforts et le travail fait pour améliorer les sanctuaires et temples locaux. L'une de leurs principales divinités, le dieu [GetDeityDefinition('omen_hadad').GetName], devient même de plus en plus populaire, jusqu'à la cour."
+ me_seleukid_04_palestine.7.a:0 "[GetDeityDefinition('omen_hadad').GetName], c'est bien cela ?"
+ me_seleukid_04_palestine.7.a.tt:0 "La tâche #Y $seleukid_mission_04_palestine_task_6$#! a été #G menée à bien#!."
+
+ me_seleukid_04_palestine.8.t:0 "$seleukid_mission_04_palestine_task_7$"
+ me_seleukid_04_palestine.8.desc:0 "Nous avons beaucoup fait pour intégrer et assimiler les habitants de [GetProvince('(int32)659').GetArea.GetRegion.GetName], qui pour leur part se font à notre autorité. Des rapports des commandants sur place sont arrivés, indiquant que les problèmes sont de plus en plus rares entre l'administration [ROOT.GetCountry.GetPrimaryCulture.GetName] et les autochtones, comparé à il y a quelques mois seulement."
+ me_seleukid_04_palestine.8.a:0 "Espérons que cela perdurera"
+ me_seleukid_04_palestine.8.a.tt:0 "La tâche #Y $seleukid_mission_04_palestine_task_7$#! a été #G menée à bien#!."
+
+ me_seleukid_04_palestine.9.t:0 "$seleukid_mission_04_palestine_task_8$"
+ me_seleukid_04_palestine.9.desc:0 "Plusieurs grandes cités et établissements sont désormais assurés, et l'administration de la région est enfin bien établie. Si ses membres ne font qu'entamer leur tâche, tous les rapports indiquent que tout se passe convenablement."
+ me_seleukid_04_palestine.9.a:0 "Avec tous les efforts consentis, mieux valait que cela fonctionne"
+ me_seleukid_04_palestine.9.a.tt:0 "La tâche #Y $seleukid_mission_04_palestine_task_8$#! a été #G menée à bien#!."
+
+ me_seleukid_04_palestine.10.t:0 "$seleukid_mission_04_palestine_task_9$"
+ me_seleukid_04_palestine.10.desc:0 "Dans le cadre de la campagne plus vaste visant à s'assurer du contrôle de l'ensemble de la région de [GetProvince('(int32)687').GetArea.GetRegion.GetName], nos hommes ont pris le contrôle des provinces de [GetProvince('(int32)733').GetArea.GetName], [GetProvince('(int32)687').GetArea.GetName] et [GetProvince('(int32)681').GetArea.GetName]. Ces contrées sont connues pour leur réticence à accepter toute autorité, autant que pour le fait qu'elles comptent parmi les provinces les plus fertiles de la région."
+ me_seleukid_04_palestine.10.a:0 "Ce contrôle doit être assuré à tout prix"
+ me_seleukid_04_palestine.10.a.tt:0 "La tâche #Y $seleukid_mission_04_palestine_task_9$#! a été #G menée à bien#!."
+
+ me_seleukid_04_palestine.11.t:0 "$seleukid_mission_04_palestine_task_10$"
+ me_seleukid_04_palestine.11.desc:0 "Après tous les efforts consentis pour nous assurer des territoires autour de [GetProvince('(int32)687').GetArea.GetName], il est devenu évident qu'un accord doit être trouvé avec les Nabatéens, au sud. Un pacte entre nous a enfin été signé, et un groupe de jeunes Nabatéens est arrivé en territoire [ROOT.GetCountry.GetAdjective] pour y rencontrer le [ROOT.GetCountry.GetRulerTitle] [ROOT.GetCountry.GetRuler.GetPraenomen]."
+ me_seleukid_04_palestine.11.a:0 "Après tout, ce sont les maîtres du désert"
+ me_seleukid_04_palestine.11.a.tt:0 "La tâche #Y $seleukid_mission_04_palestine_task_10$#! a été #G menée à bien#!."
+
+ me_seleukid_04_palestine.12.t:0 "Colons grecs"
+ me_seleukid_04_palestine.12.desc:0 "Des messagers ont été préparés pour inviter les habitants de [GetProvince('(int32)416').GetArea.GetRegion.GetName], [GetProvince('(int32)379').GetArea.GetRegion.GetName] et [GetProvince('(int32)290').GetArea.GetRegion.GetName] à s'établir en [GetProvince('(int32)732').GetArea.GetName]. Avec l'arrivée de nouveaux colons dans la province, nous pourrons enfin tirer profit de ses terres fertiles, de manière plus efficace que ce que peuvent faire les habitants sur place."
+ me_seleukid_04_palestine.12.a:0 "Espérons qu'ils seront nombreux à se laisser tenter"
+
+ me_seleukid_04_palestine.13.t:0 "$seleukid_mission_04_palestine_task_11$"
+ me_seleukid_04_palestine.13.desc:0 "Des administrateurs locaux nous ont informés qu'ils ont vu arriver de nombreux Grecs, venus s'établir en [GetProvince('(int32)732').GetArea.GetName] afin de bénéficier de notre proposition de disposer de maisons, de droits et de notre protection. Peut-être pourrons-nous enfin développer réellement la province."
+ me_seleukid_04_palestine.13.a:0 "Ces gens ont une grande importance pour nous"
+ me_seleukid_04_palestine.13.a.tt:0 "La tâche #Y $seleukid_mission_04_palestine_task_11$#! a été #G menée à bien#!."
+ me_seleukid_move_pop_palestine_tt_1:0 "#Y [THIS.GetProvince.MakeScope.GetVariable('seleukid_pop_palestine_move_variable').GetValue|0]#! pop est arrivée à #Y [THIS.GetProvince.GetName]#!."
+ me_seleukid_move_pop_palestine_tt_2:0 "#Y [THIS.GetProvince.MakeScope.GetVariable('seleukid_pop_palestine_move_variable').GetValue|0]#! pops sont arrivées à #Y [THIS.GetProvince.GetName]#!."
+
+
+ me_seleukid_04_palestine.14.t:0 "$seleukid_mission_04_palestine_task_12$"
+ me_seleukid_04_palestine.14.desc:0 "Nous avons consacré beaucoup de temps et de ressources pour établir une administration en [GetProvince('(int32)687').GetArea.GetName], mais celle-ci et en permanence confrontée à des problèmes avec les habitants. Bon nombre de conseillers prétendent que les choses finiront par s'apaiser, mais rien n'est moins sûr."
+ me_seleukid_04_palestine.14.a:0 "Les administrateurs s'en sortiront, sans doute"
+ me_seleukid_04_palestine.14.a.tt:0 "La tâche #Y $seleukid_mission_04_palestine_task_12$#! a été #G menée à bien#!."
+ me_seleukid_04_palestine.14.b:0 "Ils veulent l'indépendance ? Donnons-la-leur !"
+ me_seleukid_04_palestine.14.b.tt:0 "#Y [SCOPE.GetRootScope.GetCountry.GetName]#! va accorder l'indépendance à #Y [GetProvince('(int32)687').GetArea.GetName]#! sous la forme d'un #Y État client#!."
+
+ me_seleukid_04_palestine.15.t:0 "$seleukid_mission_04_palestine_task_final$"
+ me_seleukid_04_palestine.15.desc:0 "L'ensemble de [GetProvince('(int32)687').GetArea.GetRegion.GetName] est sous contrôle, aussi avons-nous cherché dans quelle direction nous diriger maintenant. Les portes de [GetProvince('(int32)4619').GetArea.GetRegion.GetName], au sud, sont ouvertes ; mais la région est réputée pour être difficile à contrôler et traverser. Un autre choix possible est donc les terres fertiles du delta du Nil, à l'ouest, disputées depuis si longtemps."
+ me_seleukid_04_palestine.15.a:0 "Une nouvelle campagne aura lieu le moment venu"
+ me_seleukid_04_palestine.15.a.tt:0 "La tâche #Y $seleukid_mission_04_palestine_task_final$#! a été #G menée à bien#!."
+
+ me_seleukid_04_palestine.16.t:0 "$seleukid_mission_04_palestine$"
+ me_seleukid_04_palestine.16.desc:0 "La campagne est enfin achevée pour assurer notre contrôle sur l'ensemble de [GetProvince('(int32)687').GetArea.GetRegion.GetName] et [GetProvince('(int32)789').GetArea.GetRegion.GetName] et assurer la sécurité des frontières de [GetProvince('(int32)516').GetArea.GetRegion.GetName] et [GetProvince('(int32)1883').GetArea.GetRegion.GetName]. Les chantiers navals phéniciens sont sous notre autorité, et les nombreux ports de la région prêts à nous servir, aussi pouvons-nous de nouveau accroître notre influence dans les diverses régions de l'empire de [GetCharacter('(int32)39').GetPraenomen] que nous pourrions annexer un jour."
+ me_seleukid_04_palestine.16.a:0 "C'est un succès indéniable"
+ me_seleukid_04_palestine.16.a.tt:0 "La mission #Y $seleukid_mission_04_palestine$#! a été #G menée à bien#!."
+
+ me_seleukid_04_palestine.18.t:0 "Voyage vers la Décapole"
+ me_seleukid_04_palestine.18.desc:0 "Après s'être vu promettre par des messagers des droits particuliers et des maisons, de nombreux habitants des cités de l'Est ont pris la décision de se rendre dans cette contrée connue sous le nom de [GetProvince('(int32)732').GetArea.GetName]."
+ me_seleukid_04_palestine.18.a:0 "Vendons ce que ces traîtres ont laissé derrière eux"
+ me_seleukid_move_pop_palestine_tt_3:0 "#Y [THIS.GetProvince.MakeScope.GetVariable('seleukid_pop_palestine_move_variable').GetValue|0]#! pop a quitté #Y [THIS.GetProvince.GetName]#!."
+ me_seleukid_move_pop_palestine_tt_4:0 "#Y [THIS.GetProvince.MakeScope.GetVariable('seleukid_pop_palestine_move_variable').GetValue|0]#! pops ont quitté #Y [THIS.GetProvince.GetName]#!."

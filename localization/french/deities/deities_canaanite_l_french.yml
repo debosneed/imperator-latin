@@ -1,0 +1,66 @@
+﻿l_french:
+ ### Nation specific ###
+ ## Carthage ##
+ deity_baal_qarnaim:0 "$omen_baal_qarnaim$"
+ omen_baal_qarnaim:0 "Ba'l Qarnaim" # [LocEditor:AwaitingBatchUpdate]
+ omen_baal_qarnaim_desc:0 "Nous devons faire de magnifiques offrandes à Ba'l Qarnaim, le Seigneur aux deux cornes, afin de nous assurer de sa bénédiction et pour qu'il accorde sa faveur à nos guerres. Sous sa tutelle, nous pourrons aisément justifier notre expansion dans les territoires ennemis, même face à ceux qui parmi le peuple sont las des combats et des conflits.\n\nAutre avatar du grand Ba'l, nous le révérons dans les moments d'épreuve et de guerre, car c'est lui qui inspire notre peuple." # [LocEditor:AwaitingBatchUpdate]
+
+ ## Arabian (south_levantine) ##
+ deity_attar:0 "$omen_attar$"
+ omen_attar:0 "Attar" # [LocEditor:AwaitingBatchUpdate]
+ omen_attar_desc:0 "Le Preux dans la bataille nous aidera et protégera nos frères au combat en veillant à ce qu'ils maintiennent la discipline et conservent le moral. Et du fait que nos troupes combattront dès lors pour prouver leur valeur, la victoire nous sera ainsi assurée." # [LocEditor:AwaitingBatchUpdate]
+
+ ## Carthaginian ##
+ deity_tanit:0 "$omen_tanit$"
+ omen_tanit:0 "Tanit" # [LocEditor:AwaitingBatchUpdate]
+ omen_tanit_desc:0 "La déesse veillera sur nous dans le combat et nous assurera la victoire au moment de conquérir nos ennemis. Bien peu de divinités sont capables d'inspirer nos armées comme Tanit, et elles sauront prouver une fois encore sa prépondérance dans les guerres que nous livrons.\n\nTanit n'est pas venue de Phénicie avec le reste du panthéon, mais est bien une déesse proprement carthaginoise. Elle est une figure majeure de nos rites, à la fois en tant que déesse de la lune et de la guerre. Et elle nous est si favorable que certains Libyens et Maurétaniens eux-mêmes ont commencé à la révérer, prenant en cela modèle sur nous." # [LocEditor:AwaitingBatchUpdate]
+ deity_baal_hammon:0 "$omen_baal_hammon$"
+ omen_baal_hammon:0 "Ba'l Hammon" # [LocEditor:AwaitingBatchUpdate]
+ omen_baal_hammon_desc:0 "Les jeunes hommes de tout le pays vont se presser sous nos bannières en sachant que Ba'l Hammon approuve nos guerres. Avec plus de recrues disponibles, nous sommes assurés de contraindre l'ennemi à accepter nos exigences.\n\nAu contraire du Ba'l plus commun qui est révéré dans les territoires phéniciens, nous avons la faveur de Ba'l Hammon lui-même, le roi du panthéon en terre carthaginoise. Dieu des récoltes, il est parfois assimilé au Chronos des Grecs, même s'il joue un rôle bien plus actif que celui-ci." # [LocEditor:AwaitingBatchUpdate]
+
+ ## Generic ##
+ deity_anat:0 "$omen_anat$"
+ omen_anat:0 "Anat" # [LocEditor:AwaitingBatchUpdate]
+ omen_anat_desc:0 "L'implacable Anat combattra aux côtés de nos hommes, guidant leur main au combat et fortifiant leur résolution. Elle est connue pour massacrer impitoyablement ses ennemis, et nous aurons plus de chances que jamais de remporter nos combats avec elle à nos côtés.\n\nAnat est réputée en tant que déesse de la guerre chez de nombreux peuples cananéens du Levant. Ainsi a-t-elle joué un rôle de premier plan dans la vengeance de son frère Ba'l après sa mort supposée du fait de Mot." # [LocEditor:AwaitingBatchUpdate]
+ deity_el:0 "$omen_el$"
+ omen_el:0 "'El" # [LocEditor:AwaitingBatchUpdate]
+ omen_el_desc:0 "Sous la tutelle du dieu suprême, tous les jeunes hommes vont se rassembler sous nos bannières, et assurément nous remporterons nos guerres maintenant que nous avons plus d'armées que jamais auparavant.\n\nDominant le panthéon, 'El est le premier d'entre tous : roi et père de la plupart des divinités, il est aussi le créateur du pays." # [LocEditor:AwaitingBatchUpdate]
+ deity_kothar:0 "$omen_kothar$"
+ omen_kothar:0 "Kothar" # [LocEditor:AwaitingBatchUpdate]
+ omen_kothar_desc:0 "Les connaissances immenses de Kothar wa-Hasis illumineront nos artisans, les bénissant de son savoir. Et alors que nous progresserons sous son guide, nous serons assurés de pouvoir dépasser nos voisins et surtout nos ennemis.\n\nKothar est bien connu comme dieu de la métallurgie et de la magie, et c'est lui qui fabriqua grâce à ses talents de nombreuses armes et présents célèbres pour les autres divinités. On dit que les Égyptiens eux-mêmes, ayant appris son existence, lui ont donné dans leur propre langue le nom de Ptah." # [LocEditor:AwaitingBatchUpdate]
+ deity_yam:0 "$omen_yam$"
+ omen_yam:0 "Yam" # [LocEditor:AwaitingBatchUpdate]
+ omen_yam_desc:0 "Yam est l'un des dieux de la mer, dans sa forme la plus brutale. Depuis son palais dans les profondeurs obscures de l'océan il contrôle les flots ravageurs et les vents tempétueux auxquels nos navires doivent faire face lorsqu'ils parcourent les mers.\n\nS'il est l'un des champions élus de 'El, Yam est aussi un véritable danger pour quiconque ose l'offenser, et nombreux sont les marins qui ont pu éprouver son courroux lorsque leur vaisseau se jetait sur les récifs ou se disloquait sous l'assaut des flots déchaînés." # [LocEditor:AwaitingBatchUpdate]
+ deity_melqart:0 "$omen_melqart$"
+ omen_melqart:0 "Melqart" # [LocEditor:AwaitingBatchUpdate]
+ omen_melqart_desc:0 "Les longs périples du seigneur Melqart amèneront la richesse dans le pays, et avec la richesse vient la prospérité du peuple, qui assurera la sécurité pour les années à venir.\n\nS'il était à l'origine le dieu protecteur de la cité de Tyr, Melqart est depuis devenu célèbre dans tout le monde connu des Phéniciens et au-delà grâce à leurs relations commerciales et à leurs partenaires en affaires." # [LocEditor:AwaitingBatchUpdate]
+ deity_baal:0 "$omen_baal$"
+ omen_baal:0 "Ba'l" # [LocEditor:AwaitingBatchUpdate]
+ omen_baal_desc:0 "Le grand Ba'l justifiera notre expansion sur les territoires étrangers et nous assurera la victoire lors des campagnes. Car si certains sont las du combat, sa bénédiction saura les convaincre de la nécessité de poursuivre la guerre.\n\nEn tant que dieu des récoltes, des tempêtes, du temps et des marins, le Seigneur est plus vénéré de toutes nos divinités, et c'est lui qui, lors des périodes de besoin, assure notre salut en nous accordant son secours." # [LocEditor:AwaitingBatchUpdate]
+ deity_dagon:0 "$omen_dagon$"
+ omen_dagon:0 "Dagon" # [LocEditor:AwaitingBatchUpdate]
+ omen_dagon_desc:0 "Dagon fournira aux marchands des ressources illimitées pour assurer leur négoce. Grâce à lui, ils connaîtront une abondance inédite et pourront étendre leurs opérations et devenir riches lors des années à venir.\n\nAppelé par les Grecs Zeus Arotrios, « le laboureur », Dagon est le père de Ba'l et lui-même un dieu de la fertilité." # [LocEditor:AwaitingBatchUpdate]
+ deity_shapash:0 "$omen_shapash$"
+ omen_shapash:0 "Shapash" # [LocEditor:AwaitingBatchUpdate]
+ omen_shapash_desc:0 "Shapash, la déesse du soleil, fera briller sur le pays sa justice, faisant jouir le peuple de la paix et de l'intégrité. Sous sa tutelle, seuls les plus rétifs continueront de tenter de mettre bas la société, mais nous pourrons enfin mettre un terme à la menace en notre sein.\n\nEn tant que fille de 'El, Shapash est à la fois le soleil et la juge parmi les dieux, aussi est-ce elle qui tranche sur les autres dieux, lui permettant ainsi d'empêcher leurs actions si cela s'avère nécessaire." # [LocEditor:AwaitingBatchUpdate]
+ deity_astarte:0 "$omen_astarte$"
+ omen_astarte:0 "Ashtarté" # [LocEditor:AwaitingBatchUpdate]
+ omen_astarte_desc:0 "Sous le regard bienveillant de la déesse, le peuple croîtra et se développera. Grâce à sa bénédiction, nos jeunes pourront grandir forts et vigoureux, et nos récoltes seront abondantes pendant des années.\n\nAshtarté est connue comme déesse de la fertilité chez tous les Phéniciens, et parfois célébrée avec le dieu de la médecine Eshmoun. Les Grecs la comparent donc souvent à leur Aphrodite." # [LocEditor:AwaitingBatchUpdate]
+ deity_eshmun:0 "$omen_eshmun$"
+ omen_eshmun:0 "Eshmun"
+ omen_eshmun_desc:0 "La sagesse et la bienveillance d'Eshmun apporteront santé et bonheur à notre peuple. Grâce à sa vaste connaissance des dons sauvages et variés de la nature, le dieu protégera notre peuple des ravages de la maladie et du temps.\n\nAdoré de la Phénicie à Carthage et appelé par les Grecs Asklepios, Eshmun est un dieu célèbre et très apprécié à travers le monde cananéen." # [LocEditor:AwaitingBatchUpdate]
+ deity_atargatis:0 "$omen_atargatis$"
+ omen_atargatis:0 "Atargatis"
+ omen_atargatis_desc:2 "Atar'ata, la trois-fois-bienheureuse, la pourvoyeuse de plénitude et la protectrice des nécessiteux, veillera à ce que les besoins du peuple soient pourvus.\n\nElle est la combinaison de trois grandes déesses cananéennes, Atirat, Anat, et Ashtarté, dont le culte est resté populaire durant des siècles, jusqu'après l'hellénisation de la Syrie, notamment à Bambyce."
+ deity_baalat:0 "$omen_baalat$"
+ omen_baalat:0 "Ba'alat"
+ omen_baalat_desc:0 "Ba'alat est une divinité originaire de la cité-état de Byblos en Phénicie, et elle a un sanctuaire impressionnant dans la ville depuis des temps immémoriaux.\n\nLa divinité est souvent associée à la terre et à d'autres déesses de la fertilité comme Astarté et Ishtar, tandis que les Égyptiens la connaissent sous le nom de Hathor et les Grecs l'appellent Baaltis."
+
+ # Heirs of Alexander #
+ deity_gad:0 "$omen_gad$"
+ omen_gad:0 "Gad"
+ omen_gad_desc:0 "Gad est un dieu ancien, ou parfois une déesse, lié à la bonne fortune et à la chance. Au contraire de nombre d'autres divinités phéniciennes et palestiniennes, il est invoqué universellement et honoré dans de nombreuses régions de l'Est de la Méditerranée. D'autres divinités sont parfois aussi invoquées sous le nom de Gad, se référant alors à un titre davantage qu'au dieu lui-même."
+ deity_hadad:0 "$omen_hadad$"
+ omen_hadad:0 "Adad"
+ omen_hadad_desc:0 "Adad est une divinité des tempêtes originaire du Nord de la Syrie et de Basse-Arménie, où il était vénéré au même titre que la divinité syncrétiste Atar'ata. En dépit de ses origines, l'un de ses plus grands temples se trouve à Ascalon, où il était considéré comme le premier des dieux."
+

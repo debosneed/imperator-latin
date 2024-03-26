@@ -1,0 +1,108 @@
+﻿l_french:
+ ## Nemeti ##
+ deity_nemetona:0 "$omen_nemetona$"
+ omen_nemetona:0 "Nemetona" # [LocEditor:AwaitingBatchUpdate]
+ omen_nemetona_desc:0 "Notre déesse protectrice accordera à nos troupes ses faveurs, rendant certaine notre victoire au combat. Avec elle à nos côtés, nos guerriers sont assurés de combattre avec une grande discipline afin de protéger la tribu autant que la déesse qui les regarde avec faveur.\n\nNemetona est la plus importante déesse du panthéon des Némètes, même si elle est moins connue chez les autres Celtes. Elle est vénérée en tant que déesse des bosquets sacrés et des sanctuaires." # [LocEditor:AwaitingBatchUpdate]
+
+ ## Aedui ##
+ deity_sucellus:0 "$omen_sucellus$"
+ omen_sucellus:0 "Sucellos" # [LocEditor:AwaitingBatchUpdate]
+ omen_sucellus_desc:0 "Notre dieu protecteur, Sucellos, bénira le peuple et lui accordera sa protection dans les temps d'épreuve, assurant sa sécurité et la concorde entre nous. Avec lui à nos côtés, seuls les pires des fauteurs de troubles seront prêts à continuer de semer l'agitation en notre sein." # [LocEditor:AwaitingBatchUpdate]
+
+ ## Aquitani ##
+ deity_eki:0 "$omen_eki$"
+ omen_eki:0 "Eki" # [LocEditor:AwaitingBatchUpdate]
+ omen_eki_desc:0 "Nous devons vénérer la déesse du soleil afin qu'elle continue d'assurer notre protection. Car avec elle à nos côtés, même les plus agités des fauteurs de troubles seront apaisés avant de pouvoir causer plus de dommages." # [LocEditor:AwaitingBatchUpdate]
+ deity_mari:0 "$omen_mari$"
+ omen_mari:0 "Mari" # [LocEditor:AwaitingBatchUpdate]
+ omen_mari_desc:0 "Nous devons vénérer la déesse-mère de la terre, dans l'espoir qu'elle apportera sur nos champs les tempêtes de la fertilité plutôt que celles de la dévastation. Et avec ces moissons, nous serons assurés de voir notre peuple croître et se développer pour les années à venir." # [LocEditor:AwaitingBatchUpdate]
+
+ ## Pretani ##
+ deity_andraste:0 "$omen_andraste$"
+ omen_andraste:0 "Andraste"
+ omen_andraste_desc:0 "Andraste est une divinité de guerre locale généralement vénérée par les tribus Pretani vivant dans $britain_region$, les Iceni en particulier l'appelant comme une déesse de la victoire. Le lièvre est censé être un animal sacré pour Andraste, car il joue un rôle important dans les rites et rituels religieux en son honneur.\n\nParmi les Romains, elle est connue sous le nom de Victoria, et les Grecs l'appellent Nike."
+ deity_belatucadros:0 "$omen_belatucadros$"
+ omen_belatucadros:0 "Belatucadros"
+ omen_belatucadros_desc:0 "Cette divinité est un dieu de la guerre à cornes des tribus Pretani du nord, avec plusieurs variantes invoquées par les tribus locales des Votadini en particulier. Bien qu'il soit un dieu de la guerre, la divinité est également associée à la nature, à la flore et aux aulnes.\n\nParmi les Grecs et les Romains, il est connu sous le nom d'Arès et de Mars, et il est parfois vénéré comme Toutatis parmi les tribus gauloises."
+ deity_coventina:0 "$omen_coventina$"
+ omen_coventina:0 "Coventina"
+ omen_coventina_desc:0 "Coventina est une déesse des puits et des sources autour d'un petit bosquet sacré dans les terres des tribus Briganti. Soi-disant la déesse a donné vie aux terres dures de la région, et son culte a commencé à migrer au-delà de la zone immédiate où elle était à l'origine vénérée."
+ deity_nodens:0 "$omen_nodens$"
+ omen_nodens:0 "Nodens"
+ omen_nodens_desc:0 "Nodens est une divinité de guerre et de guérison des tribus Pretani, avec un accent sur la guerre en mer et la chasse. En tant que divinité chasseuse, son animal sacré est le chien, qui joue un rôle important dans la vie quotidienne de ceux qui l'adorent ainsi que dans les rituels qui le vénèrent.\n\nSon culte a commencé à apparaître en dehors des frontières de $britain_region$, et il a été lié au culte d'autres divinités comme Silvanus chez les Romains et Papposilenus chez les Grecs."
+ deity_sulis:0 "$omen_sulis$"
+ omen_sulis:0 "Sulis"
+ omen_sulis_desc:0 "Sulis est une déesse locale des sources thermales dans le sud de la région de la grande-bretagne, en partie en tant que figure de la déesse mère et en partie comme protection contre les malédictions. Même les gens de loin ont commencé à se rendre aux sources pour offrir leurs prières à la déesse, demandant de l'aide contre les malédictions qui auraient pu les affliger.\n\nDans les pays étrangers, ils l'ont nommée Minerve ou Athéna, la reliant à leur déesse de la sagesse."
+
+ ## Belgae ##
+ deity_camulus:0 "$omen_camulus$"
+ omen_camulus:0 "Camulus"
+ omen_camulus_desc:0 "Camulus est un dieu de la guerre pour les Belges de Gaule, vénéré parmi toutes leurs tribus. Il est généralement associé à un sanglier, qui est parfois considéré comme un animal sacré parmi ceux qui honorent la divinité.\n\nParmi les Grecs, il est connu sous le nom d'Arès et Mars parmi les Romains."
+
+ ## Treveri ##
+ deity_lenus:0 "$omen_lenus$"
+ omen_lenus:0 "Lenus"
+ omen_lenus_desc:0 "Lenus est un dieu de la guerre parmi certaines des petites tribus Treveri aux frontières entre la Germanie et la Gaule. Il est souvent associé au dieu gaulois plus commun Toutatis, en tant que protecteur des tribus, mais possède également de nombreux éléments uniques.\n\nEn plus d'être une divinité de guerre protectrice, il est vénéré comme un dieu des sources et de la santé chez les Treveri. Dans de nombreux cas, il est représenté avec la déesse Ancamna, généralement comme son mari."
+ deity_intarabus:0 "$omen_intarabus$"
+ omen_intarabus:0 "Intarabus"
+ omen_intarabus_desc:0 "Intarabus est l'une des divinités les plus importantes pour certaines des tribus Treveri de la Gaule, comme l'un de leurs nombreux protecteurs. Il est généralement décrit comme un homme dans la fleur de l'âge, avec une peau de loup drapée sur ses épaules et une lance à la main."
+ deity_ancamna:0 "$omen_ancamna$"
+ omen_ancamna:0 "Ancamna"
+ omen_ancamna_desc:0 "Parmi les tribus Treveri, Ancamna est une déesse de la fertilité des sources et l'une des principales divinités de leur panthéon local. Elle est souvent représentée avec son mari, Lenus, comme des protecteurs divins des tribus locales."
+
+ ## Default ##
+ deity_taranis:0 "$omen_taranis$"
+ omen_taranis:0 "Taranis" # [LocEditor:AwaitingBatchUpdate]
+ omen_taranis_desc:0 "Savoir que le dieu du ciel considère avec faveur notre cause aidera les guerriers à rester fermes face à l'adversité. Car, avec sa bénédiction et son secours, nous sommes assurés de vaincre nos ennemis et nos voisins dans la lutte pour la suprématie.\n\nTaranis est membre de la triade sacrée, avec Ésus et Toutatis, et est bien connu comme dieu du tonnerre. Les négociants et marchands latins de la péninsule italienne, quant à eux, l'assimilent à leur propre dieu Jupiter." # [LocEditor:AwaitingBatchUpdate]
+ deity_toutatis:0 "$omen_toutatis$"
+ omen_toutatis:0 "Toutatis" # [LocEditor:AwaitingBatchUpdate]
+ omen_toutatis_desc:0 "Le protecteur de la tribu saura inspirer nos guerriers pour qu'ils prennent les armes et combattent en notre nom dans les temps où ils seront les plus nécessaires. Avec toutes ces nouvelles recrues, nous sommes sûrs de pouvoir aligner plus de combattants que nous ne pouvions le faire jusqu'à présent.\n\nToutatis est membre de la triade sacrée, avec Ésus et Taranis, et est bien connu comme dieu de la guerre. Mais il est aussi vu comme un grand défenseur des tribus, ce qui lui donne un rôle de protecteur bien plus marqué que chez les dieux de la guerre des autres peuples. Aussi, même si les Romains l'interprètent comme leur propre Mars, tous deux sont de nature bien différente." # [LocEditor:AwaitingBatchUpdate]
+ deity_gobannus:0 "$omen_gobannus$"
+ omen_gobannus:0 "Gobannos" # [LocEditor:AwaitingBatchUpdate]
+ omen_gobannus_desc:0 "Le dieu protecteur des forgerons nous accordera le savoir et la technologie requis pour faire progresser la tribu bien au-delà de ce qu'elle connaît pour l'heure. Et à mesure que nous surpasserons nos ancêtres, nous pourrons rivaliser avec nos voisins et nos ennemis." # [LocEditor:AwaitingBatchUpdate]
+ deity_cernunnos:0 "$omen_cernunnos$"
+ omen_cernunnos:0 "Cernunnos" # [LocEditor:AwaitingBatchUpdate]
+ omen_cernunnos_desc:0 "Nous devons supplier le dieu cornu de partager avec notre peuple certaines des richesses qu'il porte. Avec celles-ci entre nos mains, nous serions assurés de prospérer pour les temps à venir.\n\nCernunnos est le pourvoyeur des morts, et un dieu de la vie, des animaux et de la fortune. Et s'il a l'air quelque peu sauvage et lié de près au trépas, il est habituellement regardé comme pacifique et joue un rôle important dans le panthéon." # [LocEditor:AwaitingBatchUpdate]
+ deity_ogmios:0 "$omen_ogmios$"
+ omen_ogmios:0 "Ogmios" # [LocEditor:AwaitingBatchUpdate]
+ omen_ogmios_desc:0 "Ogmios sait attacher les gens à sa cause et justifier les actions nécessaires de ceux qui l'écoutent. Or, si le peuple est convaincu que les guerres auxquelles nous avons pris part jusqu'à présent étaient indispensables, il sera plus désireux encore de prendre les armes pour les batailles qui restent à venir.\n\nLe grand héros et dieu guerrier Ogmios est réputé pour les nombreux voyages qu'il fait sur nos territoires, suscitant la sympathie pour sa cause de ceux qu'il rencontre, et il est aussi celui qui emmène les morts dans l'autre monde. Les Romains l'assimilent souvent à Hercule et les Grecs à Héraclès, mais les histoires de leur propre héros sont souvent différentes de celles d'Ogmios." # [LocEditor:AwaitingBatchUpdate]
+ deity_lugus:0 "$omen_lugus$"
+ omen_lugus:0 "Lug" # [LocEditor:AwaitingBatchUpdate]
+ omen_lugus_desc:0 "Les trois visages du dieu feront venir à nous les négociants étrangers, qui seront tout prêts à ouvrir leurs coffres pour se procurer nos marchandises. Aidé par ce grand dieu, notre peuple est assuré de voir les richesses affluer sur nos territoires.\n\nFigure majeure de notre foi, Lug assume un rôle important pour tout ce qui concerne les arts, mais est aussi considéré comme un composite de la triade sacrée constituée de Taranis, Toutatis et Ésus. Et, en dépit de toutes leurs différences, les Romains l'assimilent souvent à Mercure." # [LocEditor:AwaitingBatchUpdate]
+ deity_icovellauna:0 "$omen_icovellauna$"
+ omen_icovellauna:0 "Icovellauna" # [LocEditor:AwaitingBatchUpdate]
+ omen_icovellauna_desc:0 "Les rivières de la terre doivent être guidées pour fournir l'abondance à notre peuple, et apporter paix et prospérité à ceux qui la révèrent. Avec la déesse à nos côtés, seuls les plus agités des fauteurs de troubles continueront de poser problème, ce qui nous permettra de concentrer notre attention en dehors de notre territoire, vers les ennemis qui se trouvent au-delà des frontières." # [LocEditor:AwaitingBatchUpdate]
+ deity_rosmerta:0 "$omen_rosmerta$"
+ omen_rosmerta:0 "Rosmerta" # [LocEditor:AwaitingBatchUpdate]
+ omen_rosmerta_desc:0 "La déesse de la fertilité rendra heureux notre peuple avec des moissons abondantes et une belle vie pour nos enfants. Ainsi serons-nous assurés de subir moins de mauvaises récoltes, et de voir plus de gens grandir en bonne santé.\n\nCar Rosmerta, en compagne de Lug, est la déesse de la fertilité et de l'abondance." # [LocEditor:AwaitingBatchUpdate]
+
+ deity_brigantia:0 "$omen_brigantia$"
+ omen_brigantia:0 "Brigantia"
+ omen_brigantia_desc:0 "Nos braves guerriers prendront d'assaut la victoire sous la direction de la déesse de la bataille et de la gloire, inspirés à améliorer leurs faits d'armes et à faire confiance au triomphe inévitable de notre peuple.\nBrigantia est une déesse guerrière celtique attestée principalement dans les îles britanniques, et qui a été interprétée par les Romains comme un parallèle à Nike ou Victoria dans le panthéon hellénique." # [LocEditor:AwaitingBatchUpdate]
+ deity_glanis:0 "$omen_glanis$"
+ omen_glanis:0 "Glanis"
+ omen_glanis_desc:0 "Le pouvoir divin de guérison du dieu printanier coule à travers les nombreux pèlerins qui affluent pour partager sa bonne volonté et se baigner dans les piscines sacrées. Il est réconfortant de savoir qu'il y a de l'espoir pour les malades tant qu'ils rendent hommage aux dieux.\nGlanis était une divinité de guérison gauloise associée aux sources de Glanum, dont le culte a duré jusqu'à la montée du christianisme." # [LocEditor:AwaitingBatchUpdate]
+ deity_berobreo:0 "$omen_berobreo$"
+ omen_berobreo:0 "Berobreo"
+ omen_berobreo_desc:0 "À l'extrémité ouest du monde, le domaine souterrain de Berobreo engloutit les lieux et les mystères inconnus de la terre. Nous devons nous rappeler la nature éphémère de la vie et l'immensité de notre ignorance si nous voulons vivre heureux et apprécier les bénédictions de Dieu dans ce monde.\nUn célèbre sanctuaire qui s'avance dans la mer dans l'ouest de la Gallicie était dédié à Berobreo." # [LocEditor:AwaitingBatchUpdate]
+ deity_cichol:0 "$omen_cichol$"
+ omen_cichol:0 "Cichol"
+ omen_cichol_desc:0 "Cette divinité est l'une des divinités de guerre qui sont adorées dans la plupart du monde gaulois, des Belges au nord aux habitants de la Gaule transalpine au sud. Contrairement à de nombreuses autres divinités de guerre vénérées en Gaule, il n'est généralement pas décrit comme un protecteur, mais plutôt comme un puissant guerrier indépendant de toute tribu."
+ deity_nantosuelta:0 "$omen_nantosuelta$"
+ omen_nantosuelta:0 "Nantosuelta"
+ omen_nantosuelta_desc:0 "Nantosuelta est une divinité mystérieuse adorée au loin en Gaule, en Bretagne et en Ibérie, souvent associée à la guerre ou à l'abondance. La déesse est souvent représentée comme un corbeau, ou avec un corbeau à ses côtés, un animal qui est considéré comme sacré parmi ceux qui la vénèrent."
+ deity_maponos:0 "$omen_maponos$"
+ omen_maponos:0 "Maponos"
+ omen_maponos_desc:0 "Maponos est un dieu de la jeunesse adoré en Gaule et en Britannia, souvent représenté avec un instrument quelconque. La divinité est associée à la poésie ou à l'amour, deux attributs souvent montrés dans la plupart des histoires auxquelles il participe.\n\nParmi les Grecs et les Romains, il est connu sous le nom d'Apollon, ce qu'ils ont de plus proche d'un dieu de la jeunesse."
+ deity_belisama:0 "$omen_belisama$"
+ omen_belisama:0 "Belisama"
+ omen_belisama_desc:0 "Belisama est une déesse solaire adorée à travers la Gaule et la Bretagne. Elle est la forme féminine du Belinus encore plus célèbre, un dieu parfois dit être son mari, tous deux connus comme celui qui déplace le soleil dans le ciel.\n\nParmi les Romains, elle est parfois associée à leur déesse de la sagesse, Minerve."
+ deity_belinus:0 "$omen_belinus$"
+ omen_belinus:0 "Belinus"
+ omen_belinus_desc:0 "Belinus est un dieu solaire parmi les Gaulois et Britanniens, avec plusieurs mythes notables qui font de lui le porteur du soleil. Il est l'une des divinités les plus vénérées de toute la Gaule, parfois aussi la variante féminine connue sous le nom de Belisama, dont certains disent qu'elle est sa femme.\n\nParmi les peuples de la Méditerranée, il est généralement appelé Hélios ou Apollon, leurs propres divinités solaires."
+ deity_artio:0 "$omen_artio$"
+ omen_artio:0 "Artio"
+ omen_artio_desc:0 "Artio est une déesse de la fertilité de la vie et de l'abondance adorée au loin. L'ours est considéré comme un animal sacré de la sienne, et cette association est profonde, au point que certains l'appellent une déesse ours et la représentent avec une tête ou une peau d'ours."
+ deity_cissonius:0 "$omen_cissonius$"
+ omen_cissonius:0 "Cissonius"
+ omen_cissonius_desc:0 "Cissonius est un dieu des voyageurs et du commerce pour de nombreuses tribus en Gaule et en Bretagne, unique et très différent des nombreuses divinités guerrières et guérisseuses qui sont généralement vénérées sur ces terres. Il est généralement décrit comme un homme plus âgé monté sur un bélier et buvant du vin, et considéré comme un équivalent du grec Hermès ou du Mercure romain."

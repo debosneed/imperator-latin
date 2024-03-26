@@ -1,0 +1,42 @@
+﻿l_french:
+ ## Generic ##
+ deity_verethragna:0 "$omen_verethragna$"
+ omen_verethragna:0 "Verethragna" # [LocEditor:AwaitingBatchUpdate]
+ omen_verethragna_desc:0 "Le peuple doit réciter le yasht en l'honneur de Verethragna, qui saura l'inspirer pour se rassembler autour des bannières de la victoire. Avec ceci, nous aurons alors abondance de recrues pour nous aider dans les guerres à venir.\n\nVerethragna est connu pour sa force et pour ses combats contre les daevas d'Angra Mainyu, et si nous souhaitons jamais vivre selon les attentes d'Ahura Mazda il est un exemple véritable pour notre peuple." # [LocEditor:AwaitingBatchUpdate]
+ deity_sraosha:0 "$omen_sraosha$"
+ omen_sraosha:0 "Sraosha" # [LocEditor:AwaitingBatchUpdate]
+ omen_sraosha_desc:0 "Nous devons presser le peuple d'obéir à Sraosha et collecter la richesse pour améliorer le sort du pays. Et une fois rassemblées toutes ces ressources dont nous avons besoin, nous devrons en faire usage pour entreprendre de grands travaux et assurer la sécurité du pays, pour le bien de tous.\n\nSraosha est connu pour son obéissance et ses actes de bonté, et il est l'un des grands dieux de notre foi. Sa vertu et sa bienveillance sont un exemple à suivre pour tout disciple de Zarathoustra." # [LocEditor:AwaitingBatchUpdate]
+ deity_zoroaster:0 "$omen_zoroaster$"
+ omen_zoroaster:0 "Zarathoustra" # [LocEditor:AwaitingBatchUpdate]
+ omen_zoroaster_desc:0 "Notre peuple fera vivre les visions de Zarathoustra et propagera la vérité aussi loin que porte le regard. Car qui d'autre pourrait arrêter Angra Mainyu et ses daevas ?\n\nZarathoustra a été le premier à enseigner la vérité sur le monde, en tant que prêtre accompli et que vahu manah, un surhomme. Et dès lors qu'il a reçu la révélation, il a répandu le message du bien et de la vérité, tout autant que celui de la libre volonté. Il a ainsi été l'instrument permettant que notre religion s'implante dans tout le monde perse pour au moins un millénaire." # [LocEditor:AwaitingBatchUpdate]
+ deity_tishtrya:0 "$omen_tishtrya$"
+ omen_tishtrya:0 "Tishtrya" # [LocEditor:AwaitingBatchUpdate]
+ omen_tishtrya_desc:0 "Nous devons en appeler à Tishtrya pour qu'il accorde à notre peuple ses pluies porteuses de vie, qui permettront aux récoltes de croître durant de longues années. Les moissons ainsi assurées, le peuple prospérera et s'étendra, en sécurité sous la main protectrice du dieu.\n\nTishtrya est l'une des nombreuses divinités luttant contre les forces d'Angra Mainyu. Il est connu pour apporter les pluies et la fertilité aux peuples et aux régions qu'il protège, en luttant contre le démon Apaosha." # [LocEditor:AwaitingBatchUpdate]
+ deity_ameretat:0 "$omen_haurvatat$"
+ omen_ameretat:0 "Ameretat"
+ omen_ameretat_desc:0 "Nous faisons appel à Ameretat, le Yazata de l'immortalité. Avec son allié Haurvatat, elle donnera à notre peuple l'endurance et la force dont il a besoin pour prospérer." # [LocEditor:AwaitingBatchUpdate]
+ deity_asha:0 "$omen_asha$"
+ omen_asha:0 "Asha"
+ omen_asha_desc:0 "Nous appelons Asha, sur la vérité et le feu pour détecter la vérité et la justice .." # [LocEditor:AwaitingBatchUpdate]
+ deity_anahita:0 "$omen_omen_anahita$"
+ omen_anahita:0 "Anahita"
+ omen_anahita_desc:0 "L'une des Yazatas les plus puissantes, Anahita est associée à la guérison, à la fertilité et à la sagesse. Elle est vénérée depuis longtemps dans tout l'ancien empire perse des Achéménides. Nous appelons Anahita à protéger nos jeunes et à surveiller les fleuves sacrés de notre nation." # [LocEditor:AwaitingBatchUpdate]
+ deity_atar:0 "$omen_atar$"
+ omen_atar:0 "Atar"
+ omen_atar_desc:0 "Le chef des Yazatas Atar est le dieu du feu. La justice est administrée par la chaleur d'Atar, le flamboyant, qui est capable de détecter la culpabilité et de purifier l'homme. Le culte d'Atar est antérieur au zoroastrisme lui-même avec l'épreuve du feu."
+ deity_saoshyant:0 "$omen_saoshyant$"
+ omen_saoshyant:0 "Prophétie du Saoshyant"
+ omen_saoshyant_desc:0 "Les prophéties de Zoroastre révèlent que Celui qui apporte des bénéfices est destiné à conduire les fidèles dans la rénovation finale du monde, où le mal sera détruit et le monde amené dans l'unité éternelle avec le divin.\n\nÀ l'approche des derniers jours, les jeunes filles justes entreront dans l'oasis d'Aris et donneront naissance aux sauveurs de l'humanité." # [LocEditor:AwaitingBatchUpdate]
+
+ ### Hellenistic Omens ###
+ deity_mithra:0 "$omen_mithra$"
+ omen_mithra:0 "Prière à Mithra"
+ omen_mithra_desc:1 "Mithra saura inspirer chez les marchands et négociants l'importance vitale des contrats, et les protéger des actes mauvais des étrangers. Sous sa protection, ils tireront grand profit de leur commerce avec nos voisins et nos alliés.\n\nMithra est la divinité des contrats et le protecteur de la vérité. Si Zarathoustra ne le mentionne pas, il joue un rôle important pour protéger les pâturages, l'irrigation et le bétail dans tout le pays." # [LocEditor:AwaitingBatchUpdate]
+
+# === [LocEditor:OrphanedKeys] Keys that do not exist in English ===
+ omen_daevas:0 "Bataille contre les daevas"
+ omen_daevas_desc:1 "Nous devons renforcer la résolution et la discipline des troupes en leur faisant bien comprendre l'importance cruciale de la lutte contre le mal. À mesure que nous avancerons, nous serons ainsi certains de pouvoir remporter nombre de victoires.\n\t\t\t\t\t\t\t\t\t\tLes daevas sont les esprits malveillants, parfois qualifiés de dieux parmi les étrangers, mais que nous-mêmes rejetons et combattons. Dépourvus de la moindre clémence, ne cherchant qu'à perdre notre peuple, ils sont les faux prêtres et les suppôts du mal, Angra Mainyu."
+ omen_magi:0 "Sagesse des mages"
+ omen_magi_desc:1 "Les sages, les lettrés et les savants doivent tous admirer les mages d'autrefois pour trouver parmi eux l'inspiration et les idées pour accomplir leurs tâches. À mesure que nous progressons, il est important de retenir les leçons du passé, afin d'être assurés de ne pas reproduire les erreurs faites par nos aïeux.\n\t\t\t\t\t\t\t\t\t\tLes mages sont les prêtres du zoroastrisme, chargés de partager les enseignements de Zarathoustra et de guider ses disciples. Ils jouent donc un rôle fondamental dans la société, à la fois en tant que caste et comme missionnaires dans les terres étrangères."
+ omen_yasna:0 "Cérémonie du Yasna"
+ omen_yasna_desc:1 "Nous devons tenir une cérémonie du Yasna afin d'apaiser le peuple et le motiver à respecter les hauts faits de la justice. En récitant tous les vers des Yasna, nous sommes assurés de renforcer Ahura Mazda et d'affaiblir les entités d'Angra Mainyu."

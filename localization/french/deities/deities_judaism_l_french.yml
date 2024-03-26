@@ -1,0 +1,43 @@
+﻿l_french:
+  ## Generic ##
+ deity_deborah:0 "$omen_deborah$"
+ omen_deborah:0 "Prophétie de Débora" # [LocEditor:AwaitingBatchUpdate]
+ omen_deborah_desc:0 "Tout comme Débora a autrefois été guidée par Dieu pour attaquer le roi de Canaan, nous devons être certains de l'issue des combats que nous livrons en refusant d'écouter les faux prophètes et leurs conseils trompeurs.\n\nMais dès lors que nous sommes certains que l'heure de livrer bataille est venue, nous devons alors nous y adonner avec toute la force et la discipline possibles pour nous assurer de la victoire du peuple élu." # [LocEditor:AwaitingBatchUpdate]
+ deity_children_of_god:0 "$omen_children_of_god$"
+ omen_children_of_god:0 "Nation de Dieu"
+ omen_children_of_god_desc:0 "Nous devons en appeler à tous les enfants de Dieu, qu'ils soient jeunes ou vieux, pour qu'ils se rassemblent et assurent la défense du peuple. Avec toutes ces recrues venues de tout le pays pour prendre les armes, nos armées seront assurément plus fortes et plus hardies." # [LocEditor:AwaitingBatchUpdate]
+ deity_samuel:0 "$omen_samuel$"
+ omen_samuel:0 "Vision de Samuel" # [LocEditor:AwaitingBatchUpdate]
+ omen_samuel_desc:0 "Tout comme le grand Samuel a autrefois inspiré et guidé le peuple élu, nous devons le mener avec sagesse. Selon les enseignements de Dieu, nous devons aller de l'avant avec une claire conscience, de manière à ce que chacun de ceux que nous protégeons puisse prospérer." # [LocEditor:AwaitingBatchUpdate]
+ deity_david:0 "$omen_david$"
+ omen_david:1 "Fortune de David" # [LocEditor:AwaitingBatchUpdate]
+ omen_david_desc:0 "Tout comme le grand David lui-même, célèbre pour ses richesses et ses trésors, nous devons tout faire pour nous enrichir. Car pour protéger les fidèles de Dieu et veiller à leur sort, il est crucial de disposer des fonds nécessaires pour rivaliser avec nos voisins, soient-ils amis ou ennemis." # [LocEditor:AwaitingBatchUpdate]
+ deity_solomon:0 "$omen_solomon$"
+ omen_solomon:1 "Sagesse de Salomon" # [LocEditor:AwaitingBatchUpdate]
+ omen_solomon_desc:0 "Si nous ne cherchons pas à porter la guerre et la famine chez nos ennemis, c'est malgré tout un malheur parfois nécessaire pour la sauvegarde de notre peuple. En de telles périodes, nous devons prendre pour modèle la sagesse de Salomon lui-même, de façon à pouvoir résoudre ces crises en en tirant le meilleur parti." # [LocEditor:AwaitingBatchUpdate]
+ deity_caleb_joshua:0 "$omen_caleb_joshua$"
+ omen_caleb_joshua:0 "Prescience de Caleb et Josué" # [LocEditor:AwaitingBatchUpdate]
+ omen_caleb_joshua_desc:0 "Tout comme Caleb et Josué ont bien vu jadis les opportunités là où leurs compagnons ne voyaient qu'adversité, le peuple a besoin que des solutions soient trouvées là où d'autres n'en verraient aucune. Car, aussi longtemps que Dieu sera à nos côtés et que nous suivrons ses enseignements, le succès sera assuré." # [LocEditor:AwaitingBatchUpdate]
+ deity_moses:0 "$omen_moses$"
+ omen_moses:0 "Conduite de Moïse" # [LocEditor:AwaitingBatchUpdate]
+ omen_moses_desc:0 "Tout comme Moïse a autrefois guidé le peuple d'Israël hors d'Égypte, nous devons à notre tour le gouverner avec entendement, selon les paroles de Dieu. Si nous voulons que notre gouvernement soit un succès, la population doit croire en notre capacité à trouver les meilleures solutions pour lui, car ce n'est qu'ainsi qu'il pourra être apaisé et nous écouter." # [LocEditor:AwaitingBatchUpdate]
+ deity_abraham:0 "$omen_abraham$"
+ omen_abraham:1 "Bénédiction d'Abraham"
+ omen_abraham_desc:0 "Abraham est bien connu pour avoir été béni d'une descendance nombreuse par Dieu, en un temps où personne ne croyait qu'un tel miracle pouvait plus advenir. Nous devons prier Dieu de nous bénir de la même façon, de manière à ce que notre peuple retrouve toute sa prospérité." # [LocEditor:AwaitingBatchUpdate]
+ deity_joseph:0 "$omen_joseph$"
+ omen_joseph:0 "Joseph" # [LocEditor:AwaitingBatchUpdate]
+ omen_joseph_desc:0 "La ténacité et l'habileté de Joseph en toutes choses illustrent la valeur du travail acharné et de la persévérance face à l'adversité.\nJoseph repose à Shekhem, à l'ombre du mont Gezerim." # [LocEditor:AwaitingBatchUpdate]
+ deity_esther:0 "$omen_esther$"
+ omen_esther:0 "Esther" # [LocEditor:AwaitingBatchUpdate]
+ omen_esther_desc:0 "La diplomatie et la ruse d'Esther ont conquis le roi perse Xerxès I et ont sauvé notre peuple de la persécution, un véritable exemple pour la diaspora juive.\nOn dit que la tombe d'Esther réside dans l'ancienne capitale perse d'Ekbatana." # [LocEditor:AwaitingBatchUpdate]
+ deity_daniel:0 "$omen_daniel$"
+ omen_daniel:0 "Daniel" # [LocEditor:AwaitingBatchUpdate]
+ omen_daniel_desc:0 "L'habileté de Daniel à interpréter les préceptes de Yahvé inspire à notre peuple la confiance des conseils de Dieu.\nDaniel a servi dans la cour perse et serait enterré à Sousa." # [LocEditor:AwaitingBatchUpdate]
+ deity_ezekiel:0 "$omen_ezekiel$"
+ omen_ezekiel:0 "Ezekiel" # [LocEditor:AwaitingBatchUpdate]
+ omen_ezekiel_desc:0 "Le dévouement d'Ézéchiel à avertir le peuple juif de menaces imminentes rappelle à notre peuple d'être ferme et vigilant.\nEzéchiel a servi dans la cour de Babylone, comme on pense qu'il est enterré à proximité." # [LocEditor:AwaitingBatchUpdate]
+ deity_ezra:0 "$omen_ezra$"
+ omen_ezra:0 "Ezra" # [LocEditor:AwaitingBatchUpdate]
+ omen_ezra_desc:0 "L'adhésion d'Esdras le Scribe est un exemple brillant de s'assurer que les lois sacrées de Dieu sont suivies par la communauté.\nEzra a servi dans la cour d'Artaxerxès I de Perse et serait enterré près d'Apologos." # [LocEditor:AwaitingBatchUpdate]
+
+

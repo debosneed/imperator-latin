@@ -1,0 +1,27 @@
+﻿l_french:
+  ## Default ##
+ deity_targitaos:0 "$omen_targitaos$"
+ omen_targitaos:0 "Targitaos" # [LocEditor:AwaitingBatchUpdate]
+ omen_targitaos_desc:0 "Targitaos est le progéniteur de toutes nos tribus, et un ancêtre que nous continuons de révérer. Car hormis son rôle de fondateur de notre peuple, il est aussi notre protecteur depuis les cieux, et en partie un dieu de la fertilité." # [LocEditor:AwaitingBatchUpdate]
+ deity_goitosyrus:0 "$omen_goitosyrus$"
+ omen_goitosyrus:0 "Oitosyros" # [LocEditor:AwaitingBatchUpdate]
+ omen_goitosyrus_desc:0 "Nous devons demander au dieu la connaissance et le savoir de tout ce qui nous est inconnu. Et, avec ce don d'entendement, nos sages seront certains de pouvoir assurer au peuple la force et une plus grande prospérité." # [LocEditor:AwaitingBatchUpdate]
+ deity_papaios:0 "$omen_papaios$"
+ omen_papaios:0 "Papaios" # [LocEditor:AwaitingBatchUpdate]
+ omen_papaios_desc:0 "Le grand Papaios amènera à notre peuple la richesse et toutes les ressources dont il a besoin. Cette fortune nouvelle garantira le bonheur et la prospérité de tous." # [LocEditor:AwaitingBatchUpdate]
+ deity_thagimasadas:0 "$omen_thagimasadas$"
+ omen_thagimasadas:0 "Thagimasadas" # [LocEditor:AwaitingBatchUpdate]
+ omen_thagimasadas_desc:0 "Le royal Thagimasadas approuvera notre expansion dans les territoires étrangers. Avec lui à nos côtés, nous sommes assurés que le peuple prendra les armes et sera prêt à se battre une fois encore, car qui peut nier la sagesse des dieux ?" # [LocEditor:AwaitingBatchUpdate]
+ deity_api:0 "$omen_api$"
+ omen_api:0 "Apia" # [LocEditor:AwaitingBatchUpdate]
+ omen_api_desc:0 "Apia saura bénir nos marchands d'une abondance de ressources pour en faire commerce. Des marchandises nouvelles, aussi bien sur nos terres qu'à l'étranger, les enrichiront dans toutes leurs entreprises." # [LocEditor:AwaitingBatchUpdate]
+ deity_tabiti:0 "$omen_tabiti$"
+ omen_tabiti:0 "Tabiti" # [LocEditor:AwaitingBatchUpdate]
+ omen_tabiti_desc:0 "Nous devons vénérer la reine des dieux, lui demander sa bénédiction pour que le peuple jouisse de la paix et de la prospérité. Avec Tabiti à nos côtés, le pays sera pacifié et apaisé, nous permettant de consacrer toute notre attention aux ressources se trouvant hors de nos frontières." # [LocEditor:AwaitingBatchUpdate]
+ deity_argimpasa:0 "$omen_argimpasa$"
+ omen_argimpasa:0 "Argimpasa" # [LocEditor:AwaitingBatchUpdate]
+ omen_argimpasa_desc:0 "La grande déesse des cieux accordera à nos récoltes et à notre peuple longue vie et croissance. Ayant reçu son don, nos moissons croîtront, et nos jeunes deviendront forts et puissants." # [LocEditor:AwaitingBatchUpdate]
+
+# === [LocEditor:OrphanedKeys] Keys that do not exist in English ===
+ omen_ares_heptadic:0 "Bénédiction d'Arès"
+ omen_ares_heptadic_desc:1 "Si le dieu de la guerre est une divinité mineure au sein de notre panthéon, il est populaire parmi les troupes. Au contraire de tous nos autres dieux, des temples sont parfois érigés en son honneur, de même que des statues et des icônes à son image."

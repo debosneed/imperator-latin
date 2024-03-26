@@ -1,0 +1,31 @@
+﻿l_french:
+ ## Generic Deities ##
+ deity_zadeni:0 "$omen_zadeni$"
+ omen_zadeni:0 "Zaden" # [LocEditor:AwaitingBatchUpdate]
+ omen_zadeni_desc:0 "Zaden est le dieu de la guerre et de la fertilité, et les hommes en appellent souvent à lui avant de partir au combat. Il est souvent représenté avec une fleur ou une hache dans la main, et accompagné d'un lion ailé. Les Grecs l'identifient à leur Héraclès." # [LocEditor:AwaitingBatchUpdate]
+ deity_armazi:0 "$omen_armazi$"
+ omen_armazi:0 "Armazi" # [LocEditor:AwaitingBatchUpdate]
+ omen_armazi_desc:0 "Armazi est le dieu de la pluie, du tonnerre, des intempéries et de l'abondance. Revêtu d'une armure, l'épée à la main, il est un véritable modèle pour tous ses fidèles. Parmi les zoroastriens il est réputé être Ahura Mazda, tandis que les Grecs l'identifient à Zeus." # [LocEditor:AwaitingBatchUpdate]
+ deity_kopala:0 "$omen_kopala$"
+ omen_kopala:0 "Kopala" # [LocEditor:AwaitingBatchUpdate]
+ omen_kopala_desc:0 "Ce grand héros est révéré par de nombreuses personnes de notre peuple pour ses hauts faits. Parmi ceux-ci, il a vaincu les devebi de son pays, les enfermant sous terre après les avoir vaincus lors un défi puis s'être imposé à eux au combat qui s'ensuivit." # [LocEditor:AwaitingBatchUpdate]
+ deity_gacim:0 "$omen_gacim$"
+ omen_gacim:0 "Gatsi" # [LocEditor:AwaitingBatchUpdate]
+ omen_gacim_desc:0 "Gatsi est le compagnon de Gaïm, et lui-même un dieu de la fertilité. Tous deux sont souvent regardés comme les divinités qui président à tous les mystères du monde, et comme ceux qui décident du destin de chacun. Certains prétendent que Gatsi peut être identifié à l'Attis qui est révéré en Anatolie." # [LocEditor:AwaitingBatchUpdate]
+ deity_ghmerti:0 "$omen_ghmerti$"
+ omen_ghmerti:0 "Ghmerti" # [LocEditor:AwaitingBatchUpdate]
+ omen_ghmerti_desc:0 "Ghmerti est le chef du panthéon des dieux, le premier de toutes nos divinités, et le Seigneur de l'univers. Il est le père du soleil et de la lune, ainsi que de plusieurs autres divinités. Il est le créateur de tout, aussi les vies des hommes et des animaux reposent-elles entre ses mains." # [LocEditor:AwaitingBatchUpdate]
+ deity_ga:0 "$omen_ga$"
+ omen_ga:0 "Gaïm" # [LocEditor:AwaitingBatchUpdate]
+ omen_ga_desc:0 "Gaïm est la compagne de Gatsi, et une déesse mère. Tous deux sont souvent regardés comme les divinités qui président à tous les mystères du monde, et comme ceux qui décident du destin de chacun. Certains prétendent que Gaïm peut être identifiée à la Cybèle qui est révérée en Anatolie." # [LocEditor:AwaitingBatchUpdate]
+ deity_adgilis_deda:0 "$omen_adgilis_deda$"
+ omen_adgilis_deda:0 "Adgilis Deda" # [LocEditor:AwaitingBatchUpdate]
+ omen_adgilis_deda_desc:0 "Adgilis Deda est la déesse de la fertilité et du bétail. Elle préside aussi aux moissons et veille sur les troupeaux des paysans, et protège les voyageurs qui viennent jusqu'à nous. Bien souvent, elle est considérée comme la première divinité de ceux qui vivent dans les montagnes rudes de l'Ibérie." # [LocEditor:AwaitingBatchUpdate]
+ deity_dali:0 "$omen_dali$"
+ omen_dali:0 "Dali" # [LocEditor:AwaitingBatchUpdate]
+ omen_dali_desc:0 "Dali est la déesse de la chasse, une déesse magnifique qui réside dans les montagnes du Caucase. Parmi les chasseurs, elle est la première à laquelle ils demandent d'être autorisés à pénétrer ses domaines, car ce n'est qu'avec son aide qu'ils peuvent trouver la proie qu'ils traquent." # [LocEditor:AwaitingBatchUpdate]
+
+ ## Ainina and Danina, event made omens ##
+ deity_ainina_and_danina:0 "$omen_ainina_and_danina$"
+ omen_ainina_and_danina:0 "Aïnina et Danina" # [LocEditor:AwaitingBatchUpdate]
+ omen_ainina_and_danina_desc:0 "Aïnina et Danina sont deux déesses entrées tardivement dans le panthéon armazique. Elles sont souvent associées à la fertilité, à la guérison et à la sagesse, et font l'objet d'un culte. Parfois, elles sont identifiées à l'Anahit des Arméniens ou à l'Ishtar des habitants des plaines au sud." # [LocEditor:AwaitingBatchUpdate]

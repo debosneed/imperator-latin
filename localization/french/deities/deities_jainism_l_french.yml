@@ -1,0 +1,41 @@
+﻿l_french:
+  ## Generic ##
+ deity_diwali:0 "$omen_diwali$"
+ omen_diwali:0 "Fête de Divali"
+ omen_diwali_desc:0 "Une grande fête des lumières permettrait d'inspirer les troupes alors qu'elles s'apprêtent à partir au combat. S'il n'est jamais bénéfique d'être contraint à la guerre et à la violence, c'est là un mal nécessaire pour protéger notre mode de vie." # [LocEditor:AwaitingBatchUpdate]
+ deity_satya:0 "$omen_satya$"
+ omen_satya:0 "Satya"
+ omen_satya_desc:0 "La vérité est l'un des fondements du jaïnisme, aussi devons-nous nous montrer honnêtes et sincères lorsque nous recrutons les jeunes hommes du pays pour qu'ils aillent à la guerre. Ainsi, lorsqu'ils se rassemblent derrière nos bannières, nous sommes assurés de disposer de plus d'hommes." # [LocEditor:AwaitingBatchUpdate]
+ deity_paryushana:0 "$omen_paryushana$"
+ omen_paryushana:0 "Fête de Paryushana"
+ omen_paryushana_desc:0 "Nous devons organiser une grande fête pour Paryushana, digne d'inspirer le peuple à étudier, de manière à ce que l'ensemble de la société développe un plus grand entendement et la sagesse. Le pays et la communauté pourront alors aller de l'avant, en ayant redéfini leurs priorités." # [LocEditor:AwaitingBatchUpdate]
+ deity_aparigraha:0 "$omen_aparigraha$"
+ omen_aparigraha:0 "Volonté d'aparigraha"
+ omen_aparigraha_desc:0 "Le « renoncement à la fortune » est un aspect central dans le jaïnisme, et nous devons enseigner au peuple sa grande importance. Car c'est en l'habituant à renoncer à la richesse matérielle que nous pourrons collecter davantage de taxes, nécessaires au bien commun." # [LocEditor:AwaitingBatchUpdate]
+ deity_ahimsa:0 "$omen_ahimsa$"
+ omen_ahimsa:0 "Volonté d'ahimsa"
+ omen_ahimsa_desc:0 "La non-violence est un pilier du jaïnisme, aussi devons-nous mener une grande cérémonie pour commémorer la fin de la violence de notre pays. Il est temps pour le peuple de trouver la paix, et de renoncer aux querelles et au combat." # [LocEditor:AwaitingBatchUpdate]
+ deity_roth_teej:0 "$omen_roth_teej$"
+ omen_roth_teej:0 "Roth Teej"
+ omen_roth_teej_desc:0 "Une grande cérémonie de Roth Teej permettra de mettre en avant l'importance pour les fidèles du renoncement à la possession matérielle. Ainsi, lorsqu'ils abandonneront toute avidité pour les richesses afin de se soucier uniquement du bien du pays, l'or circulera avec une plus grande fluidité entre les différentes parties." # [LocEditor:AwaitingBatchUpdate]
+ deity_arghya:0 "$omen_arghya$"
+ omen_arghya:0 "Cérémonie de l'arghya"
+ omen_arghya_desc:0 "Le rituel de l'arghya permet aux fidèles d'offrir différents objets pour se libérer du samsara, le cycle de la réincarnation. Le peuple sera apaisé s'il sait qu'il s'approche du Nirvana." # [LocEditor:AwaitingBatchUpdate]
+ deity_mahavir_jayanti:0 "$omen_mahavir_jayanti$"
+ omen_mahavir_jayanti:0 "Jayanti de Mahavir" # [LocEditor:AwaitingBatchUpdate]
+ omen_mahavir_jayanti_desc:0 "Nous devons organiser une grande cérémonie pour célébrer la naissance du dernier tirthankara, le prophète Mahavira. Car c'est toujours notre espoir, en l'honorant et en racontant les légendes entourant sa naissance, que nous connaîtrons la même prospérité que le Vrijji de son temps." # [LocEditor:AwaitingBatchUpdate]
+ deity_bhadrabahu:0 "$omen_bhadrabahu$"
+ omen_bhadrabahu:0 "Sagesse de Bhadrabahu"
+ omen_bhadrabahu_desc:0 "Dernier à recevoir indirectement les enseignements du jaïnisme à travers les tirthenkaras, l'apprentissage approfondi de Bhadrabahu a façonné le jaïnisme contemporain.\nBhadrabahu a migré avec des milliers d'adeptes à Belgola depuis le nord et a créé une grande école et un temple." # [LocEditor:AwaitingBatchUpdate]
+ deity_rishabhanatha:0 "$omen_rishabhanatha$"
+ omen_rishabhanatha:0 "Les enseignements de Rishabhanatha"
+ omen_rishabhanatha_desc:0 "Les conseils du grand fabricant de gué continuent d'aider notre peuple à échapper à la réincarnation interminable, inspirant l'adhésion à ses sages enseignements et à sa discipline.\nLe 1er tirthenkara, Rishabhanatha aurait prononcé son premier sermon sur la colline de Shatrunjaya." # [LocEditor:AwaitingBatchUpdate]
+ deity_rishabhanatha_moksha:0 "$omen_rishabhanatha_moksha$"
+ omen_rishabhanatha_moksha:0 "Moksha de Rishabhanatha"
+ omen_rishabhanatha_moksha_desc:0 "Le magnifique exemple de renonciation de Rishabhanatha afin d'acquérir la sagesse et le moksha inspire notre peuple à vivre une vie bonne et paisible.\nLe 1er tirthenkara, Rishabhanatha aurait atteint le moksha, le salut, sur le mont Kailash." # [LocEditor:AwaitingBatchUpdate]
+ deity_neminatha:0 "$omen_neminatha$"
+ omen_neminatha:0 "Moksha de Neminath"
+ omen_neminatha_desc:0 "Le cousin de Krishna nous montre que même le divin doit suivre les enseignements du jaïnisme pour être libéré du cycle de la mort.\nLe 22ème tirthenkara, Neminatha aurait atteint moksha, salut, sur le mont Girnar." # [LocEditor:AwaitingBatchUpdate]
+ deity_parshvanatha:0 "$omen_parshvanatha$"
+ omen_parshvanatha:0 "Moksha de Parshwanatha"
+ omen_parshvanatha_desc:0 "Parshvanatha nous enseigne que la retenue est nécessaire pour vivre une bonne vie, en évitant de posséder des biens, de voler et de mentir.\nLe 24ème tirthenkara, Parshvanatha aurait atteint le moksha, le salut, sur la colline de Parasnath à Jharkhand." # [LocEditor:AwaitingBatchUpdate]

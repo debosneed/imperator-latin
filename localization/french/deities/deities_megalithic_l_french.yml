@@ -1,0 +1,17 @@
+﻿l_french:
+ ## Generic ##
+ deity_sinifere:0 "$omen_sinifere$"
+ omen_sinifere:0 "Siniféré" # [LocEditor:AwaitingBatchUpdate]
+ omen_sinifere_desc:0 "Sous la protection de Siniféré, nos guerriers auront la force et la résolution. Avec le secours du dieu, ils seront assurés de la victoire, et de vaincre et conquérir tous nos ennemis." # [LocEditor:AwaitingBatchUpdate]
+ deity_gurzil:0 "$omen_gurzil$"
+ omen_gurzil:0 "Gurzil" # [LocEditor:AwaitingBatchUpdate]
+ omen_gurzil_desc:0 "Avec la bénédiction du dieu-soleil, le guerrier Gurzil, jeunes et vieux se rassembleront autour de nos bannières pour combattre nos ennemis. Avec toutes ces recrues nouvelles, nous serons assurés de gonfler nos troupes au-delà de ce que nous pouvons imaginer, et nous serons prêts à faire face à quelque danger qui se dresserait face à nous." # [LocEditor:AwaitingBatchUpdate]
+ deity_tannit:0 "$omen_tannit$"
+ omen_tannit:0 "Tanit" # [LocEditor:AwaitingBatchUpdate]
+ omen_tannit_desc:0 "La grande fileuse Tanit nous assurera de sa sagesse, accordant le don de la connaissance à nos sages et nos savants. Avec leurs connaissances nouvelles, ils pourront faire avancer le pays et faire découvrir à notre peuple de grandes idées et bien des novations.\n\nSi elle était à l'origine une déesse d'origine carthaginoise, Tanit a été adoptée de tous, depuis la Libye jusqu'à la Maurétanie." # [LocEditor:AwaitingBatchUpdate]
+ deity_shaheded:0 "$omen_shaheded$"
+ omen_shaheded:0 "Shaheded" # [LocEditor:AwaitingBatchUpdate]
+ omen_shaheded_desc:0 "La grande déesse de la mer protégera et regardera avec faveur nos marchands et nos négociants lorsqu'ils quitteront leurs foyers pour trouver des richesses. Tous ces trésors, ils les ramèneront des contrées lointaines pour en faire bénéficier tout le pays.\n\nShaheded était à l'origine révérée dans les régions proches de la Libye, mais avec le temps ses fidèles sont parvenus à étendre sa réputation." # [LocEditor:AwaitingBatchUpdate]
+ deity_nanna_tala:0 "$omen_nanna_tala$"
+ omen_nanna_tala:0 "Nanna Tala" # [LocEditor:AwaitingBatchUpdate]
+ omen_nanna_tala_desc:0 "La grande déesse du printemps amènera le salut et la prospérité sur notre peuple, apaisant nos conflits fratricides et nos désaccords. Le pays pacifié, nous pourrons alors consacrer toute notre attention aux ennemis au-delà des frontières, plutôt qu'à ceux qui se trouvaient parmi nous.\n\nDe nombreux mythes circulent sur cette femme qui est aujourd'hui la déesse. Certains récits disent qu'elle et son enfant ont sacrifié leurs vies pour trouver de l'eau pour leur peuple, et que les justes peuvent toujours l'appeler pour qu'elle apaise leur soif dans les moments d'épreuve." # [LocEditor:AwaitingBatchUpdate]

@@ -1,0 +1,34 @@
+﻿l_french:
+ ## Default ##
+ deity_semnocosus:0 "$omen_semnocosus$"
+ omen_semnocosus:0 "Semnocosus" # [LocEditor:AwaitingBatchUpdate]
+ omen_semnocosus_desc:4 "Semnocosus est un dieu de la guerre ibérique, révéré par de nombreuses tribus de la région. Il est particulièrement populaire chez les soldats et guerriers, qui parfois sacrifient en son honneur des prisonniers et des esclaves."
+ deity_candamius:0 "$omen_candamius$"
+ omen_candamius:0 "Candamius" # [LocEditor:AwaitingBatchUpdate]
+ omen_candamius_desc:4 "Candamius est un dieu du ciel propre aux tribus ibériques, et l'une de leurs premières divinités. Il est souvent associé ou confondu par les Romains avec leur propre dieu du ciel, Jupiter, et dans certains cas même, par syncrétisme, le nom de Candamius est utilisé comme épithète pour Jupiter Candamius."
+ deity_endouellicus:0 "$omen_endouellicus$"
+ omen_endouellicus:0 "Andovellicos" # [LocEditor:AwaitingBatchUpdate]
+ omen_endouellicus_desc:0 "$endouellicus_description$" # [LocEditor:AwaitingBatchUpdate]
+ endouellicus_description:0 "Andovellicos est un dieu de la terre doué de visions prophétiques, dont il accepte de partager certaines avec ses fidèles. Nombreux aussi sont ceux qui demandent sa bénédiction dans l'espoir d'avoir une bonne santé, de bonnes récoltes ou que leurs proches soient paisibles après leur mort.\n\nCe dieu est parfois associé avec le Sérapis des Gréco-Égyptiens ou le romain Esculape."
+ deity_dercetius:0 "$omen_dercetius$"
+ omen_dercetius:0 "Dercétius" # [LocEditor:AwaitingBatchUpdate]
+ omen_dercetius_desc:4 "Dercétius est un dieu de la montagne révéré par certaines tribus ibériques, notamment dans les régions proches de la Gallécie et de la Lusitanie. Il est souvent associé aux richesses minérales que l'on peut trouver dans le sol."
+ deity_eacus:0 "$omen_eacus$"
+ omen_eacus:0 "Éacus" # [LocEditor:AwaitingBatchUpdate]
+ omen_eacus_desc:4 "Éacus est le dieu du temps parmi de nombreuses tribus ibériques, qui font appel à lui pour la pluie et la fertilité. Il est souvent associé aux dieux du temps d'autres religions, que ce soit Jupiter, Zeus ou Ba'l."
+ deity_ataecina:0 "$omen_ataecina$"
+ omen_ataecina:0 "Ataégina" # [LocEditor:AwaitingBatchUpdate]
+ omen_ataecina_desc:4 "Ataégina est regardée comme la déesse du monde souterrain par les peuples d'Ibérie, qui la lient aux saisons. Il est souvent fait appel à elle à l'approche du printemps, car les tribus croient que c'est elle qui assure la vitalité au commencement de chaque année. Parmi les Grecs elle est connue sous le nom de Perséphone, leur propre déesse des saisons et du monde souterrain."
+ deity_duillae:0 "$omen_duillae$"
+ omen_duillae:0 "Les Duillae" # [LocEditor:AwaitingBatchUpdate]
+ omen_duillae_desc:4 "Ces divinités sont plusieurs déesses-mères révérées collectivement par les peuples d'Ibérie. Elles sont associées à la fertilité, à la verdure et à la végétation, et souvent représentées sous la forme de plusieurs femmes assises ensemble. Elles sont parfois associées avec les déesses-mères de Gaule et de Germanie."
+ deity_cariocecus:0 "$omen_cariocecus$"
+ omen_cariocecus:0 "Cariocecus"
+ omen_cariocecus_desc:0 "Cariocecus est un dieu de la guerre vénéré par les tribus ibériques. Il est associé aux sacrifices d'hommes autant que d'animaux, et il se dit que ses prêtres peuvent prédire l'avenir selon ce qu'ils voient lorsque les entrailles tombent du corps."
+ deity_betatun:0 "$omen_betatun$"
+ omen_betatun:0 "Betatun"
+ omen_betatun_desc:0 "Betatun est l'une des nombreuses déesses des peuples ibériques, et est révérée dans toute la péninsule. Il s'agit d'une déesse guérisseuse, et ses propres oracles sont supposés voir l'avenir pour ses fidèles. Elle est populaire jusqu'au-delà de sa terre natale."
+
+# === [LocEditor:OrphanedKeys] Keys that do not exist in English ===
+ omen_melqart_iberic:0 "Bénédiction de Melqart"
+ omen_melqart_iberic_desc:1 "Le dieu voyageur des Phéniciens saura protéger et secourir nos marchands alors qu'ils se rendent jusqu'en des contrées lointaines. Et à mesure qu'ils s'enrichiront de leur commerce, ils pourront ramener au pays les fortunes qu'ils auront faites là-bas.\n\t\t\t\t\t\t\t\t\t\tMême si Melqart était à l'origine le dieu protecteur de la cité de Tyr, il est fameux dans tout le monde connu des Phéniciens, tout particulièrement chez ceux avec qui ils font commerce et entretiennent des liens d'amitié."

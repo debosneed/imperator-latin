@@ -1,0 +1,29 @@
+﻿l_french:
+
+ ## Dacian Deities ##
+ deity_pleistoros:0 "$omen_pleistoros$"
+ omen_pleistoros:0 "Plistore" # [LocEditor:AwaitingBatchUpdate]
+ omen_pleistoros_desc:4 "Plistore est un dieu de la guerre brutal, révéré par les tribus daces qui lui sacrifient régulièrement esclaves et prisonniers de guerre en son honneur dans l'espoir qu'il continuera de les favoriser lors de leurs nombreux combats."
+ deity_zalmoxis:0 "$omen_zalmoxis$"
+ omen_zalmoxis:0 "Zalmoxis" # [LocEditor:AwaitingBatchUpdate]
+ omen_zalmoxis_desc:4 "Zalmoxis, ou Gebeleizis comme certains l'appellent, était un sage qui est parvenu à convaincre les Daces d'adopter ses croyances et sa foi. Si l'on suppose qu'il s'agissait au départ d'un homme, les tribus le vénèrent désormais comme un être divin qui guide les défunts, ce qui en fait une divinité psychopompe."
+
+ ## Thracian Deities ##
+ deity_sabazios:0 "$omen_sabazios$"
+ omen_sabazios:0 "Sabazios" # [LocEditor:AwaitingBatchUpdate]
+ omen_sabazios_desc:4 "Sabazios est l'un des nombreux dieux de la guerre vénérés par les tribus de Thrace, mais il s'agit de la seule divinité thrace à avoir un culte loin de sa terre natale. Celui-ci s'est en effet répandu jusque sur les territoires phrygiens et lydiens. Certains récits le dépeignent comme un cavalier thrace, et il est célèbre jusque loin des côtes de cette région."
+ deity_derzelas:0 "$omen_derzelas$"
+ omen_derzelas:0 "Derzelas" # [LocEditor:AwaitingBatchUpdate]
+ omen_derzelas_desc:4 "Derzelas est révéré parmi les Thraces, qui le considèrent comme le dieu du monde souterrain, de l'abondance et de la santé. Il est souvent représenté avec une corne d'abondance, symbolisant son rôle de pourvoyeur pour les tribus. Ses fidèles organisent des jeux en son honneur, similaires à ceux, célèbres, des Grecs."
+ deity_zibelthiurdos:0 "$omen_zibelthiurdos$"
+ omen_zibelthiurdos:0 "Zibelthiurdos" # [LocEditor:AwaitingBatchUpdate]
+ omen_zibelthiurdos_desc:4 "Zibelthiurdos est le dieu du ciel, du tonnerre et de la pluie, et de nombreux Grecs le perçoivent comme un Zeus thrace. Il est souvent représenté avec un foudre, et il s'agit de l'une des principales divinités des tribus thraces."
+ deity_bassareus:0 "$omen_bassareus$"
+ omen_bassareus:0 "Bassareus" # [LocEditor:AwaitingBatchUpdate]
+ omen_bassareus_desc:4 "$dionysus_description$"
+ deity_bendis:0 "$omen_bendis$"
+ omen_bendis:0 "Bendis" # [LocEditor:AwaitingBatchUpdate]
+ omen_bendis_desc:4 "Bendis est la déesse thrace de la chasse et de l'abondance, souvent accompagnée et représentée avec des satyres ou des ménades. Elle est parfois associée par les Grecs à leur déesse Artémis, une autre déesse chasseresse, même si elle est récemment devenue populaire par elle-même dans sa propre région. Des fêtes, les Bendideia, sont organisées en son honneur."
+ deity_semele:0 "$omen_semele$"
+ omen_semele:0 "Sémélé" # [LocEditor:AwaitingBatchUpdate]
+ omen_semele_desc:4 "Sémélé est une déesse-mère révérée dans toute la Thrace, et la mère de Bassareus. Certains prétendent que son culte est né en Phrygie, mais depuis s'y sont mêlés de nombreux éléments d'inspiration grecque et thrace, où elle est maintenant révérée. Elle est souvent vénérée en même temps que son fils, qu'il soit Bassareus pour les Thraces ou Dionysos pour les Grecs."
